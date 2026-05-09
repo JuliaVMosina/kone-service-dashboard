@@ -1,0 +1,2001 @@
+equipment_id,region,country,equipment_type,building_type,installation_year,equipment_age,contract_type,is_connected_2023,is_connected_2025
+EQ00001,Greater China,China,Autowalk,Residential,2017,8,Full Maintenance,True,True
+EQ00002,APMEA,Saudi Arabia,Elevator,Residential,2005,20,Full Maintenance,False,True
+EQ00003,Americas,Brazil,Elevator,Commercial,2023,2,Full Maintenance,True,True
+EQ00004,Europe,France,Autowalk,Commercial,2023,2,Repair Only,False,False
+EQ00005,Greater China,China,Elevator,Residential,2013,12,Basic Maintenance,False,False
+EQ00006,Greater China,China,Automatic Door,Public / Transport,2022,3,Full Maintenance,False,False
+EQ00007,Greater China,China,Elevator,Commercial,2017,8,Full Maintenance,True,False
+EQ00008,APMEA,Saudi Arabia,Elevator,Residential,2011,14,Full Maintenance,False,True
+EQ00009,Europe,Poland,Autowalk,Public / Transport,2000,25,Basic Maintenance,True,True
+EQ00010,Americas,Mexico,Elevator,Commercial,2008,17,Full Maintenance,False,True
+EQ00011,Greater China,China,Automatic Door,Commercial,2011,14,Full Maintenance,False,False
+EQ00012,APMEA,Australia,Automatic Door,Residential,2020,5,Full Maintenance,True,False
+EQ00013,Americas,Mexico,Elevator,Residential,2009,16,Basic Maintenance,False,True
+EQ00014,Greater China,China,Elevator,Commercial,2021,4,Full Maintenance,False,True
+EQ00015,Greater China,China,Elevator,Residential,2015,10,Basic Maintenance,False,True
+EQ00016,Greater China,China,Elevator,Residential,1999,26,Full Maintenance,False,False
+EQ00017,Greater China,China,Elevator,Residential,2024,1,Full Maintenance,False,True
+EQ00018,Europe,Poland,Elevator,Commercial,2010,15,Full Maintenance,False,True
+EQ00019,Europe,Germany,Elevator,Residential,2006,19,Full Maintenance,False,True
+EQ00020,Greater China,China,Elevator,Public / Transport,2014,11,Full Maintenance,False,False
+EQ00021,Europe,Finland,Automatic Door,Healthcare,1998,27,Full Maintenance,True,False
+EQ00022,Greater China,China,Escalator,Public / Transport,2014,11,Full Maintenance,False,False
+EQ00023,Greater China,China,Escalator,Residential,2009,16,Full Maintenance,False,False
+EQ00024,Greater China,China,Elevator,Residential,2007,18,Full Maintenance,False,False
+EQ00025,Europe,Sweden,Escalator,Residential,2023,2,Repair Only,False,False
+EQ00026,Americas,Canada,Elevator,Commercial,2010,15,Full Maintenance,False,True
+EQ00027,Greater China,China,Escalator,Commercial,2001,24,Basic Maintenance,False,False
+EQ00028,Europe,Netherlands,Automatic Door,Industrial,2008,17,Full Maintenance,False,False
+EQ00029,Europe,Finland,Elevator,Commercial,2022,3,Full Maintenance,True,True
+EQ00030,Greater China,China,Escalator,Commercial,2000,25,Full Maintenance,False,False
+EQ00031,Europe,Sweden,Escalator,Healthcare,2001,24,Full Maintenance,True,True
+EQ00032,Greater China,China,Autowalk,Commercial,1995,30,Full Maintenance,True,True
+EQ00033,Greater China,China,Escalator,Commercial,1995,30,Full Maintenance,False,True
+EQ00034,APMEA,Saudi Arabia,Elevator,Commercial,2019,6,Basic Maintenance,False,True
+EQ00035,APMEA,UAE,Elevator,Residential,2016,9,Full Maintenance,False,False
+EQ00036,Americas,Mexico,Elevator,Residential,2005,20,Full Maintenance,False,False
+EQ00037,Greater China,China,Escalator,Residential,2015,10,Full Maintenance,False,False
+EQ00038,Greater China,China,Elevator,Residential,2006,19,Basic Maintenance,False,False
+EQ00039,Americas,Canada,Autowalk,Public / Transport,2023,2,Basic Maintenance,False,True
+EQ00040,Europe,Germany,Elevator,Public / Transport,2024,1,Full Maintenance,True,False
+EQ00041,Greater China,China,Elevator,Healthcare,2006,19,Full Maintenance,True,False
+EQ00042,Europe,France,Elevator,Public / Transport,2020,5,Full Maintenance,False,True
+EQ00043,Greater China,China,Escalator,Residential,2018,7,Full Maintenance,False,False
+EQ00044,APMEA,India,Elevator,Commercial,2004,21,Basic Maintenance,False,False
+EQ00045,Greater China,China,Elevator,Commercial,2001,24,Basic Maintenance,False,False
+EQ00046,Americas,USA,Elevator,Commercial,2008,17,Full Maintenance,False,True
+EQ00047,Greater China,China,Elevator,Industrial,2018,7,Full Maintenance,True,True
+EQ00048,Europe,Netherlands,Elevator,Public / Transport,2023,2,Basic Maintenance,True,False
+EQ00049,Europe,Germany,Escalator,Residential,2017,8,Full Maintenance,False,False
+EQ00050,Greater China,China,Elevator,Commercial,2020,5,Full Maintenance,False,True
+EQ00051,APMEA,India,Elevator,Residential,2013,12,Basic Maintenance,True,False
+EQ00052,Americas,Brazil,Escalator,Healthcare,2020,5,Full Maintenance,False,True
+EQ00053,APMEA,Australia,Automatic Door,Residential,2018,7,Full Maintenance,False,True
+EQ00054,APMEA,UAE,Elevator,Public / Transport,2006,19,Full Maintenance,False,True
+EQ00055,Europe,Netherlands,Elevator,Public / Transport,2011,14,Basic Maintenance,True,False
+EQ00056,APMEA,South Korea,Autowalk,Healthcare,2019,6,Full Maintenance,False,True
+EQ00057,Greater China,China,Automatic Door,Public / Transport,1996,29,Repair Only,True,True
+EQ00058,Greater China,China,Escalator,Industrial,2019,6,Basic Maintenance,False,False
+EQ00059,Greater China,China,Elevator,Commercial,2000,25,Full Maintenance,False,False
+EQ00060,Greater China,China,Elevator,Commercial,2010,15,Full Maintenance,False,True
+EQ00061,Greater China,China,Escalator,Residential,2019,6,Full Maintenance,False,True
+EQ00062,Greater China,China,Elevator,Commercial,2002,23,Full Maintenance,True,False
+EQ00063,Americas,Canada,Elevator,Healthcare,2002,23,Basic Maintenance,True,False
+EQ00064,Greater China,China,Escalator,Commercial,2007,18,Basic Maintenance,False,True
+EQ00065,Greater China,China,Escalator,Public / Transport,2021,4,Full Maintenance,True,False
+EQ00066,Europe,Germany,Elevator,Residential,1995,30,Basic Maintenance,True,True
+EQ00067,Greater China,China,Escalator,Residential,2022,3,Full Maintenance,False,False
+EQ00068,Americas,Mexico,Elevator,Healthcare,1999,26,Basic Maintenance,False,False
+EQ00069,Greater China,China,Elevator,Residential,2024,1,Basic Maintenance,False,False
+EQ00070,APMEA,India,Escalator,Residential,2023,2,Full Maintenance,True,True
+EQ00071,Americas,USA,Elevator,Commercial,2009,16,Full Maintenance,False,False
+EQ00072,Greater China,China,Elevator,Industrial,2010,15,Basic Maintenance,False,False
+EQ00073,Greater China,China,Automatic Door,Commercial,2009,16,Basic Maintenance,False,False
+EQ00074,Americas,Canada,Elevator,Residential,2014,11,Full Maintenance,True,False
+EQ00075,Americas,USA,Elevator,Residential,1997,28,Full Maintenance,False,True
+EQ00076,Americas,Canada,Automatic Door,Industrial,1995,30,Basic Maintenance,False,False
+EQ00077,Americas,USA,Escalator,Industrial,1996,29,Full Maintenance,False,False
+EQ00078,Greater China,China,Escalator,Residential,2008,17,Full Maintenance,False,False
+EQ00079,Greater China,China,Autowalk,Residential,2003,22,Full Maintenance,True,False
+EQ00080,Greater China,China,Elevator,Public / Transport,2013,12,Full Maintenance,True,False
+EQ00081,APMEA,UAE,Escalator,Residential,2024,1,Full Maintenance,False,True
+EQ00082,Europe,Germany,Elevator,Residential,2006,19,Repair Only,False,False
+EQ00083,Greater China,China,Escalator,Residential,2012,13,Basic Maintenance,False,False
+EQ00084,Greater China,China,Elevator,Public / Transport,2007,18,Full Maintenance,False,False
+EQ00085,Greater China,China,Elevator,Residential,2020,5,Full Maintenance,False,False
+EQ00086,Greater China,China,Elevator,Residential,2022,3,Full Maintenance,False,False
+EQ00087,Americas,USA,Elevator,Industrial,2021,4,Full Maintenance,True,True
+EQ00088,Europe,Finland,Escalator,Residential,2024,1,Repair Only,False,True
+EQ00089,APMEA,UAE,Elevator,Commercial,1995,30,Full Maintenance,False,True
+EQ00090,Europe,France,Elevator,Residential,2020,5,Repair Only,True,False
+EQ00091,Greater China,China,Elevator,Industrial,2017,8,Full Maintenance,False,True
+EQ00092,Americas,USA,Elevator,Healthcare,2001,24,Basic Maintenance,False,True
+EQ00093,Americas,USA,Escalator,Residential,2023,2,Full Maintenance,False,False
+EQ00094,Europe,Netherlands,Escalator,Residential,1999,26,Full Maintenance,False,False
+EQ00095,Americas,USA,Escalator,Commercial,2015,10,Full Maintenance,False,False
+EQ00096,Europe,Sweden,Autowalk,Public / Transport,2001,24,Basic Maintenance,True,False
+EQ00097,Europe,Finland,Escalator,Public / Transport,2007,18,Basic Maintenance,False,False
+EQ00098,Europe,Finland,Elevator,Commercial,2016,9,Basic Maintenance,False,True
+EQ00099,Greater China,China,Escalator,Commercial,2011,14,Basic Maintenance,False,False
+EQ00100,Greater China,China,Autowalk,Industrial,2007,18,Basic Maintenance,True,True
+EQ00101,Greater China,China,Elevator,Residential,2004,21,Full Maintenance,True,False
+EQ00102,Europe,Germany,Escalator,Residential,2020,5,Full Maintenance,False,False
+EQ00103,Greater China,China,Escalator,Commercial,1999,26,Basic Maintenance,False,False
+EQ00104,Europe,Sweden,Elevator,Commercial,2007,18,Basic Maintenance,False,False
+EQ00105,APMEA,Saudi Arabia,Elevator,Residential,2022,3,Basic Maintenance,False,True
+EQ00106,Greater China,China,Elevator,Industrial,2020,5,Full Maintenance,False,False
+EQ00107,Europe,Germany,Automatic Door,Residential,2007,18,Full Maintenance,False,True
+EQ00108,Americas,USA,Escalator,Residential,2017,8,Repair Only,False,False
+EQ00109,Greater China,China,Elevator,Commercial,2019,6,Basic Maintenance,False,False
+EQ00110,Greater China,China,Autowalk,Residential,2021,4,Full Maintenance,True,False
+EQ00111,Greater China,China,Elevator,Commercial,2011,14,Basic Maintenance,False,False
+EQ00112,Greater China,China,Elevator,Residential,2001,24,Repair Only,False,False
+EQ00113,APMEA,India,Escalator,Industrial,2002,23,Full Maintenance,False,True
+EQ00114,Americas,USA,Escalator,Commercial,2003,22,Basic Maintenance,True,True
+EQ00115,Europe,Sweden,Elevator,Commercial,2012,13,Repair Only,False,False
+EQ00116,APMEA,South Korea,Elevator,Commercial,1995,30,Repair Only,False,False
+EQ00117,Americas,Canada,Elevator,Residential,2014,11,Repair Only,False,False
+EQ00118,Greater China,China,Elevator,Public / Transport,2005,20,Full Maintenance,True,False
+EQ00119,APMEA,Saudi Arabia,Elevator,Commercial,2003,22,Full Maintenance,False,True
+EQ00120,Europe,Germany,Elevator,Healthcare,2021,4,Full Maintenance,False,True
+EQ00121,Americas,Brazil,Elevator,Commercial,2008,17,Full Maintenance,False,True
+EQ00122,APMEA,India,Elevator,Public / Transport,1997,28,Full Maintenance,True,False
+EQ00123,Greater China,China,Elevator,Residential,2019,6,Full Maintenance,False,True
+EQ00124,Greater China,China,Elevator,Industrial,1996,29,Full Maintenance,True,True
+EQ00125,Greater China,China,Autowalk,Residential,2016,9,Full Maintenance,True,False
+EQ00126,Europe,Poland,Escalator,Residential,2018,7,Full Maintenance,False,True
+EQ00127,Americas,USA,Elevator,Public / Transport,2005,20,Basic Maintenance,False,False
+EQ00128,APMEA,India,Elevator,Public / Transport,2019,6,Full Maintenance,False,False
+EQ00129,Greater China,China,Elevator,Residential,2010,15,Basic Maintenance,False,False
+EQ00130,Europe,Germany,Elevator,Commercial,2008,17,Full Maintenance,False,False
+EQ00131,Europe,Poland,Elevator,Commercial,1996,29,Full Maintenance,False,False
+EQ00132,Greater China,China,Elevator,Public / Transport,2003,22,Repair Only,True,True
+EQ00133,Greater China,China,Elevator,Residential,2022,3,Full Maintenance,False,True
+EQ00134,Greater China,China,Escalator,Residential,2006,19,Full Maintenance,False,True
+EQ00135,APMEA,Australia,Elevator,Industrial,2011,14,Full Maintenance,False,True
+EQ00136,Greater China,China,Elevator,Public / Transport,2010,15,Full Maintenance,False,False
+EQ00137,Europe,Finland,Escalator,Residential,2012,13,Full Maintenance,False,True
+EQ00138,Americas,Canada,Elevator,Public / Transport,1996,29,Full Maintenance,False,False
+EQ00139,Greater China,China,Elevator,Public / Transport,2005,20,Full Maintenance,False,True
+EQ00140,APMEA,South Korea,Elevator,Residential,2016,9,Repair Only,True,False
+EQ00141,APMEA,South Korea,Elevator,Commercial,2001,24,Basic Maintenance,False,False
+EQ00142,Greater China,China,Escalator,Public / Transport,2001,24,Full Maintenance,False,False
+EQ00143,Europe,Germany,Elevator,Residential,1995,30,Full Maintenance,True,False
+EQ00144,Greater China,China,Elevator,Healthcare,2008,17,Full Maintenance,True,True
+EQ00145,Greater China,China,Elevator,Commercial,2021,4,Full Maintenance,False,False
+EQ00146,Greater China,China,Elevator,Commercial,1996,29,Full Maintenance,False,True
+EQ00147,Europe,Poland,Autowalk,Healthcare,2000,25,Basic Maintenance,False,True
+EQ00148,Europe,Finland,Escalator,Residential,2004,21,Full Maintenance,True,False
+EQ00149,Greater China,China,Elevator,Residential,2016,9,Basic Maintenance,False,True
+EQ00150,Greater China,China,Elevator,Public / Transport,2014,11,Full Maintenance,False,False
+EQ00151,APMEA,Australia,Elevator,Industrial,2007,18,Repair Only,True,True
+EQ00152,Greater China,China,Autowalk,Residential,2017,8,Basic Maintenance,True,False
+EQ00153,Greater China,China,Elevator,Commercial,2013,12,Basic Maintenance,False,False
+EQ00154,Europe,Germany,Elevator,Public / Transport,2021,4,Full Maintenance,False,False
+EQ00155,APMEA,Australia,Elevator,Public / Transport,2019,6,Repair Only,False,False
+EQ00156,Greater China,China,Elevator,Commercial,2002,23,Basic Maintenance,False,False
+EQ00157,Americas,Mexico,Elevator,Public / Transport,2003,22,Basic Maintenance,True,False
+EQ00158,Americas,Mexico,Elevator,Public / Transport,1998,27,Full Maintenance,False,True
+EQ00159,Greater China,China,Elevator,Residential,2005,20,Basic Maintenance,False,False
+EQ00160,Americas,Brazil,Elevator,Industrial,2024,1,Full Maintenance,True,True
+EQ00161,Greater China,China,Elevator,Residential,2007,18,Basic Maintenance,False,True
+EQ00162,Europe,Sweden,Autowalk,Commercial,2001,24,Basic Maintenance,False,True
+EQ00163,Europe,Poland,Elevator,Industrial,2017,8,Full Maintenance,True,True
+EQ00164,Europe,Netherlands,Elevator,Public / Transport,2011,14,Full Maintenance,True,False
+EQ00165,Greater China,China,Escalator,Industrial,1999,26,Full Maintenance,True,False
+EQ00166,Americas,Mexico,Elevator,Residential,2006,19,Basic Maintenance,False,False
+EQ00167,Greater China,China,Elevator,Commercial,2007,18,Full Maintenance,False,False
+EQ00168,Greater China,China,Escalator,Commercial,2017,8,Full Maintenance,False,True
+EQ00169,Greater China,China,Elevator,Residential,1995,30,Full Maintenance,False,True
+EQ00170,Europe,Poland,Autowalk,Commercial,2003,22,Basic Maintenance,True,True
+EQ00171,Americas,Mexico,Elevator,Residential,2010,15,Full Maintenance,False,False
+EQ00172,Greater China,China,Elevator,Residential,2003,22,Basic Maintenance,False,True
+EQ00173,Europe,France,Elevator,Public / Transport,2013,12,Full Maintenance,False,False
+EQ00174,Greater China,China,Elevator,Residential,2009,16,Basic Maintenance,True,False
+EQ00175,Europe,Germany,Escalator,Residential,2005,20,Repair Only,True,False
+EQ00176,Greater China,China,Escalator,Residential,2023,2,Full Maintenance,False,False
+EQ00177,Americas,Brazil,Escalator,Commercial,2013,12,Full Maintenance,False,False
+EQ00178,Greater China,China,Automatic Door,Commercial,1998,27,Basic Maintenance,False,True
+EQ00179,APMEA,UAE,Escalator,Commercial,2011,14,Full Maintenance,False,True
+EQ00180,Greater China,China,Elevator,Public / Transport,2018,7,Full Maintenance,False,False
+EQ00181,Greater China,China,Elevator,Commercial,2016,9,Basic Maintenance,False,False
+EQ00182,Greater China,China,Elevator,Industrial,2000,25,Repair Only,False,False
+EQ00183,APMEA,India,Elevator,Healthcare,2024,1,Basic Maintenance,False,True
+EQ00184,APMEA,South Korea,Escalator,Public / Transport,2008,17,Full Maintenance,False,False
+EQ00185,Greater China,China,Elevator,Commercial,1999,26,Full Maintenance,True,True
+EQ00186,Americas,Mexico,Elevator,Healthcare,2000,25,Full Maintenance,False,True
+EQ00187,Americas,Canada,Elevator,Commercial,1997,28,Basic Maintenance,True,True
+EQ00188,Europe,Netherlands,Elevator,Residential,2019,6,Basic Maintenance,True,False
+EQ00189,Europe,Poland,Elevator,Public / Transport,1998,27,Repair Only,False,True
+EQ00190,Greater China,China,Elevator,Residential,1998,27,Full Maintenance,False,True
+EQ00191,Greater China,China,Elevator,Residential,2020,5,Basic Maintenance,True,False
+EQ00192,APMEA,Saudi Arabia,Elevator,Commercial,2005,20,Full Maintenance,False,False
+EQ00193,APMEA,South Korea,Escalator,Residential,1995,30,Full Maintenance,False,False
+EQ00194,Europe,Poland,Elevator,Residential,1996,29,Basic Maintenance,False,False
+EQ00195,Greater China,China,Elevator,Residential,1999,26,Full Maintenance,False,False
+EQ00196,Greater China,China,Elevator,Healthcare,2001,24,Basic Maintenance,False,True
+EQ00197,Americas,Mexico,Elevator,Healthcare,2014,11,Basic Maintenance,False,True
+EQ00198,APMEA,Saudi Arabia,Elevator,Public / Transport,1999,26,Repair Only,False,False
+EQ00199,APMEA,UAE,Elevator,Residential,1998,27,Basic Maintenance,False,True
+EQ00200,Americas,USA,Elevator,Industrial,2017,8,Basic Maintenance,True,False
+EQ00201,Europe,Finland,Elevator,Healthcare,2015,10,Full Maintenance,False,False
+EQ00202,Greater China,China,Elevator,Public / Transport,2008,17,Full Maintenance,True,False
+EQ00203,Greater China,China,Elevator,Residential,2011,14,Full Maintenance,False,False
+EQ00204,APMEA,Australia,Escalator,Commercial,2004,21,Full Maintenance,True,False
+EQ00205,Europe,Netherlands,Elevator,Commercial,2009,16,Basic Maintenance,False,True
+EQ00206,Greater China,China,Automatic Door,Residential,2010,15,Basic Maintenance,False,False
+EQ00207,Greater China,China,Elevator,Residential,2006,19,Full Maintenance,True,True
+EQ00208,Americas,Canada,Elevator,Public / Transport,2022,3,Full Maintenance,False,False
+EQ00209,Greater China,China,Escalator,Commercial,1995,30,Full Maintenance,True,False
+EQ00210,Greater China,China,Escalator,Commercial,2018,7,Basic Maintenance,False,True
+EQ00211,Europe,Finland,Elevator,Residential,1998,27,Basic Maintenance,False,False
+EQ00212,Americas,Brazil,Elevator,Residential,2018,7,Basic Maintenance,False,True
+EQ00213,Americas,Canada,Elevator,Commercial,2013,12,Full Maintenance,False,True
+EQ00214,Greater China,China,Elevator,Industrial,2020,5,Full Maintenance,True,False
+EQ00215,Americas,USA,Elevator,Residential,1997,28,Basic Maintenance,False,True
+EQ00216,Greater China,China,Elevator,Industrial,2011,14,Basic Maintenance,False,True
+EQ00217,Greater China,China,Elevator,Residential,2010,15,Full Maintenance,False,False
+EQ00218,Americas,Mexico,Elevator,Residential,2016,9,Basic Maintenance,False,False
+EQ00219,Europe,Poland,Escalator,Residential,2011,14,Full Maintenance,False,True
+EQ00220,APMEA,UAE,Autowalk,Public / Transport,2011,14,Basic Maintenance,False,True
+EQ00221,Americas,Mexico,Autowalk,Commercial,2007,18,Basic Maintenance,True,False
+EQ00222,Europe,Netherlands,Elevator,Public / Transport,2004,21,Basic Maintenance,False,True
+EQ00223,Greater China,China,Escalator,Residential,2009,16,Full Maintenance,True,True
+EQ00224,Greater China,China,Autowalk,Public / Transport,1998,27,Full Maintenance,False,False
+EQ00225,Greater China,China,Elevator,Public / Transport,2023,2,Basic Maintenance,True,False
+EQ00226,Greater China,China,Elevator,Residential,2016,9,Basic Maintenance,False,False
+EQ00227,APMEA,India,Autowalk,Industrial,2023,2,Basic Maintenance,True,True
+EQ00228,Greater China,China,Elevator,Commercial,2001,24,Basic Maintenance,False,False
+EQ00229,APMEA,Australia,Elevator,Public / Transport,2021,4,Full Maintenance,False,False
+EQ00230,Europe,Netherlands,Elevator,Residential,2019,6,Repair Only,False,True
+EQ00231,Americas,Brazil,Elevator,Residential,2015,10,Basic Maintenance,False,True
+EQ00232,Europe,Poland,Escalator,Industrial,2013,12,Full Maintenance,False,False
+EQ00233,Europe,Netherlands,Elevator,Public / Transport,2004,21,Basic Maintenance,False,False
+EQ00234,Europe,Finland,Elevator,Commercial,2019,6,Full Maintenance,False,False
+EQ00235,Greater China,China,Elevator,Industrial,2010,15,Full Maintenance,False,False
+EQ00236,Americas,Brazil,Elevator,Residential,1997,28,Full Maintenance,False,False
+EQ00237,Greater China,China,Elevator,Residential,2004,21,Basic Maintenance,False,False
+EQ00238,Greater China,China,Elevator,Industrial,2023,2,Repair Only,True,True
+EQ00239,Europe,Germany,Autowalk,Residential,2020,5,Basic Maintenance,False,True
+EQ00240,Greater China,China,Elevator,Residential,2024,1,Full Maintenance,True,False
+EQ00241,APMEA,UAE,Elevator,Public / Transport,2013,12,Full Maintenance,False,False
+EQ00242,APMEA,UAE,Escalator,Commercial,2002,23,Full Maintenance,False,False
+EQ00243,APMEA,South Korea,Elevator,Industrial,1999,26,Full Maintenance,False,False
+EQ00244,Greater China,China,Escalator,Commercial,2000,25,Basic Maintenance,True,False
+EQ00245,Greater China,China,Escalator,Commercial,1995,30,Repair Only,True,True
+EQ00246,APMEA,UAE,Escalator,Commercial,2006,19,Full Maintenance,False,False
+EQ00247,Europe,France,Elevator,Residential,2000,25,Basic Maintenance,False,True
+EQ00248,APMEA,Saudi Arabia,Elevator,Industrial,2007,18,Repair Only,False,True
+EQ00249,APMEA,Australia,Elevator,Commercial,2023,2,Full Maintenance,False,True
+EQ00250,APMEA,Saudi Arabia,Elevator,Commercial,2007,18,Basic Maintenance,False,False
+EQ00251,Greater China,China,Escalator,Healthcare,2021,4,Basic Maintenance,True,False
+EQ00252,Greater China,China,Escalator,Commercial,2013,12,Basic Maintenance,False,True
+EQ00253,APMEA,Saudi Arabia,Escalator,Public / Transport,2002,23,Full Maintenance,True,True
+EQ00254,Greater China,China,Autowalk,Commercial,2005,20,Basic Maintenance,False,False
+EQ00255,Greater China,China,Escalator,Industrial,1997,28,Basic Maintenance,True,False
+EQ00256,Europe,Finland,Elevator,Residential,2005,20,Full Maintenance,False,False
+EQ00257,APMEA,Saudi Arabia,Elevator,Public / Transport,2015,10,Full Maintenance,True,False
+EQ00258,Americas,USA,Escalator,Industrial,1997,28,Full Maintenance,False,False
+EQ00259,Europe,Sweden,Elevator,Residential,2001,24,Repair Only,True,True
+EQ00260,Greater China,China,Elevator,Commercial,2006,19,Full Maintenance,False,False
+EQ00261,Europe,Finland,Elevator,Industrial,2024,1,Basic Maintenance,False,True
+EQ00262,APMEA,Australia,Escalator,Residential,2018,7,Full Maintenance,True,False
+EQ00263,Greater China,China,Elevator,Commercial,2017,8,Full Maintenance,False,True
+EQ00264,Europe,Germany,Escalator,Commercial,1998,27,Full Maintenance,False,False
+EQ00265,APMEA,Saudi Arabia,Escalator,Public / Transport,2018,7,Full Maintenance,True,True
+EQ00266,Americas,Mexico,Elevator,Commercial,2018,7,Full Maintenance,True,False
+EQ00267,Americas,Canada,Elevator,Residential,2013,12,Basic Maintenance,False,True
+EQ00268,Americas,Mexico,Elevator,Residential,2024,1,Full Maintenance,True,True
+EQ00269,Greater China,China,Escalator,Public / Transport,2004,21,Full Maintenance,True,True
+EQ00270,Greater China,China,Escalator,Healthcare,2023,2,Full Maintenance,True,False
+EQ00271,Americas,Canada,Autowalk,Healthcare,2022,3,Basic Maintenance,False,True
+EQ00272,Americas,Brazil,Elevator,Commercial,1995,30,Basic Maintenance,False,False
+EQ00273,APMEA,UAE,Elevator,Public / Transport,2008,17,Basic Maintenance,True,False
+EQ00274,APMEA,South Korea,Elevator,Commercial,2024,1,Repair Only,False,False
+EQ00275,Europe,France,Escalator,Residential,1998,27,Full Maintenance,False,False
+EQ00276,Europe,France,Elevator,Residential,2011,14,Full Maintenance,True,False
+EQ00277,Americas,Canada,Elevator,Commercial,2024,1,Full Maintenance,True,True
+EQ00278,Europe,France,Elevator,Healthcare,2011,14,Full Maintenance,False,True
+EQ00279,Americas,Mexico,Elevator,Commercial,2000,25,Basic Maintenance,False,False
+EQ00280,Americas,Canada,Elevator,Industrial,2012,13,Full Maintenance,False,True
+EQ00281,APMEA,India,Elevator,Public / Transport,2001,24,Full Maintenance,False,False
+EQ00282,Greater China,China,Elevator,Public / Transport,2010,15,Full Maintenance,False,True
+EQ00283,Greater China,China,Elevator,Commercial,1997,28,Repair Only,True,False
+EQ00284,Greater China,China,Escalator,Residential,2013,12,Repair Only,False,True
+EQ00285,Europe,Netherlands,Escalator,Public / Transport,2010,15,Full Maintenance,False,False
+EQ00286,Greater China,China,Elevator,Residential,2017,8,Full Maintenance,False,False
+EQ00287,Europe,Finland,Escalator,Residential,2013,12,Basic Maintenance,False,True
+EQ00288,Europe,Sweden,Elevator,Commercial,2011,14,Repair Only,True,True
+EQ00289,Greater China,China,Elevator,Residential,2015,10,Full Maintenance,False,True
+EQ00290,Europe,Netherlands,Autowalk,Public / Transport,1999,26,Full Maintenance,False,False
+EQ00291,Greater China,China,Escalator,Residential,2012,13,Repair Only,False,True
+EQ00292,Greater China,China,Escalator,Residential,2000,25,Basic Maintenance,True,True
+EQ00293,Americas,Mexico,Elevator,Residential,2022,3,Full Maintenance,False,False
+EQ00294,Greater China,China,Elevator,Residential,1997,28,Basic Maintenance,True,True
+EQ00295,Greater China,China,Autowalk,Commercial,2007,18,Repair Only,True,True
+EQ00296,Europe,France,Elevator,Commercial,2015,10,Basic Maintenance,True,True
+EQ00297,Americas,USA,Elevator,Residential,2008,17,Basic Maintenance,False,False
+EQ00298,Greater China,China,Escalator,Residential,1997,28,Basic Maintenance,True,False
+EQ00299,Europe,Netherlands,Escalator,Residential,2011,14,Full Maintenance,False,True
+EQ00300,Greater China,China,Autowalk,Residential,2014,11,Basic Maintenance,True,False
+EQ00301,Greater China,China,Elevator,Residential,2016,9,Full Maintenance,True,True
+EQ00302,Europe,Poland,Autowalk,Commercial,2006,19,Repair Only,False,True
+EQ00303,Europe,Poland,Elevator,Healthcare,2011,14,Full Maintenance,True,False
+EQ00304,Europe,Poland,Elevator,Residential,2008,17,Repair Only,False,True
+EQ00305,Americas,Canada,Elevator,Commercial,2015,10,Full Maintenance,False,False
+EQ00306,APMEA,UAE,Elevator,Commercial,2012,13,Full Maintenance,False,False
+EQ00307,Europe,Finland,Elevator,Healthcare,2010,15,Full Maintenance,False,False
+EQ00308,Greater China,China,Escalator,Commercial,2002,23,Basic Maintenance,False,True
+EQ00309,Americas,Mexico,Elevator,Public / Transport,1995,30,Basic Maintenance,False,True
+EQ00310,Greater China,China,Elevator,Commercial,2000,25,Basic Maintenance,True,False
+EQ00311,Europe,France,Elevator,Healthcare,1998,27,Full Maintenance,False,True
+EQ00312,Greater China,China,Elevator,Public / Transport,2008,17,Full Maintenance,False,False
+EQ00313,Greater China,China,Elevator,Residential,2013,12,Repair Only,True,True
+EQ00314,APMEA,India,Escalator,Commercial,2001,24,Basic Maintenance,True,True
+EQ00315,Americas,Brazil,Escalator,Commercial,2023,2,Basic Maintenance,True,True
+EQ00316,Americas,USA,Elevator,Residential,1995,30,Basic Maintenance,False,False
+EQ00317,Europe,Sweden,Escalator,Residential,2018,7,Basic Maintenance,False,False
+EQ00318,Greater China,China,Elevator,Commercial,2013,12,Full Maintenance,False,True
+EQ00319,Greater China,China,Elevator,Commercial,2006,19,Basic Maintenance,False,False
+EQ00320,Greater China,China,Escalator,Residential,1996,29,Basic Maintenance,False,True
+EQ00321,Europe,Sweden,Elevator,Residential,2013,12,Repair Only,False,True
+EQ00322,Americas,Canada,Automatic Door,Commercial,2006,19,Basic Maintenance,True,False
+EQ00323,Americas,USA,Elevator,Commercial,2023,2,Full Maintenance,False,False
+EQ00324,Greater China,China,Escalator,Healthcare,2011,14,Full Maintenance,False,True
+EQ00325,APMEA,Australia,Elevator,Residential,2023,2,Full Maintenance,False,True
+EQ00326,Americas,Mexico,Elevator,Public / Transport,2001,24,Full Maintenance,False,False
+EQ00327,Europe,Netherlands,Elevator,Residential,2016,9,Basic Maintenance,False,False
+EQ00328,Europe,Poland,Escalator,Commercial,2013,12,Repair Only,True,False
+EQ00329,Europe,Germany,Elevator,Residential,2017,8,Full Maintenance,False,True
+EQ00330,Greater China,China,Autowalk,Residential,2001,24,Full Maintenance,False,False
+EQ00331,Greater China,China,Elevator,Public / Transport,2014,11,Repair Only,False,True
+EQ00332,Americas,Brazil,Elevator,Industrial,2009,16,Basic Maintenance,True,False
+EQ00333,Greater China,China,Elevator,Commercial,2017,8,Full Maintenance,True,True
+EQ00334,Greater China,China,Elevator,Healthcare,2004,21,Basic Maintenance,False,True
+EQ00335,Greater China,China,Autowalk,Residential,2021,4,Full Maintenance,True,False
+EQ00336,Greater China,China,Elevator,Healthcare,1997,28,Full Maintenance,True,False
+EQ00337,APMEA,UAE,Escalator,Healthcare,2019,6,Full Maintenance,False,False
+EQ00338,Americas,Brazil,Elevator,Commercial,2020,5,Full Maintenance,False,True
+EQ00339,Europe,France,Elevator,Residential,2019,6,Full Maintenance,False,False
+EQ00340,Greater China,China,Autowalk,Residential,2010,15,Repair Only,False,False
+EQ00341,Europe,Sweden,Elevator,Industrial,2008,17,Basic Maintenance,False,True
+EQ00342,Europe,Finland,Elevator,Residential,2024,1,Full Maintenance,True,False
+EQ00343,Greater China,China,Automatic Door,Healthcare,2001,24,Full Maintenance,False,False
+EQ00344,Europe,France,Autowalk,Industrial,2011,14,Full Maintenance,False,True
+EQ00345,Greater China,China,Elevator,Commercial,2015,10,Basic Maintenance,False,True
+EQ00346,Europe,Finland,Elevator,Commercial,2016,9,Basic Maintenance,False,True
+EQ00347,Europe,Netherlands,Elevator,Industrial,2001,24,Full Maintenance,False,True
+EQ00348,Greater China,China,Elevator,Commercial,2014,11,Full Maintenance,False,False
+EQ00349,Greater China,China,Escalator,Public / Transport,2019,6,Basic Maintenance,True,False
+EQ00350,Europe,Finland,Escalator,Residential,1996,29,Basic Maintenance,False,False
+EQ00351,Europe,Netherlands,Elevator,Residential,2022,3,Full Maintenance,False,True
+EQ00352,APMEA,Australia,Elevator,Commercial,1995,30,Basic Maintenance,False,False
+EQ00353,Americas,Canada,Elevator,Industrial,2005,20,Basic Maintenance,False,False
+EQ00354,Greater China,China,Elevator,Commercial,1995,30,Full Maintenance,True,False
+EQ00355,Greater China,China,Elevator,Public / Transport,1997,28,Full Maintenance,False,True
+EQ00356,Europe,Poland,Elevator,Residential,2022,3,Full Maintenance,False,False
+EQ00357,Greater China,China,Elevator,Public / Transport,2005,20,Repair Only,False,False
+EQ00358,Europe,Poland,Elevator,Residential,2007,18,Repair Only,True,False
+EQ00359,APMEA,South Korea,Elevator,Commercial,2001,24,Repair Only,False,True
+EQ00360,Europe,France,Elevator,Public / Transport,2012,13,Basic Maintenance,False,True
+EQ00361,Greater China,China,Elevator,Commercial,2012,13,Basic Maintenance,False,False
+EQ00362,Europe,Sweden,Elevator,Residential,2006,19,Basic Maintenance,False,True
+EQ00363,Europe,Netherlands,Elevator,Commercial,2004,21,Repair Only,False,False
+EQ00364,Europe,Sweden,Elevator,Public / Transport,2021,4,Full Maintenance,False,False
+EQ00365,APMEA,India,Elevator,Healthcare,2006,19,Full Maintenance,False,True
+EQ00366,Greater China,China,Escalator,Residential,2009,16,Basic Maintenance,False,False
+EQ00367,APMEA,Saudi Arabia,Autowalk,Residential,2003,22,Basic Maintenance,False,True
+EQ00368,APMEA,Australia,Escalator,Public / Transport,2018,7,Full Maintenance,False,True
+EQ00369,Greater China,China,Elevator,Commercial,2006,19,Basic Maintenance,False,False
+EQ00370,Greater China,China,Autowalk,Healthcare,2010,15,Basic Maintenance,False,False
+EQ00371,Greater China,China,Escalator,Commercial,2002,23,Full Maintenance,True,True
+EQ00372,Greater China,China,Elevator,Healthcare,2024,1,Basic Maintenance,False,False
+EQ00373,Greater China,China,Elevator,Industrial,2003,22,Full Maintenance,False,True
+EQ00374,Americas,Canada,Autowalk,Public / Transport,2018,7,Repair Only,False,False
+EQ00375,Greater China,China,Elevator,Industrial,2007,18,Full Maintenance,True,False
+EQ00376,Greater China,China,Elevator,Residential,2001,24,Basic Maintenance,True,True
+EQ00377,APMEA,UAE,Escalator,Residential,2018,7,Full Maintenance,True,False
+EQ00378,Greater China,China,Escalator,Commercial,2005,20,Full Maintenance,True,False
+EQ00379,Americas,Mexico,Elevator,Residential,2020,5,Basic Maintenance,False,False
+EQ00380,Greater China,China,Elevator,Residential,2022,3,Full Maintenance,True,False
+EQ00381,Greater China,China,Elevator,Public / Transport,2020,5,Full Maintenance,True,True
+EQ00382,Americas,Mexico,Escalator,Residential,1996,29,Full Maintenance,True,True
+EQ00383,Europe,Finland,Elevator,Commercial,2018,7,Basic Maintenance,False,False
+EQ00384,APMEA,UAE,Elevator,Residential,2007,18,Basic Maintenance,False,False
+EQ00385,Americas,Canada,Escalator,Industrial,2021,4,Full Maintenance,True,False
+EQ00386,Americas,Brazil,Elevator,Commercial,2014,11,Basic Maintenance,False,True
+EQ00387,Greater China,China,Escalator,Commercial,2020,5,Basic Maintenance,False,False
+EQ00388,Greater China,China,Elevator,Public / Transport,2009,16,Basic Maintenance,True,True
+EQ00389,Americas,Mexico,Elevator,Residential,2011,14,Full Maintenance,False,True
+EQ00390,Americas,Mexico,Elevator,Residential,1999,26,Basic Maintenance,True,False
+EQ00391,APMEA,India,Elevator,Residential,2018,7,Full Maintenance,False,False
+EQ00392,Europe,Sweden,Elevator,Industrial,2007,18,Full Maintenance,True,True
+EQ00393,Greater China,China,Elevator,Commercial,2010,15,Full Maintenance,False,False
+EQ00394,Americas,Mexico,Escalator,Industrial,2018,7,Basic Maintenance,True,False
+EQ00395,Greater China,China,Autowalk,Commercial,2012,13,Full Maintenance,False,True
+EQ00396,APMEA,Australia,Automatic Door,Public / Transport,2001,24,Repair Only,False,False
+EQ00397,APMEA,UAE,Elevator,Residential,2012,13,Full Maintenance,True,True
+EQ00398,Europe,Netherlands,Elevator,Residential,2007,18,Full Maintenance,False,False
+EQ00399,Americas,Mexico,Elevator,Residential,2009,16,Full Maintenance,False,False
+EQ00400,Americas,Canada,Escalator,Residential,1995,30,Full Maintenance,False,False
+EQ00401,Greater China,China,Elevator,Commercial,2001,24,Full Maintenance,True,False
+EQ00402,APMEA,Australia,Automatic Door,Public / Transport,2003,22,Full Maintenance,True,True
+EQ00403,Europe,Sweden,Elevator,Commercial,2016,9,Full Maintenance,False,False
+EQ00404,Americas,Mexico,Automatic Door,Healthcare,1995,30,Full Maintenance,False,False
+EQ00405,Greater China,China,Escalator,Public / Transport,2007,18,Full Maintenance,False,False
+EQ00406,APMEA,Australia,Escalator,Residential,2022,3,Full Maintenance,True,False
+EQ00407,Greater China,China,Elevator,Public / Transport,1998,27,Basic Maintenance,False,False
+EQ00408,Greater China,China,Elevator,Residential,2010,15,Basic Maintenance,False,False
+EQ00409,APMEA,India,Elevator,Commercial,2018,7,Basic Maintenance,False,True
+EQ00410,Greater China,China,Elevator,Healthcare,2023,2,Full Maintenance,False,True
+EQ00411,Greater China,China,Elevator,Industrial,2017,8,Basic Maintenance,False,False
+EQ00412,APMEA,South Korea,Elevator,Residential,2016,9,Repair Only,True,False
+EQ00413,APMEA,UAE,Elevator,Residential,2019,6,Full Maintenance,True,False
+EQ00414,Europe,Netherlands,Elevator,Residential,2008,17,Full Maintenance,False,True
+EQ00415,Europe,Germany,Elevator,Healthcare,2019,6,Full Maintenance,True,True
+EQ00416,Europe,Finland,Elevator,Commercial,1995,30,Full Maintenance,False,False
+EQ00417,Greater China,China,Automatic Door,Residential,2022,3,Full Maintenance,False,False
+EQ00418,Greater China,China,Elevator,Residential,2008,17,Basic Maintenance,False,False
+EQ00419,Americas,Brazil,Elevator,Residential,2011,14,Full Maintenance,False,True
+EQ00420,Americas,Brazil,Elevator,Residential,2002,23,Repair Only,True,True
+EQ00421,Americas,Canada,Escalator,Commercial,2017,8,Full Maintenance,False,False
+EQ00422,Americas,Canada,Elevator,Commercial,1997,28,Full Maintenance,False,True
+EQ00423,Greater China,China,Elevator,Commercial,2021,4,Repair Only,False,False
+EQ00424,Europe,France,Elevator,Healthcare,2019,6,Basic Maintenance,False,False
+EQ00425,Greater China,China,Elevator,Commercial,2001,24,Full Maintenance,False,True
+EQ00426,Europe,Finland,Elevator,Public / Transport,2019,6,Basic Maintenance,False,True
+EQ00427,Europe,Poland,Autowalk,Public / Transport,2018,7,Basic Maintenance,True,True
+EQ00428,APMEA,India,Automatic Door,Public / Transport,2013,12,Full Maintenance,False,False
+EQ00429,Greater China,China,Elevator,Public / Transport,2006,19,Full Maintenance,True,True
+EQ00430,Greater China,China,Elevator,Commercial,2003,22,Basic Maintenance,False,True
+EQ00431,Greater China,China,Elevator,Commercial,2001,24,Full Maintenance,False,False
+EQ00432,Americas,USA,Elevator,Residential,2004,21,Full Maintenance,False,True
+EQ00433,Europe,Netherlands,Elevator,Commercial,2022,3,Full Maintenance,False,False
+EQ00434,Greater China,China,Elevator,Industrial,1997,28,Full Maintenance,False,True
+EQ00435,Greater China,China,Automatic Door,Residential,2019,6,Repair Only,False,False
+EQ00436,Americas,Brazil,Autowalk,Public / Transport,2005,20,Full Maintenance,False,True
+EQ00437,Greater China,China,Elevator,Commercial,2010,15,Repair Only,False,True
+EQ00438,Americas,Canada,Elevator,Healthcare,2018,7,Full Maintenance,False,False
+EQ00439,Americas,Brazil,Elevator,Commercial,2021,4,Full Maintenance,True,True
+EQ00440,Greater China,China,Elevator,Residential,2005,20,Full Maintenance,False,False
+EQ00441,Greater China,China,Elevator,Residential,2008,17,Basic Maintenance,True,True
+EQ00442,APMEA,UAE,Elevator,Public / Transport,2007,18,Repair Only,True,False
+EQ00443,Greater China,China,Autowalk,Residential,1995,30,Full Maintenance,False,False
+EQ00444,Greater China,China,Escalator,Healthcare,2003,22,Full Maintenance,False,True
+EQ00445,Americas,Brazil,Elevator,Healthcare,2008,17,Basic Maintenance,True,True
+EQ00446,APMEA,India,Escalator,Public / Transport,2007,18,Basic Maintenance,True,False
+EQ00447,APMEA,Saudi Arabia,Elevator,Commercial,2016,9,Full Maintenance,True,False
+EQ00448,Americas,USA,Elevator,Public / Transport,2006,19,Basic Maintenance,False,True
+EQ00449,Greater China,China,Elevator,Public / Transport,2009,16,Basic Maintenance,False,False
+EQ00450,Greater China,China,Elevator,Commercial,2007,18,Full Maintenance,True,True
+EQ00451,Americas,Mexico,Elevator,Commercial,2017,8,Full Maintenance,True,True
+EQ00452,Europe,Germany,Elevator,Commercial,2020,5,Full Maintenance,False,False
+EQ00453,Europe,Germany,Autowalk,Commercial,2010,15,Basic Maintenance,False,False
+EQ00454,APMEA,UAE,Elevator,Residential,2018,7,Basic Maintenance,False,False
+EQ00455,Greater China,China,Elevator,Healthcare,2003,22,Full Maintenance,False,True
+EQ00456,Europe,Netherlands,Elevator,Residential,2011,14,Full Maintenance,True,True
+EQ00457,Greater China,China,Escalator,Residential,2005,20,Full Maintenance,False,False
+EQ00458,Europe,Poland,Elevator,Healthcare,2007,18,Basic Maintenance,False,True
+EQ00459,Greater China,China,Automatic Door,Commercial,2016,9,Full Maintenance,True,True
+EQ00460,Greater China,China,Autowalk,Public / Transport,2021,4,Full Maintenance,False,True
+EQ00461,Greater China,China,Elevator,Residential,1998,27,Full Maintenance,False,False
+EQ00462,Europe,Finland,Escalator,Residential,2014,11,Full Maintenance,True,True
+EQ00463,Americas,Mexico,Elevator,Residential,2012,13,Full Maintenance,False,True
+EQ00464,Europe,Netherlands,Elevator,Residential,1998,27,Full Maintenance,False,False
+EQ00465,APMEA,India,Escalator,Commercial,2001,24,Full Maintenance,False,False
+EQ00466,Greater China,China,Elevator,Public / Transport,2004,21,Basic Maintenance,False,True
+EQ00467,Greater China,China,Elevator,Commercial,2000,25,Full Maintenance,False,False
+EQ00468,APMEA,UAE,Elevator,Public / Transport,2002,23,Full Maintenance,False,True
+EQ00469,Greater China,China,Elevator,Residential,2003,22,Basic Maintenance,True,False
+EQ00470,APMEA,Saudi Arabia,Autowalk,Commercial,2005,20,Full Maintenance,False,False
+EQ00471,Greater China,China,Elevator,Industrial,2017,8,Basic Maintenance,False,True
+EQ00472,APMEA,Australia,Escalator,Commercial,2012,13,Full Maintenance,False,True
+EQ00473,Greater China,China,Elevator,Public / Transport,2024,1,Full Maintenance,False,False
+EQ00474,APMEA,India,Escalator,Healthcare,2007,18,Full Maintenance,True,False
+EQ00475,Europe,Poland,Elevator,Public / Transport,2017,8,Full Maintenance,False,False
+EQ00476,APMEA,South Korea,Elevator,Commercial,2021,4,Basic Maintenance,False,True
+EQ00477,Greater China,China,Autowalk,Residential,2015,10,Full Maintenance,False,True
+EQ00478,Europe,France,Elevator,Industrial,2007,18,Full Maintenance,False,True
+EQ00479,APMEA,India,Elevator,Public / Transport,2017,8,Full Maintenance,True,True
+EQ00480,Europe,Sweden,Elevator,Commercial,2001,24,Full Maintenance,False,False
+EQ00481,Europe,Sweden,Escalator,Residential,2004,21,Full Maintenance,False,False
+EQ00482,Americas,Canada,Elevator,Residential,2011,14,Full Maintenance,False,True
+EQ00483,Europe,Netherlands,Autowalk,Commercial,2012,13,Full Maintenance,False,True
+EQ00484,Europe,Poland,Elevator,Residential,1995,30,Basic Maintenance,False,False
+EQ00485,Europe,Netherlands,Elevator,Residential,2023,2,Full Maintenance,False,True
+EQ00486,APMEA,Saudi Arabia,Escalator,Public / Transport,2015,10,Basic Maintenance,False,False
+EQ00487,Greater China,China,Escalator,Healthcare,2009,16,Repair Only,False,False
+EQ00488,Greater China,China,Autowalk,Residential,2022,3,Full Maintenance,True,False
+EQ00489,APMEA,India,Automatic Door,Residential,2008,17,Basic Maintenance,False,False
+EQ00490,APMEA,India,Elevator,Commercial,2024,1,Basic Maintenance,False,False
+EQ00491,Europe,France,Elevator,Healthcare,2010,15,Full Maintenance,False,True
+EQ00492,Europe,Netherlands,Elevator,Healthcare,1998,27,Repair Only,False,False
+EQ00493,Greater China,China,Escalator,Healthcare,2017,8,Full Maintenance,False,True
+EQ00494,Greater China,China,Autowalk,Public / Transport,2015,10,Full Maintenance,True,True
+EQ00495,Europe,Sweden,Elevator,Residential,2018,7,Basic Maintenance,False,True
+EQ00496,Greater China,China,Elevator,Public / Transport,2023,2,Full Maintenance,False,True
+EQ00497,Europe,Germany,Elevator,Residential,2018,7,Full Maintenance,False,True
+EQ00498,Greater China,China,Escalator,Residential,2013,12,Full Maintenance,True,True
+EQ00499,APMEA,UAE,Elevator,Industrial,2020,5,Basic Maintenance,False,True
+EQ00500,APMEA,India,Elevator,Commercial,2015,10,Basic Maintenance,True,False
+EQ00501,Americas,Canada,Elevator,Commercial,2007,18,Basic Maintenance,False,True
+EQ00502,Europe,France,Escalator,Residential,2021,4,Repair Only,False,False
+EQ00503,Greater China,China,Escalator,Residential,2001,24,Full Maintenance,False,False
+EQ00504,Americas,Brazil,Elevator,Public / Transport,2016,9,Full Maintenance,False,False
+EQ00505,Americas,Brazil,Elevator,Commercial,2021,4,Basic Maintenance,False,False
+EQ00506,Greater China,China,Elevator,Commercial,2016,9,Basic Maintenance,False,False
+EQ00507,APMEA,UAE,Escalator,Commercial,2015,10,Full Maintenance,False,True
+EQ00508,Americas,Brazil,Automatic Door,Commercial,2017,8,Full Maintenance,True,True
+EQ00509,APMEA,Australia,Elevator,Commercial,2008,17,Basic Maintenance,False,False
+EQ00510,Americas,Mexico,Elevator,Industrial,2021,4,Repair Only,False,False
+EQ00511,Europe,Poland,Elevator,Residential,2001,24,Basic Maintenance,True,False
+EQ00512,Europe,Poland,Elevator,Public / Transport,1998,27,Full Maintenance,True,True
+EQ00513,APMEA,Saudi Arabia,Escalator,Healthcare,2003,22,Repair Only,False,False
+EQ00514,APMEA,South Korea,Elevator,Industrial,2010,15,Repair Only,True,True
+EQ00515,Greater China,China,Elevator,Commercial,2010,15,Full Maintenance,True,True
+EQ00516,Greater China,China,Elevator,Commercial,2019,6,Basic Maintenance,False,True
+EQ00517,Greater China,China,Elevator,Public / Transport,2007,18,Basic Maintenance,False,False
+EQ00518,Americas,Mexico,Elevator,Residential,2009,16,Repair Only,False,False
+EQ00519,APMEA,UAE,Elevator,Public / Transport,1995,30,Basic Maintenance,True,False
+EQ00520,Greater China,China,Elevator,Public / Transport,2007,18,Basic Maintenance,True,False
+EQ00521,Europe,France,Escalator,Healthcare,2014,11,Basic Maintenance,False,True
+EQ00522,Greater China,China,Elevator,Healthcare,1995,30,Full Maintenance,True,False
+EQ00523,APMEA,UAE,Elevator,Residential,2003,22,Basic Maintenance,False,False
+EQ00524,APMEA,Saudi Arabia,Automatic Door,Residential,2001,24,Basic Maintenance,True,False
+EQ00525,Americas,USA,Elevator,Healthcare,1996,29,Repair Only,False,False
+EQ00526,Europe,Finland,Escalator,Residential,2009,16,Full Maintenance,False,False
+EQ00527,Europe,Poland,Elevator,Commercial,2000,25,Basic Maintenance,True,False
+EQ00528,Greater China,China,Elevator,Residential,2017,8,Full Maintenance,False,True
+EQ00529,Greater China,China,Elevator,Residential,2020,5,Basic Maintenance,True,False
+EQ00530,APMEA,Australia,Elevator,Public / Transport,2011,14,Basic Maintenance,False,False
+EQ00531,Americas,Canada,Elevator,Industrial,2024,1,Full Maintenance,False,True
+EQ00532,APMEA,India,Autowalk,Residential,2008,17,Full Maintenance,False,False
+EQ00533,APMEA,UAE,Elevator,Healthcare,2010,15,Full Maintenance,False,True
+EQ00534,Europe,Poland,Elevator,Public / Transport,2024,1,Full Maintenance,False,False
+EQ00535,Americas,Brazil,Elevator,Residential,2001,24,Basic Maintenance,True,False
+EQ00536,APMEA,UAE,Elevator,Commercial,2023,2,Full Maintenance,True,False
+EQ00537,APMEA,Australia,Elevator,Residential,1996,29,Full Maintenance,False,False
+EQ00538,Greater China,China,Elevator,Industrial,2008,17,Full Maintenance,False,True
+EQ00539,Europe,France,Escalator,Commercial,1997,28,Full Maintenance,False,True
+EQ00540,Greater China,China,Automatic Door,Commercial,2016,9,Basic Maintenance,False,False
+EQ00541,APMEA,India,Elevator,Industrial,2013,12,Full Maintenance,False,True
+EQ00542,Europe,Netherlands,Elevator,Residential,2016,9,Repair Only,False,False
+EQ00543,Greater China,China,Autowalk,Residential,2006,19,Full Maintenance,False,True
+EQ00544,Americas,Mexico,Escalator,Commercial,2006,19,Full Maintenance,False,True
+EQ00545,Europe,Sweden,Elevator,Residential,1996,29,Full Maintenance,False,False
+EQ00546,Greater China,China,Autowalk,Public / Transport,2005,20,Basic Maintenance,False,False
+EQ00547,Greater China,China,Elevator,Commercial,2022,3,Basic Maintenance,True,True
+EQ00548,Americas,Brazil,Autowalk,Commercial,2006,19,Repair Only,True,True
+EQ00549,Europe,Poland,Elevator,Industrial,2019,6,Basic Maintenance,False,True
+EQ00550,Americas,Brazil,Elevator,Healthcare,2020,5,Full Maintenance,False,False
+EQ00551,Europe,Finland,Autowalk,Residential,2006,19,Basic Maintenance,False,True
+EQ00552,APMEA,UAE,Elevator,Commercial,2013,12,Repair Only,True,False
+EQ00553,Europe,Netherlands,Elevator,Residential,1997,28,Full Maintenance,False,False
+EQ00554,Europe,Finland,Elevator,Public / Transport,1998,27,Full Maintenance,False,False
+EQ00555,APMEA,Saudi Arabia,Automatic Door,Commercial,1996,29,Basic Maintenance,False,True
+EQ00556,Europe,France,Escalator,Residential,2012,13,Full Maintenance,True,False
+EQ00557,Greater China,China,Escalator,Residential,2007,18,Repair Only,False,False
+EQ00558,Greater China,China,Elevator,Commercial,2011,14,Full Maintenance,True,True
+EQ00559,Americas,Brazil,Escalator,Public / Transport,2010,15,Full Maintenance,False,True
+EQ00560,Europe,Netherlands,Elevator,Industrial,2005,20,Repair Only,False,False
+EQ00561,Americas,Canada,Elevator,Industrial,2015,10,Basic Maintenance,True,True
+EQ00562,Greater China,China,Escalator,Commercial,2017,8,Full Maintenance,False,False
+EQ00563,Greater China,China,Elevator,Commercial,1995,30,Repair Only,True,False
+EQ00564,Greater China,China,Elevator,Residential,2001,24,Full Maintenance,False,False
+EQ00565,Greater China,China,Elevator,Residential,2016,9,Full Maintenance,True,False
+EQ00566,Europe,Poland,Elevator,Commercial,2006,19,Repair Only,False,False
+EQ00567,Greater China,China,Autowalk,Commercial,2014,11,Full Maintenance,False,True
+EQ00568,Europe,Sweden,Elevator,Commercial,2005,20,Full Maintenance,False,True
+EQ00569,APMEA,South Korea,Escalator,Healthcare,2006,19,Full Maintenance,False,False
+EQ00570,Greater China,China,Elevator,Public / Transport,1999,26,Basic Maintenance,False,False
+EQ00571,Europe,Netherlands,Elevator,Healthcare,2002,23,Full Maintenance,True,False
+EQ00572,Americas,Mexico,Elevator,Commercial,2013,12,Basic Maintenance,False,False
+EQ00573,Greater China,China,Escalator,Healthcare,2007,18,Basic Maintenance,False,True
+EQ00574,Europe,Finland,Elevator,Commercial,2018,7,Full Maintenance,False,True
+EQ00575,APMEA,India,Autowalk,Residential,2020,5,Basic Maintenance,False,True
+EQ00576,APMEA,India,Escalator,Public / Transport,2011,14,Repair Only,False,True
+EQ00577,Greater China,China,Elevator,Residential,2017,8,Full Maintenance,False,False
+EQ00578,APMEA,Saudi Arabia,Elevator,Residential,2004,21,Full Maintenance,False,False
+EQ00579,Europe,Finland,Autowalk,Commercial,2007,18,Full Maintenance,False,False
+EQ00580,Greater China,China,Escalator,Commercial,2016,9,Basic Maintenance,True,False
+EQ00581,Europe,Poland,Elevator,Residential,2006,19,Repair Only,False,True
+EQ00582,APMEA,UAE,Elevator,Industrial,2012,13,Full Maintenance,False,True
+EQ00583,Europe,Sweden,Escalator,Public / Transport,2000,25,Full Maintenance,False,True
+EQ00584,Greater China,China,Escalator,Residential,2012,13,Full Maintenance,False,False
+EQ00585,Europe,France,Elevator,Residential,2020,5,Basic Maintenance,True,False
+EQ00586,Greater China,China,Autowalk,Commercial,2021,4,Full Maintenance,False,False
+EQ00587,Greater China,China,Automatic Door,Commercial,2016,9,Basic Maintenance,False,False
+EQ00588,Greater China,China,Elevator,Healthcare,2017,8,Full Maintenance,False,True
+EQ00589,Greater China,China,Autowalk,Commercial,2011,14,Basic Maintenance,True,True
+EQ00590,Greater China,China,Elevator,Industrial,2012,13,Full Maintenance,True,False
+EQ00591,Greater China,China,Elevator,Commercial,1999,26,Basic Maintenance,False,True
+EQ00592,Europe,Finland,Elevator,Industrial,2008,17,Full Maintenance,False,False
+EQ00593,Greater China,China,Elevator,Industrial,2008,17,Basic Maintenance,False,False
+EQ00594,Greater China,China,Escalator,Commercial,2023,2,Full Maintenance,True,True
+EQ00595,APMEA,UAE,Elevator,Commercial,2007,18,Full Maintenance,False,False
+EQ00596,Europe,Poland,Elevator,Industrial,2011,14,Full Maintenance,True,True
+EQ00597,Americas,Canada,Elevator,Residential,2010,15,Basic Maintenance,True,False
+EQ00598,Greater China,China,Elevator,Commercial,2014,11,Full Maintenance,False,True
+EQ00599,Greater China,China,Elevator,Industrial,2017,8,Full Maintenance,False,False
+EQ00600,Greater China,China,Escalator,Commercial,2001,24,Basic Maintenance,True,False
+EQ00601,Greater China,China,Elevator,Public / Transport,2010,15,Basic Maintenance,False,False
+EQ00602,Greater China,China,Autowalk,Residential,2019,6,Full Maintenance,True,True
+EQ00603,Greater China,China,Escalator,Commercial,2008,17,Basic Maintenance,True,False
+EQ00604,Greater China,China,Elevator,Industrial,2003,22,Full Maintenance,True,False
+EQ00605,Greater China,China,Autowalk,Residential,2014,11,Basic Maintenance,False,False
+EQ00606,Europe,Finland,Elevator,Commercial,2019,6,Repair Only,True,False
+EQ00607,Greater China,China,Elevator,Residential,1996,29,Full Maintenance,False,False
+EQ00608,Greater China,China,Elevator,Commercial,2018,7,Basic Maintenance,True,False
+EQ00609,Europe,Netherlands,Elevator,Commercial,2019,6,Full Maintenance,True,True
+EQ00610,Americas,Brazil,Elevator,Commercial,2008,17,Basic Maintenance,True,False
+EQ00611,Greater China,China,Escalator,Residential,2024,1,Basic Maintenance,False,True
+EQ00612,Americas,Mexico,Elevator,Commercial,2018,7,Repair Only,False,False
+EQ00613,Europe,Netherlands,Escalator,Industrial,2018,7,Full Maintenance,False,False
+EQ00614,Greater China,China,Elevator,Industrial,2017,8,Full Maintenance,False,True
+EQ00615,APMEA,Australia,Escalator,Residential,1999,26,Full Maintenance,False,False
+EQ00616,APMEA,India,Elevator,Public / Transport,2001,24,Repair Only,False,False
+EQ00617,Greater China,China,Elevator,Public / Transport,2008,17,Basic Maintenance,True,True
+EQ00618,Greater China,China,Elevator,Residential,2002,23,Basic Maintenance,False,False
+EQ00619,Americas,USA,Elevator,Residential,2007,18,Full Maintenance,False,True
+EQ00620,Americas,Canada,Elevator,Commercial,2021,4,Repair Only,False,False
+EQ00621,Greater China,China,Escalator,Public / Transport,2019,6,Basic Maintenance,False,False
+EQ00622,Greater China,China,Elevator,Commercial,2013,12,Basic Maintenance,False,False
+EQ00623,Greater China,China,Escalator,Residential,2020,5,Full Maintenance,False,False
+EQ00624,Europe,Poland,Escalator,Industrial,2018,7,Full Maintenance,False,False
+EQ00625,Europe,Finland,Autowalk,Commercial,2007,18,Basic Maintenance,False,True
+EQ00626,Greater China,China,Elevator,Commercial,2001,24,Basic Maintenance,False,True
+EQ00627,Europe,Sweden,Elevator,Residential,2010,15,Full Maintenance,False,False
+EQ00628,Americas,Canada,Autowalk,Residential,2017,8,Basic Maintenance,False,False
+EQ00629,Greater China,China,Escalator,Industrial,2008,17,Full Maintenance,False,False
+EQ00630,Greater China,China,Elevator,Public / Transport,2015,10,Basic Maintenance,True,False
+EQ00631,Americas,USA,Elevator,Commercial,1997,28,Full Maintenance,False,False
+EQ00632,APMEA,Saudi Arabia,Elevator,Commercial,2017,8,Full Maintenance,True,True
+EQ00633,Europe,France,Elevator,Industrial,2019,6,Full Maintenance,False,False
+EQ00634,Europe,France,Escalator,Residential,2016,9,Full Maintenance,False,True
+EQ00635,Greater China,China,Elevator,Residential,2024,1,Full Maintenance,False,True
+EQ00636,Europe,Poland,Elevator,Commercial,2019,6,Basic Maintenance,False,False
+EQ00637,Europe,Germany,Elevator,Residential,2022,3,Full Maintenance,False,False
+EQ00638,Greater China,China,Elevator,Residential,2023,2,Full Maintenance,True,False
+EQ00639,Greater China,China,Escalator,Residential,2019,6,Full Maintenance,False,False
+EQ00640,Greater China,China,Escalator,Residential,2015,10,Full Maintenance,False,False
+EQ00641,Greater China,China,Elevator,Residential,1995,30,Full Maintenance,False,False
+EQ00642,Greater China,China,Autowalk,Residential,2008,17,Full Maintenance,False,False
+EQ00643,Greater China,China,Elevator,Commercial,2012,13,Basic Maintenance,False,True
+EQ00644,Greater China,China,Elevator,Commercial,2004,21,Full Maintenance,False,False
+EQ00645,Greater China,China,Elevator,Residential,2004,21,Basic Maintenance,False,False
+EQ00646,APMEA,South Korea,Elevator,Residential,2023,2,Full Maintenance,True,False
+EQ00647,Europe,Sweden,Elevator,Residential,2021,4,Full Maintenance,False,False
+EQ00648,Americas,USA,Elevator,Residential,2020,5,Full Maintenance,False,True
+EQ00649,Americas,Mexico,Escalator,Industrial,2007,18,Repair Only,True,True
+EQ00650,Europe,Netherlands,Elevator,Public / Transport,1995,30,Basic Maintenance,False,False
+EQ00651,Greater China,China,Escalator,Commercial,1997,28,Basic Maintenance,False,False
+EQ00652,Europe,Sweden,Elevator,Commercial,2004,21,Full Maintenance,False,False
+EQ00653,Europe,France,Autowalk,Commercial,1995,30,Basic Maintenance,False,False
+EQ00654,Americas,Mexico,Escalator,Residential,1995,30,Full Maintenance,True,True
+EQ00655,Europe,Finland,Elevator,Residential,2022,3,Full Maintenance,False,True
+EQ00656,Greater China,China,Escalator,Commercial,2016,9,Basic Maintenance,True,False
+EQ00657,Greater China,China,Elevator,Industrial,2004,21,Full Maintenance,False,True
+EQ00658,Greater China,China,Escalator,Commercial,1998,27,Repair Only,False,False
+EQ00659,Europe,Sweden,Elevator,Residential,2010,15,Full Maintenance,True,True
+EQ00660,Europe,Sweden,Elevator,Residential,1995,30,Repair Only,False,False
+EQ00661,Greater China,China,Escalator,Industrial,2023,2,Basic Maintenance,False,True
+EQ00662,APMEA,India,Elevator,Commercial,2007,18,Basic Maintenance,False,True
+EQ00663,Europe,Sweden,Elevator,Public / Transport,2007,18,Full Maintenance,False,False
+EQ00664,Greater China,China,Escalator,Industrial,2006,19,Full Maintenance,False,False
+EQ00665,Greater China,China,Elevator,Commercial,1997,28,Repair Only,False,True
+EQ00666,Greater China,China,Elevator,Commercial,2014,11,Full Maintenance,False,False
+EQ00667,Greater China,China,Elevator,Residential,2016,9,Basic Maintenance,True,True
+EQ00668,Greater China,China,Elevator,Public / Transport,2015,10,Repair Only,False,False
+EQ00669,Greater China,China,Automatic Door,Public / Transport,1999,26,Full Maintenance,False,True
+EQ00670,Greater China,China,Elevator,Residential,2012,13,Basic Maintenance,False,True
+EQ00671,Greater China,China,Elevator,Public / Transport,2012,13,Basic Maintenance,False,False
+EQ00672,APMEA,India,Escalator,Commercial,2021,4,Full Maintenance,False,True
+EQ00673,Greater China,China,Escalator,Commercial,2006,19,Full Maintenance,False,False
+EQ00674,Europe,Netherlands,Elevator,Healthcare,2006,19,Full Maintenance,True,True
+EQ00675,Europe,France,Elevator,Public / Transport,2013,12,Full Maintenance,True,False
+EQ00676,APMEA,India,Autowalk,Residential,2013,12,Basic Maintenance,False,True
+EQ00677,Greater China,China,Escalator,Public / Transport,2009,16,Full Maintenance,False,True
+EQ00678,Greater China,China,Elevator,Healthcare,2008,17,Repair Only,False,True
+EQ00679,APMEA,Australia,Elevator,Public / Transport,2009,16,Full Maintenance,False,False
+EQ00680,APMEA,India,Elevator,Public / Transport,2020,5,Basic Maintenance,False,False
+EQ00681,Americas,Mexico,Elevator,Public / Transport,2008,17,Basic Maintenance,False,False
+EQ00682,Greater China,China,Elevator,Commercial,2023,2,Full Maintenance,False,False
+EQ00683,Greater China,China,Autowalk,Public / Transport,2010,15,Full Maintenance,False,False
+EQ00684,Americas,USA,Elevator,Commercial,2023,2,Basic Maintenance,False,False
+EQ00685,APMEA,Saudi Arabia,Escalator,Public / Transport,2019,6,Repair Only,True,True
+EQ00686,Europe,Poland,Elevator,Residential,2005,20,Full Maintenance,True,True
+EQ00687,Europe,Netherlands,Escalator,Industrial,2020,5,Full Maintenance,False,False
+EQ00688,Greater China,China,Escalator,Residential,1998,27,Full Maintenance,False,False
+EQ00689,Americas,Canada,Elevator,Commercial,2022,3,Full Maintenance,False,True
+EQ00690,Greater China,China,Elevator,Commercial,2013,12,Basic Maintenance,False,False
+EQ00691,Greater China,China,Elevator,Healthcare,1996,29,Basic Maintenance,True,False
+EQ00692,Europe,Finland,Autowalk,Healthcare,2014,11,Full Maintenance,False,False
+EQ00693,Europe,France,Autowalk,Residential,2024,1,Repair Only,False,True
+EQ00694,Greater China,China,Elevator,Healthcare,1997,28,Full Maintenance,True,False
+EQ00695,Greater China,China,Elevator,Public / Transport,2011,14,Basic Maintenance,False,True
+EQ00696,Europe,Germany,Elevator,Residential,2017,8,Full Maintenance,False,True
+EQ00697,Greater China,China,Escalator,Commercial,2019,6,Full Maintenance,False,False
+EQ00698,Europe,Netherlands,Elevator,Healthcare,2007,18,Full Maintenance,True,True
+EQ00699,Greater China,China,Elevator,Residential,2001,24,Full Maintenance,False,True
+EQ00700,Europe,Sweden,Elevator,Public / Transport,1996,29,Basic Maintenance,False,True
+EQ00701,Europe,Poland,Elevator,Public / Transport,2012,13,Basic Maintenance,True,False
+EQ00702,Greater China,China,Escalator,Public / Transport,2008,17,Full Maintenance,False,True
+EQ00703,Greater China,China,Elevator,Industrial,2023,2,Basic Maintenance,False,True
+EQ00704,Greater China,China,Elevator,Commercial,1996,29,Full Maintenance,False,False
+EQ00705,Greater China,China,Elevator,Residential,2015,10,Basic Maintenance,False,False
+EQ00706,APMEA,South Korea,Elevator,Residential,1995,30,Full Maintenance,True,False
+EQ00707,Greater China,China,Elevator,Commercial,2000,25,Full Maintenance,False,True
+EQ00708,Americas,Brazil,Automatic Door,Residential,2008,17,Full Maintenance,False,True
+EQ00709,Greater China,China,Escalator,Industrial,2008,17,Basic Maintenance,True,False
+EQ00710,Americas,Canada,Elevator,Public / Transport,2015,10,Basic Maintenance,False,True
+EQ00711,Americas,Mexico,Elevator,Commercial,2022,3,Full Maintenance,False,False
+EQ00712,Europe,Finland,Autowalk,Residential,2014,11,Full Maintenance,False,False
+EQ00713,Europe,Sweden,Elevator,Commercial,2023,2,Full Maintenance,False,True
+EQ00714,Europe,France,Elevator,Commercial,2021,4,Basic Maintenance,True,False
+EQ00715,Greater China,China,Autowalk,Commercial,2012,13,Basic Maintenance,False,True
+EQ00716,APMEA,Saudi Arabia,Escalator,Industrial,2020,5,Full Maintenance,True,False
+EQ00717,Americas,Brazil,Automatic Door,Commercial,2014,11,Full Maintenance,True,False
+EQ00718,APMEA,Saudi Arabia,Autowalk,Industrial,1997,28,Basic Maintenance,False,False
+EQ00719,Greater China,China,Autowalk,Commercial,2017,8,Full Maintenance,False,True
+EQ00720,Americas,Mexico,Elevator,Public / Transport,1997,28,Full Maintenance,False,True
+EQ00721,APMEA,Saudi Arabia,Elevator,Public / Transport,2012,13,Full Maintenance,True,True
+EQ00722,Greater China,China,Elevator,Healthcare,2016,9,Full Maintenance,False,True
+EQ00723,Greater China,China,Elevator,Public / Transport,1996,29,Full Maintenance,False,False
+EQ00724,Americas,Canada,Elevator,Healthcare,2001,24,Basic Maintenance,False,False
+EQ00725,Europe,Netherlands,Elevator,Public / Transport,2022,3,Full Maintenance,False,False
+EQ00726,APMEA,South Korea,Elevator,Industrial,2013,12,Basic Maintenance,False,False
+EQ00727,Greater China,China,Elevator,Commercial,2002,23,Full Maintenance,False,False
+EQ00728,Americas,Brazil,Elevator,Commercial,2015,10,Basic Maintenance,True,False
+EQ00729,Greater China,China,Elevator,Commercial,2012,13,Basic Maintenance,False,True
+EQ00730,Greater China,China,Elevator,Residential,2010,15,Basic Maintenance,False,True
+EQ00731,Greater China,China,Escalator,Residential,2024,1,Full Maintenance,False,False
+EQ00732,Americas,Canada,Elevator,Public / Transport,2015,10,Full Maintenance,True,False
+EQ00733,Americas,Mexico,Elevator,Healthcare,2006,19,Full Maintenance,False,False
+EQ00734,Europe,Germany,Escalator,Residential,2019,6,Basic Maintenance,False,False
+EQ00735,Greater China,China,Elevator,Residential,2021,4,Full Maintenance,False,True
+EQ00736,APMEA,Australia,Elevator,Healthcare,1998,27,Repair Only,False,False
+EQ00737,Greater China,China,Elevator,Commercial,2001,24,Repair Only,False,True
+EQ00738,Americas,Brazil,Elevator,Public / Transport,2001,24,Full Maintenance,False,False
+EQ00739,Europe,Finland,Autowalk,Commercial,2015,10,Repair Only,False,False
+EQ00740,Greater China,China,Elevator,Industrial,2013,12,Full Maintenance,True,False
+EQ00741,Europe,Finland,Escalator,Commercial,2013,12,Full Maintenance,False,False
+EQ00742,Greater China,China,Elevator,Public / Transport,2023,2,Full Maintenance,False,False
+EQ00743,Americas,Mexico,Elevator,Residential,2018,7,Basic Maintenance,False,True
+EQ00744,Europe,Poland,Elevator,Commercial,1998,27,Full Maintenance,False,True
+EQ00745,Greater China,China,Elevator,Commercial,2005,20,Repair Only,True,False
+EQ00746,APMEA,India,Elevator,Residential,2008,17,Full Maintenance,False,True
+EQ00747,Greater China,China,Elevator,Healthcare,2006,19,Full Maintenance,False,True
+EQ00748,Europe,Germany,Elevator,Public / Transport,2015,10,Basic Maintenance,False,True
+EQ00749,APMEA,India,Elevator,Residential,2021,4,Full Maintenance,True,False
+EQ00750,Europe,Sweden,Elevator,Residential,2004,21,Full Maintenance,False,True
+EQ00751,Greater China,China,Autowalk,Residential,2011,14,Basic Maintenance,False,False
+EQ00752,APMEA,Saudi Arabia,Elevator,Industrial,2018,7,Full Maintenance,False,False
+EQ00753,Europe,Poland,Elevator,Public / Transport,2007,18,Full Maintenance,False,False
+EQ00754,Greater China,China,Elevator,Residential,2000,25,Full Maintenance,False,True
+EQ00755,Greater China,China,Elevator,Industrial,2009,16,Full Maintenance,False,False
+EQ00756,Americas,Canada,Escalator,Industrial,1996,29,Repair Only,False,False
+EQ00757,Europe,France,Elevator,Healthcare,2023,2,Basic Maintenance,False,False
+EQ00758,Europe,France,Escalator,Healthcare,1997,28,Full Maintenance,False,False
+EQ00759,APMEA,Saudi Arabia,Elevator,Public / Transport,2008,17,Full Maintenance,False,False
+EQ00760,Americas,Canada,Escalator,Industrial,2010,15,Full Maintenance,False,True
+EQ00761,Greater China,China,Elevator,Commercial,2024,1,Repair Only,True,False
+EQ00762,Greater China,China,Autowalk,Public / Transport,1999,26,Full Maintenance,False,True
+EQ00763,Greater China,China,Elevator,Residential,1998,27,Full Maintenance,False,True
+EQ00764,Americas,USA,Elevator,Commercial,1995,30,Basic Maintenance,True,False
+EQ00765,Greater China,China,Elevator,Residential,1999,26,Repair Only,True,False
+EQ00766,Europe,Finland,Elevator,Public / Transport,2001,24,Full Maintenance,True,True
+EQ00767,Americas,USA,Automatic Door,Commercial,2013,12,Full Maintenance,False,False
+EQ00768,APMEA,South Korea,Elevator,Residential,2001,24,Full Maintenance,False,False
+EQ00769,Greater China,China,Elevator,Residential,1995,30,Full Maintenance,True,True
+EQ00770,Americas,USA,Elevator,Commercial,2019,6,Basic Maintenance,False,False
+EQ00771,Greater China,China,Elevator,Commercial,2005,20,Basic Maintenance,False,True
+EQ00772,APMEA,UAE,Elevator,Public / Transport,2005,20,Basic Maintenance,False,True
+EQ00773,Greater China,China,Escalator,Public / Transport,2004,21,Full Maintenance,False,True
+EQ00774,Greater China,China,Elevator,Commercial,2024,1,Full Maintenance,False,True
+EQ00775,Americas,Mexico,Autowalk,Public / Transport,2000,25,Full Maintenance,False,True
+EQ00776,Greater China,China,Elevator,Public / Transport,2021,4,Full Maintenance,True,True
+EQ00777,Greater China,China,Elevator,Residential,2018,7,Basic Maintenance,True,False
+EQ00778,Americas,Canada,Escalator,Industrial,1997,28,Full Maintenance,False,False
+EQ00779,Americas,Brazil,Elevator,Healthcare,2024,1,Full Maintenance,False,False
+EQ00780,Europe,Sweden,Elevator,Residential,2003,22,Full Maintenance,False,False
+EQ00781,Americas,Mexico,Elevator,Commercial,1997,28,Full Maintenance,True,True
+EQ00782,Europe,Finland,Elevator,Healthcare,2019,6,Full Maintenance,True,False
+EQ00783,Greater China,China,Elevator,Residential,2016,9,Basic Maintenance,False,False
+EQ00784,Greater China,China,Autowalk,Commercial,2013,12,Full Maintenance,False,True
+EQ00785,Greater China,China,Elevator,Residential,1999,26,Basic Maintenance,False,True
+EQ00786,APMEA,South Korea,Elevator,Residential,2009,16,Full Maintenance,False,False
+EQ00787,Europe,Sweden,Escalator,Public / Transport,2018,7,Full Maintenance,False,False
+EQ00788,Europe,Poland,Automatic Door,Residential,2004,21,Repair Only,False,False
+EQ00789,Europe,Finland,Elevator,Commercial,2004,21,Full Maintenance,False,True
+EQ00790,APMEA,India,Elevator,Industrial,1995,30,Basic Maintenance,True,True
+EQ00791,Greater China,China,Elevator,Residential,2000,25,Full Maintenance,False,False
+EQ00792,Europe,Poland,Autowalk,Commercial,2021,4,Full Maintenance,False,False
+EQ00793,Europe,France,Autowalk,Residential,2008,17,Basic Maintenance,False,True
+EQ00794,Europe,Netherlands,Elevator,Public / Transport,2024,1,Repair Only,False,True
+EQ00795,Greater China,China,Elevator,Commercial,2006,19,Basic Maintenance,False,False
+EQ00796,APMEA,Saudi Arabia,Elevator,Residential,2016,9,Basic Maintenance,True,False
+EQ00797,APMEA,India,Escalator,Residential,2003,22,Full Maintenance,True,True
+EQ00798,Europe,Germany,Elevator,Commercial,2005,20,Basic Maintenance,True,False
+EQ00799,Americas,Brazil,Escalator,Residential,2000,25,Basic Maintenance,True,False
+EQ00800,APMEA,South Korea,Automatic Door,Residential,2005,20,Full Maintenance,False,False
+EQ00801,Americas,USA,Elevator,Public / Transport,2011,14,Full Maintenance,False,True
+EQ00802,Greater China,China,Elevator,Commercial,2024,1,Basic Maintenance,True,True
+EQ00803,Europe,Finland,Elevator,Industrial,2014,11,Full Maintenance,False,False
+EQ00804,Europe,Poland,Elevator,Commercial,2000,25,Full Maintenance,False,True
+EQ00805,Europe,Germany,Elevator,Healthcare,1996,29,Repair Only,False,False
+EQ00806,Americas,Brazil,Elevator,Residential,1998,27,Full Maintenance,False,False
+EQ00807,APMEA,India,Escalator,Industrial,2011,14,Full Maintenance,False,True
+EQ00808,APMEA,India,Autowalk,Commercial,2017,8,Basic Maintenance,True,False
+EQ00809,Europe,Sweden,Elevator,Residential,2023,2,Full Maintenance,False,False
+EQ00810,Greater China,China,Elevator,Commercial,1995,30,Basic Maintenance,True,False
+EQ00811,APMEA,India,Elevator,Healthcare,2010,15,Full Maintenance,False,True
+EQ00812,Americas,USA,Escalator,Residential,2009,16,Full Maintenance,False,False
+EQ00813,Greater China,China,Escalator,Residential,2014,11,Full Maintenance,False,True
+EQ00814,APMEA,India,Elevator,Industrial,2011,14,Repair Only,False,False
+EQ00815,APMEA,South Korea,Elevator,Residential,2015,10,Full Maintenance,False,False
+EQ00816,Europe,France,Elevator,Industrial,2014,11,Full Maintenance,True,False
+EQ00817,Europe,France,Elevator,Industrial,1998,27,Full Maintenance,False,False
+EQ00818,Greater China,China,Elevator,Industrial,2018,7,Full Maintenance,False,False
+EQ00819,Greater China,China,Escalator,Residential,1998,27,Full Maintenance,False,True
+EQ00820,Greater China,China,Autowalk,Residential,2015,10,Full Maintenance,True,True
+EQ00821,Americas,Brazil,Elevator,Commercial,2007,18,Full Maintenance,False,False
+EQ00822,Greater China,China,Escalator,Public / Transport,2010,15,Full Maintenance,False,True
+EQ00823,Greater China,China,Autowalk,Residential,2022,3,Basic Maintenance,False,True
+EQ00824,Greater China,China,Elevator,Residential,2021,4,Basic Maintenance,False,False
+EQ00825,Europe,Finland,Elevator,Healthcare,2019,6,Full Maintenance,False,False
+EQ00826,APMEA,South Korea,Autowalk,Commercial,2010,15,Full Maintenance,False,False
+EQ00827,Greater China,China,Elevator,Public / Transport,2017,8,Basic Maintenance,False,True
+EQ00828,Greater China,China,Autowalk,Healthcare,2010,15,Basic Maintenance,False,True
+EQ00829,Americas,Mexico,Automatic Door,Public / Transport,2021,4,Full Maintenance,False,True
+EQ00830,Europe,France,Escalator,Public / Transport,2007,18,Repair Only,True,False
+EQ00831,Greater China,China,Escalator,Residential,2024,1,Full Maintenance,True,False
+EQ00832,Europe,Poland,Escalator,Commercial,2022,3,Full Maintenance,False,True
+EQ00833,Greater China,China,Escalator,Industrial,2017,8,Full Maintenance,True,True
+EQ00834,Greater China,China,Elevator,Residential,2003,22,Repair Only,False,False
+EQ00835,Europe,France,Elevator,Commercial,1998,27,Full Maintenance,True,False
+EQ00836,Europe,France,Elevator,Public / Transport,2020,5,Basic Maintenance,False,True
+EQ00837,APMEA,South Korea,Escalator,Residential,1999,26,Full Maintenance,True,False
+EQ00838,Greater China,China,Elevator,Healthcare,2020,5,Full Maintenance,False,True
+EQ00839,Europe,Poland,Elevator,Public / Transport,2009,16,Full Maintenance,False,False
+EQ00840,Europe,Sweden,Elevator,Public / Transport,2007,18,Basic Maintenance,False,False
+EQ00841,Greater China,China,Escalator,Public / Transport,2022,3,Full Maintenance,False,False
+EQ00842,Americas,USA,Automatic Door,Public / Transport,2013,12,Full Maintenance,True,True
+EQ00843,Greater China,China,Automatic Door,Public / Transport,2012,13,Full Maintenance,True,True
+EQ00844,APMEA,Saudi Arabia,Elevator,Residential,2011,14,Repair Only,False,False
+EQ00845,Greater China,China,Autowalk,Commercial,2006,19,Full Maintenance,False,True
+EQ00846,Europe,France,Escalator,Public / Transport,2018,7,Full Maintenance,False,False
+EQ00847,Greater China,China,Elevator,Public / Transport,2002,23,Full Maintenance,False,False
+EQ00848,APMEA,Saudi Arabia,Elevator,Residential,2023,2,Repair Only,False,False
+EQ00849,Europe,Sweden,Elevator,Commercial,2021,4,Repair Only,True,False
+EQ00850,Europe,Sweden,Autowalk,Residential,2005,20,Basic Maintenance,False,False
+EQ00851,Greater China,China,Elevator,Commercial,2016,9,Full Maintenance,False,False
+EQ00852,Americas,USA,Elevator,Healthcare,2012,13,Full Maintenance,False,True
+EQ00853,Greater China,China,Escalator,Healthcare,2005,20,Repair Only,False,True
+EQ00854,APMEA,Saudi Arabia,Elevator,Commercial,2024,1,Full Maintenance,False,True
+EQ00855,Greater China,China,Elevator,Industrial,1995,30,Full Maintenance,False,True
+EQ00856,Greater China,China,Elevator,Commercial,2002,23,Full Maintenance,True,False
+EQ00857,Greater China,China,Elevator,Industrial,2010,15,Repair Only,False,False
+EQ00858,Europe,Sweden,Escalator,Residential,2010,15,Full Maintenance,False,False
+EQ00859,Europe,Finland,Elevator,Industrial,2012,13,Basic Maintenance,False,False
+EQ00860,Greater China,China,Elevator,Residential,2017,8,Basic Maintenance,False,False
+EQ00861,Americas,USA,Elevator,Commercial,2013,12,Full Maintenance,True,False
+EQ00862,Europe,Germany,Elevator,Residential,2013,12,Full Maintenance,False,True
+EQ00863,Europe,Netherlands,Elevator,Commercial,1996,29,Repair Only,False,False
+EQ00864,Europe,Germany,Escalator,Residential,2006,19,Repair Only,False,True
+EQ00865,Europe,Sweden,Escalator,Commercial,2001,24,Basic Maintenance,False,False
+EQ00866,Europe,Finland,Escalator,Residential,2002,23,Basic Maintenance,True,True
+EQ00867,Greater China,China,Autowalk,Public / Transport,2011,14,Full Maintenance,True,False
+EQ00868,Greater China,China,Elevator,Public / Transport,2000,25,Repair Only,False,False
+EQ00869,APMEA,UAE,Elevator,Public / Transport,2003,22,Full Maintenance,True,False
+EQ00870,APMEA,South Korea,Autowalk,Healthcare,2002,23,Basic Maintenance,False,False
+EQ00871,Greater China,China,Elevator,Commercial,2023,2,Repair Only,False,False
+EQ00872,Greater China,China,Elevator,Commercial,2023,2,Basic Maintenance,False,True
+EQ00873,Europe,Finland,Elevator,Residential,2013,12,Basic Maintenance,False,True
+EQ00874,Europe,Netherlands,Elevator,Public / Transport,2022,3,Basic Maintenance,True,False
+EQ00875,Greater China,China,Elevator,Healthcare,2018,7,Full Maintenance,False,True
+EQ00876,Greater China,China,Automatic Door,Commercial,2012,13,Basic Maintenance,False,False
+EQ00877,Americas,Canada,Elevator,Residential,1995,30,Full Maintenance,False,False
+EQ00878,Americas,Canada,Elevator,Commercial,2018,7,Full Maintenance,False,True
+EQ00879,Greater China,China,Automatic Door,Public / Transport,2016,9,Full Maintenance,True,True
+EQ00880,Greater China,China,Automatic Door,Residential,2013,12,Full Maintenance,False,True
+EQ00881,Greater China,China,Elevator,Commercial,2017,8,Basic Maintenance,False,True
+EQ00882,Americas,Canada,Elevator,Residential,2010,15,Repair Only,False,False
+EQ00883,Greater China,China,Escalator,Industrial,2016,9,Full Maintenance,False,False
+EQ00884,Greater China,China,Escalator,Public / Transport,2023,2,Full Maintenance,True,False
+EQ00885,Americas,Mexico,Escalator,Commercial,2006,19,Full Maintenance,False,True
+EQ00886,Greater China,China,Autowalk,Public / Transport,2016,9,Repair Only,False,False
+EQ00887,Americas,Canada,Escalator,Residential,2009,16,Full Maintenance,False,True
+EQ00888,Greater China,China,Elevator,Public / Transport,2015,10,Basic Maintenance,False,False
+EQ00889,Greater China,China,Escalator,Public / Transport,2017,8,Repair Only,False,False
+EQ00890,Greater China,China,Elevator,Commercial,1996,29,Full Maintenance,True,False
+EQ00891,Americas,USA,Escalator,Commercial,2014,11,Repair Only,True,False
+EQ00892,APMEA,Saudi Arabia,Elevator,Industrial,2001,24,Repair Only,False,True
+EQ00893,Americas,Canada,Elevator,Commercial,2015,10,Repair Only,False,True
+EQ00894,Greater China,China,Elevator,Public / Transport,2009,16,Full Maintenance,False,False
+EQ00895,Americas,USA,Elevator,Industrial,2018,7,Full Maintenance,False,True
+EQ00896,Greater China,China,Elevator,Public / Transport,1998,27,Repair Only,False,True
+EQ00897,Greater China,China,Elevator,Commercial,2013,12,Full Maintenance,False,True
+EQ00898,APMEA,UAE,Elevator,Residential,2003,22,Basic Maintenance,True,True
+EQ00899,Greater China,China,Escalator,Industrial,2020,5,Full Maintenance,True,False
+EQ00900,Greater China,China,Elevator,Commercial,2022,3,Full Maintenance,False,False
+EQ00901,Greater China,China,Escalator,Industrial,2024,1,Full Maintenance,False,True
+EQ00902,Greater China,China,Escalator,Public / Transport,2018,7,Basic Maintenance,False,True
+EQ00903,Greater China,China,Escalator,Residential,2017,8,Full Maintenance,True,False
+EQ00904,Europe,Netherlands,Elevator,Public / Transport,2001,24,Basic Maintenance,True,False
+EQ00905,Europe,Netherlands,Automatic Door,Commercial,2005,20,Full Maintenance,False,False
+EQ00906,APMEA,India,Elevator,Residential,2008,17,Basic Maintenance,False,False
+EQ00907,Americas,USA,Elevator,Healthcare,2018,7,Basic Maintenance,False,False
+EQ00908,Greater China,China,Elevator,Healthcare,2022,3,Full Maintenance,False,False
+EQ00909,Greater China,China,Elevator,Residential,2000,25,Full Maintenance,False,False
+EQ00910,Greater China,China,Automatic Door,Healthcare,2022,3,Full Maintenance,True,True
+EQ00911,Europe,Netherlands,Elevator,Residential,2015,10,Full Maintenance,True,False
+EQ00912,Greater China,China,Escalator,Commercial,2013,12,Basic Maintenance,False,True
+EQ00913,Europe,Germany,Escalator,Commercial,2000,25,Full Maintenance,False,False
+EQ00914,Europe,France,Elevator,Healthcare,1996,29,Full Maintenance,True,False
+EQ00915,Europe,Finland,Elevator,Commercial,2012,13,Basic Maintenance,False,False
+EQ00916,Europe,Germany,Elevator,Residential,2014,11,Full Maintenance,True,True
+EQ00917,Greater China,China,Elevator,Residential,2001,24,Repair Only,False,False
+EQ00918,APMEA,South Korea,Elevator,Industrial,2011,14,Full Maintenance,False,True
+EQ00919,Americas,USA,Autowalk,Residential,2020,5,Repair Only,False,True
+EQ00920,Greater China,China,Automatic Door,Commercial,2020,5,Full Maintenance,True,True
+EQ00921,APMEA,Australia,Elevator,Commercial,2022,3,Full Maintenance,False,True
+EQ00922,Europe,Germany,Elevator,Residential,2005,20,Full Maintenance,True,False
+EQ00923,APMEA,UAE,Escalator,Industrial,2004,21,Full Maintenance,False,False
+EQ00924,Americas,Brazil,Elevator,Residential,2017,8,Full Maintenance,False,False
+EQ00925,Europe,Sweden,Autowalk,Industrial,2007,18,Full Maintenance,True,False
+EQ00926,Greater China,China,Elevator,Commercial,1997,28,Basic Maintenance,False,True
+EQ00927,Greater China,China,Elevator,Public / Transport,2003,22,Full Maintenance,False,False
+EQ00928,Europe,Germany,Escalator,Residential,2007,18,Basic Maintenance,False,False
+EQ00929,Europe,Poland,Elevator,Commercial,2003,22,Full Maintenance,True,False
+EQ00930,Greater China,China,Autowalk,Residential,2004,21,Repair Only,True,False
+EQ00931,Greater China,China,Autowalk,Public / Transport,2003,22,Full Maintenance,True,False
+EQ00932,Americas,Canada,Elevator,Public / Transport,1996,29,Full Maintenance,True,True
+EQ00933,APMEA,UAE,Elevator,Commercial,2014,11,Full Maintenance,False,True
+EQ00934,Europe,Poland,Automatic Door,Industrial,2012,13,Full Maintenance,False,False
+EQ00935,Greater China,China,Autowalk,Commercial,2014,11,Full Maintenance,False,True
+EQ00936,Greater China,China,Elevator,Commercial,2000,25,Full Maintenance,False,False
+EQ00937,Greater China,China,Escalator,Residential,2003,22,Basic Maintenance,False,False
+EQ00938,APMEA,India,Elevator,Industrial,2013,12,Repair Only,False,False
+EQ00939,Greater China,China,Elevator,Public / Transport,2012,13,Full Maintenance,False,False
+EQ00940,Europe,Finland,Autowalk,Residential,2010,15,Repair Only,False,True
+EQ00941,Greater China,China,Elevator,Commercial,2005,20,Repair Only,False,False
+EQ00942,Europe,Netherlands,Autowalk,Residential,2022,3,Repair Only,True,False
+EQ00943,Americas,Brazil,Elevator,Commercial,2005,20,Full Maintenance,True,False
+EQ00944,Americas,Mexico,Elevator,Commercial,2008,17,Full Maintenance,True,False
+EQ00945,Greater China,China,Elevator,Residential,2015,10,Full Maintenance,True,True
+EQ00946,Greater China,China,Elevator,Residential,2011,14,Basic Maintenance,False,False
+EQ00947,Greater China,China,Escalator,Commercial,2005,20,Full Maintenance,False,True
+EQ00948,APMEA,UAE,Elevator,Residential,2008,17,Full Maintenance,False,True
+EQ00949,APMEA,South Korea,Elevator,Commercial,2018,7,Full Maintenance,True,True
+EQ00950,Europe,Germany,Elevator,Commercial,2003,22,Full Maintenance,False,True
+EQ00951,Europe,Sweden,Elevator,Industrial,1999,26,Basic Maintenance,True,True
+EQ00952,Americas,Canada,Escalator,Commercial,2004,21,Full Maintenance,False,False
+EQ00953,Greater China,China,Elevator,Residential,2020,5,Basic Maintenance,False,False
+EQ00954,APMEA,UAE,Elevator,Commercial,1997,28,Basic Maintenance,True,True
+EQ00955,Europe,Poland,Elevator,Residential,2024,1,Full Maintenance,False,True
+EQ00956,Greater China,China,Elevator,Commercial,2011,14,Full Maintenance,False,False
+EQ00957,Europe,Germany,Elevator,Commercial,2024,1,Basic Maintenance,True,True
+EQ00958,Greater China,China,Elevator,Residential,2023,2,Full Maintenance,True,True
+EQ00959,Greater China,China,Elevator,Healthcare,2008,17,Full Maintenance,False,False
+EQ00960,Americas,USA,Escalator,Commercial,2000,25,Full Maintenance,True,True
+EQ00961,Greater China,China,Escalator,Residential,1999,26,Basic Maintenance,False,True
+EQ00962,Europe,Finland,Elevator,Industrial,2002,23,Basic Maintenance,False,False
+EQ00963,Greater China,China,Elevator,Residential,2016,9,Full Maintenance,True,False
+EQ00964,Greater China,China,Elevator,Public / Transport,2003,22,Full Maintenance,True,True
+EQ00965,Greater China,China,Elevator,Commercial,2005,20,Full Maintenance,False,False
+EQ00966,Greater China,China,Elevator,Healthcare,2008,17,Basic Maintenance,False,False
+EQ00967,Americas,Canada,Elevator,Residential,2022,3,Full Maintenance,False,True
+EQ00968,Greater China,China,Elevator,Residential,2000,25,Basic Maintenance,False,True
+EQ00969,Europe,Netherlands,Elevator,Public / Transport,1995,30,Full Maintenance,False,True
+EQ00970,Europe,France,Elevator,Residential,1996,29,Basic Maintenance,True,False
+EQ00971,Americas,Brazil,Elevator,Residential,2022,3,Full Maintenance,False,True
+EQ00972,APMEA,India,Elevator,Industrial,2014,11,Basic Maintenance,False,True
+EQ00973,Americas,Brazil,Elevator,Residential,2003,22,Full Maintenance,False,True
+EQ00974,Greater China,China,Elevator,Commercial,2000,25,Basic Maintenance,False,False
+EQ00975,Greater China,China,Elevator,Industrial,2003,22,Full Maintenance,False,False
+EQ00976,Greater China,China,Elevator,Commercial,1998,27,Full Maintenance,False,False
+EQ00977,Europe,Sweden,Elevator,Public / Transport,2023,2,Full Maintenance,False,False
+EQ00978,Greater China,China,Elevator,Healthcare,2018,7,Basic Maintenance,False,False
+EQ00979,Europe,Germany,Elevator,Residential,2008,17,Basic Maintenance,True,False
+EQ00980,Europe,Sweden,Elevator,Residential,2020,5,Full Maintenance,True,True
+EQ00981,Greater China,China,Elevator,Commercial,2002,23,Basic Maintenance,False,False
+EQ00982,Americas,USA,Escalator,Commercial,2016,9,Basic Maintenance,True,False
+EQ00983,Greater China,China,Elevator,Healthcare,2020,5,Repair Only,False,True
+EQ00984,Greater China,China,Elevator,Commercial,2005,20,Basic Maintenance,False,True
+EQ00985,Americas,Canada,Autowalk,Residential,2017,8,Basic Maintenance,True,False
+EQ00986,Europe,Finland,Elevator,Public / Transport,2003,22,Full Maintenance,False,False
+EQ00987,Americas,Brazil,Elevator,Public / Transport,2003,22,Basic Maintenance,False,False
+EQ00988,Europe,Finland,Autowalk,Residential,1998,27,Basic Maintenance,False,True
+EQ00989,Greater China,China,Escalator,Residential,2008,17,Repair Only,False,True
+EQ00990,Americas,Brazil,Elevator,Industrial,2016,9,Full Maintenance,False,False
+EQ00991,Americas,Mexico,Elevator,Healthcare,2023,2,Full Maintenance,False,True
+EQ00992,Americas,USA,Elevator,Residential,2013,12,Full Maintenance,True,True
+EQ00993,Greater China,China,Elevator,Residential,2020,5,Basic Maintenance,False,False
+EQ00994,Europe,Poland,Elevator,Commercial,2019,6,Repair Only,False,False
+EQ00995,Greater China,China,Elevator,Commercial,2000,25,Full Maintenance,True,False
+EQ00996,Greater China,China,Elevator,Residential,2009,16,Basic Maintenance,False,False
+EQ00997,APMEA,Saudi Arabia,Autowalk,Healthcare,1998,27,Basic Maintenance,False,True
+EQ00998,Greater China,China,Automatic Door,Public / Transport,2015,10,Basic Maintenance,False,True
+EQ00999,APMEA,South Korea,Elevator,Healthcare,2023,2,Full Maintenance,False,True
+EQ01000,Europe,Poland,Elevator,Residential,1999,26,Basic Maintenance,False,False
+EQ01001,Greater China,China,Elevator,Public / Transport,2017,8,Full Maintenance,False,False
+EQ01002,Europe,France,Autowalk,Public / Transport,2013,12,Basic Maintenance,False,True
+EQ01003,APMEA,Australia,Elevator,Residential,2012,13,Full Maintenance,False,False
+EQ01004,Americas,Mexico,Elevator,Residential,2006,19,Full Maintenance,False,True
+EQ01005,Americas,Brazil,Elevator,Residential,2005,20,Basic Maintenance,False,False
+EQ01006,Americas,USA,Elevator,Public / Transport,1996,29,Full Maintenance,False,False
+EQ01007,Americas,Brazil,Elevator,Commercial,2001,24,Full Maintenance,True,True
+EQ01008,APMEA,India,Escalator,Healthcare,1995,30,Basic Maintenance,True,True
+EQ01009,Greater China,China,Escalator,Commercial,2012,13,Full Maintenance,False,True
+EQ01010,Europe,Sweden,Elevator,Industrial,1998,27,Full Maintenance,True,True
+EQ01011,Greater China,China,Elevator,Residential,2021,4,Full Maintenance,True,True
+EQ01012,APMEA,Australia,Elevator,Industrial,2010,15,Full Maintenance,True,False
+EQ01013,APMEA,Saudi Arabia,Autowalk,Residential,2015,10,Full Maintenance,False,True
+EQ01014,Greater China,China,Autowalk,Healthcare,2007,18,Full Maintenance,True,False
+EQ01015,Americas,Mexico,Automatic Door,Residential,2011,14,Repair Only,False,True
+EQ01016,APMEA,Australia,Autowalk,Commercial,2023,2,Full Maintenance,False,True
+EQ01017,Greater China,China,Elevator,Residential,1997,28,Full Maintenance,False,True
+EQ01018,Europe,France,Elevator,Commercial,2002,23,Full Maintenance,False,False
+EQ01019,APMEA,UAE,Elevator,Commercial,2018,7,Full Maintenance,True,False
+EQ01020,Greater China,China,Autowalk,Residential,1997,28,Basic Maintenance,False,False
+EQ01021,Americas,Mexico,Elevator,Public / Transport,1997,28,Basic Maintenance,False,False
+EQ01022,Greater China,China,Elevator,Residential,2005,20,Full Maintenance,False,False
+EQ01023,APMEA,Saudi Arabia,Escalator,Industrial,1997,28,Full Maintenance,True,False
+EQ01024,APMEA,India,Elevator,Residential,2012,13,Full Maintenance,False,True
+EQ01025,APMEA,UAE,Elevator,Commercial,2001,24,Basic Maintenance,False,False
+EQ01026,Europe,Germany,Escalator,Healthcare,2021,4,Basic Maintenance,False,False
+EQ01027,APMEA,UAE,Elevator,Residential,2018,7,Full Maintenance,False,False
+EQ01028,APMEA,India,Elevator,Healthcare,2015,10,Full Maintenance,False,True
+EQ01029,Greater China,China,Escalator,Commercial,2013,12,Basic Maintenance,False,False
+EQ01030,Americas,Canada,Elevator,Commercial,2020,5,Repair Only,False,True
+EQ01031,Greater China,China,Automatic Door,Public / Transport,2001,24,Repair Only,True,True
+EQ01032,Europe,Netherlands,Elevator,Industrial,2021,4,Full Maintenance,False,False
+EQ01033,Greater China,China,Elevator,Commercial,2018,7,Full Maintenance,False,False
+EQ01034,Greater China,China,Escalator,Commercial,2017,8,Full Maintenance,False,False
+EQ01035,Greater China,China,Elevator,Public / Transport,2011,14,Basic Maintenance,False,False
+EQ01036,Americas,Mexico,Elevator,Residential,2002,23,Repair Only,True,True
+EQ01037,Greater China,China,Escalator,Industrial,2007,18,Full Maintenance,False,True
+EQ01038,Americas,USA,Elevator,Residential,2018,7,Full Maintenance,False,False
+EQ01039,Greater China,China,Elevator,Residential,1995,30,Full Maintenance,False,True
+EQ01040,Greater China,China,Elevator,Healthcare,2018,7,Full Maintenance,False,False
+EQ01041,Europe,Germany,Elevator,Commercial,2002,23,Full Maintenance,True,True
+EQ01042,Americas,Mexico,Elevator,Residential,1999,26,Basic Maintenance,False,False
+EQ01043,Greater China,China,Elevator,Public / Transport,1998,27,Full Maintenance,False,False
+EQ01044,Europe,Netherlands,Escalator,Commercial,1995,30,Full Maintenance,False,True
+EQ01045,APMEA,South Korea,Autowalk,Residential,2010,15,Basic Maintenance,False,False
+EQ01046,Europe,Netherlands,Elevator,Residential,2001,24,Full Maintenance,False,False
+EQ01047,Greater China,China,Elevator,Residential,2024,1,Full Maintenance,False,False
+EQ01048,Greater China,China,Elevator,Residential,2012,13,Full Maintenance,False,False
+EQ01049,APMEA,South Korea,Elevator,Residential,1999,26,Repair Only,False,True
+EQ01050,Greater China,China,Escalator,Residential,2015,10,Basic Maintenance,True,False
+EQ01051,APMEA,India,Escalator,Residential,2021,4,Full Maintenance,False,True
+EQ01052,Europe,Finland,Escalator,Industrial,2017,8,Full Maintenance,False,True
+EQ01053,APMEA,Saudi Arabia,Elevator,Commercial,1997,28,Full Maintenance,False,False
+EQ01054,Americas,Brazil,Elevator,Residential,2021,4,Basic Maintenance,True,False
+EQ01055,APMEA,South Korea,Elevator,Healthcare,2018,7,Basic Maintenance,False,True
+EQ01056,Greater China,China,Elevator,Residential,1999,26,Repair Only,False,False
+EQ01057,Americas,Canada,Elevator,Industrial,1996,29,Full Maintenance,False,False
+EQ01058,Europe,Netherlands,Automatic Door,Residential,2011,14,Repair Only,True,True
+EQ01059,Europe,Germany,Elevator,Public / Transport,1999,26,Repair Only,False,True
+EQ01060,Europe,Netherlands,Escalator,Healthcare,2020,5,Repair Only,True,False
+EQ01061,APMEA,UAE,Elevator,Commercial,2005,20,Basic Maintenance,True,True
+EQ01062,APMEA,UAE,Elevator,Residential,2022,3,Full Maintenance,True,True
+EQ01063,Americas,Brazil,Elevator,Residential,2011,14,Full Maintenance,False,False
+EQ01064,Europe,France,Elevator,Residential,2000,25,Full Maintenance,True,True
+EQ01065,Europe,Poland,Elevator,Commercial,1999,26,Full Maintenance,False,False
+EQ01066,Americas,Brazil,Elevator,Public / Transport,2012,13,Basic Maintenance,False,False
+EQ01067,Greater China,China,Autowalk,Commercial,2017,8,Basic Maintenance,False,False
+EQ01068,Greater China,China,Elevator,Residential,2018,7,Repair Only,False,False
+EQ01069,Greater China,China,Elevator,Industrial,2003,22,Full Maintenance,False,False
+EQ01070,Greater China,China,Autowalk,Commercial,2001,24,Full Maintenance,False,True
+EQ01071,Greater China,China,Escalator,Healthcare,1995,30,Basic Maintenance,False,True
+EQ01072,Greater China,China,Escalator,Public / Transport,2015,10,Full Maintenance,False,False
+EQ01073,Greater China,China,Elevator,Residential,1997,28,Full Maintenance,True,True
+EQ01074,Greater China,China,Autowalk,Residential,2007,18,Repair Only,True,True
+EQ01075,APMEA,India,Elevator,Commercial,2013,12,Basic Maintenance,False,False
+EQ01076,Europe,Finland,Elevator,Industrial,2023,2,Full Maintenance,False,False
+EQ01077,Greater China,China,Elevator,Commercial,2004,21,Basic Maintenance,False,True
+EQ01078,Americas,Canada,Elevator,Industrial,2002,23,Basic Maintenance,False,True
+EQ01079,Greater China,China,Elevator,Public / Transport,2014,11,Basic Maintenance,False,False
+EQ01080,APMEA,South Korea,Elevator,Commercial,2013,12,Basic Maintenance,False,False
+EQ01081,Americas,Mexico,Elevator,Public / Transport,2004,21,Full Maintenance,True,True
+EQ01082,Greater China,China,Elevator,Commercial,2022,3,Basic Maintenance,False,True
+EQ01083,Europe,Germany,Elevator,Healthcare,2020,5,Full Maintenance,False,False
+EQ01084,APMEA,Saudi Arabia,Autowalk,Commercial,2001,24,Full Maintenance,False,False
+EQ01085,APMEA,Saudi Arabia,Automatic Door,Residential,2002,23,Repair Only,False,False
+EQ01086,Europe,Poland,Elevator,Commercial,2010,15,Full Maintenance,False,True
+EQ01087,Europe,Finland,Escalator,Public / Transport,2018,7,Basic Maintenance,False,True
+EQ01088,Greater China,China,Escalator,Residential,1996,29,Basic Maintenance,False,False
+EQ01089,APMEA,Saudi Arabia,Elevator,Commercial,2015,10,Repair Only,False,True
+EQ01090,Greater China,China,Elevator,Residential,2014,11,Repair Only,False,True
+EQ01091,APMEA,India,Escalator,Residential,2001,24,Full Maintenance,False,True
+EQ01092,Europe,Sweden,Autowalk,Industrial,2015,10,Full Maintenance,False,False
+EQ01093,Europe,Germany,Elevator,Public / Transport,2023,2,Full Maintenance,True,False
+EQ01094,Europe,Sweden,Elevator,Residential,1996,29,Full Maintenance,False,False
+EQ01095,Greater China,China,Elevator,Commercial,2004,21,Full Maintenance,False,False
+EQ01096,Greater China,China,Elevator,Commercial,2008,17,Basic Maintenance,False,False
+EQ01097,Greater China,China,Escalator,Residential,2021,4,Basic Maintenance,False,False
+EQ01098,Greater China,China,Escalator,Residential,2023,2,Repair Only,False,True
+EQ01099,Americas,Canada,Elevator,Residential,2008,17,Basic Maintenance,False,True
+EQ01100,Greater China,China,Autowalk,Commercial,2017,8,Basic Maintenance,False,False
+EQ01101,Greater China,China,Elevator,Residential,2010,15,Full Maintenance,False,True
+EQ01102,APMEA,UAE,Automatic Door,Healthcare,2011,14,Full Maintenance,False,False
+EQ01103,APMEA,UAE,Elevator,Commercial,2003,22,Full Maintenance,False,True
+EQ01104,APMEA,UAE,Elevator,Residential,2001,24,Basic Maintenance,False,True
+EQ01105,APMEA,South Korea,Elevator,Public / Transport,2003,22,Full Maintenance,False,False
+EQ01106,Greater China,China,Elevator,Industrial,2011,14,Basic Maintenance,False,False
+EQ01107,Greater China,China,Elevator,Residential,1995,30,Basic Maintenance,False,False
+EQ01108,Americas,Mexico,Elevator,Residential,2022,3,Full Maintenance,True,False
+EQ01109,Americas,Canada,Elevator,Public / Transport,1999,26,Full Maintenance,True,True
+EQ01110,Greater China,China,Escalator,Commercial,2001,24,Full Maintenance,True,True
+EQ01111,Americas,Brazil,Elevator,Residential,2010,15,Full Maintenance,False,False
+EQ01112,Greater China,China,Elevator,Commercial,2016,9,Basic Maintenance,True,True
+EQ01113,Greater China,China,Elevator,Residential,1997,28,Basic Maintenance,True,True
+EQ01114,Europe,Poland,Escalator,Residential,2004,21,Basic Maintenance,True,True
+EQ01115,Europe,Poland,Elevator,Industrial,2024,1,Basic Maintenance,False,True
+EQ01116,Europe,France,Autowalk,Commercial,2002,23,Basic Maintenance,True,False
+EQ01117,Greater China,China,Escalator,Residential,2004,21,Repair Only,False,False
+EQ01118,APMEA,UAE,Elevator,Residential,2020,5,Full Maintenance,True,False
+EQ01119,Greater China,China,Elevator,Residential,1996,29,Basic Maintenance,False,False
+EQ01120,Greater China,China,Elevator,Industrial,2008,17,Full Maintenance,False,True
+EQ01121,APMEA,Australia,Elevator,Residential,2006,19,Full Maintenance,False,False
+EQ01122,APMEA,UAE,Autowalk,Healthcare,2004,21,Full Maintenance,False,True
+EQ01123,APMEA,Australia,Autowalk,Residential,2003,22,Basic Maintenance,False,True
+EQ01124,Americas,Canada,Elevator,Residential,1997,28,Full Maintenance,False,False
+EQ01125,Americas,Brazil,Elevator,Public / Transport,2004,21,Full Maintenance,False,True
+EQ01126,Europe,Sweden,Escalator,Commercial,1996,29,Repair Only,False,False
+EQ01127,Greater China,China,Elevator,Commercial,2018,7,Basic Maintenance,True,False
+EQ01128,Europe,Sweden,Elevator,Industrial,2006,19,Basic Maintenance,False,False
+EQ01129,Greater China,China,Elevator,Residential,2008,17,Basic Maintenance,True,False
+EQ01130,Greater China,China,Elevator,Public / Transport,2021,4,Repair Only,False,True
+EQ01131,Americas,Canada,Escalator,Healthcare,2014,11,Basic Maintenance,False,True
+EQ01132,Europe,Germany,Elevator,Residential,1995,30,Full Maintenance,False,True
+EQ01133,Greater China,China,Elevator,Residential,2023,2,Repair Only,False,True
+EQ01134,Greater China,China,Autowalk,Residential,2002,23,Basic Maintenance,False,True
+EQ01135,Americas,USA,Elevator,Residential,1998,27,Full Maintenance,False,True
+EQ01136,Greater China,China,Autowalk,Public / Transport,2018,7,Full Maintenance,False,False
+EQ01137,APMEA,Australia,Elevator,Public / Transport,2010,15,Full Maintenance,True,False
+EQ01138,Europe,Sweden,Elevator,Residential,2008,17,Repair Only,False,False
+EQ01139,Europe,Sweden,Autowalk,Commercial,2002,23,Full Maintenance,False,False
+EQ01140,Europe,Germany,Elevator,Residential,2011,14,Repair Only,False,False
+EQ01141,Americas,Mexico,Elevator,Commercial,2003,22,Repair Only,False,False
+EQ01142,Greater China,China,Elevator,Public / Transport,2022,3,Basic Maintenance,True,False
+EQ01143,Americas,USA,Elevator,Commercial,2001,24,Basic Maintenance,True,True
+EQ01144,Europe,France,Elevator,Public / Transport,2021,4,Full Maintenance,False,False
+EQ01145,Greater China,China,Autowalk,Industrial,2011,14,Full Maintenance,False,False
+EQ01146,APMEA,Saudi Arabia,Autowalk,Industrial,2019,6,Full Maintenance,False,True
+EQ01147,Americas,Canada,Autowalk,Residential,2016,9,Basic Maintenance,False,True
+EQ01148,Americas,Mexico,Elevator,Industrial,2015,10,Full Maintenance,False,True
+EQ01149,APMEA,India,Elevator,Residential,2004,21,Full Maintenance,True,False
+EQ01150,APMEA,India,Elevator,Public / Transport,2002,23,Full Maintenance,True,False
+EQ01151,Americas,USA,Autowalk,Residential,2001,24,Repair Only,True,True
+EQ01152,Americas,USA,Elevator,Residential,2020,5,Full Maintenance,False,True
+EQ01153,Americas,Brazil,Elevator,Residential,2019,6,Repair Only,True,False
+EQ01154,Americas,Brazil,Escalator,Commercial,2008,17,Full Maintenance,False,True
+EQ01155,Europe,Poland,Elevator,Residential,1998,27,Full Maintenance,False,True
+EQ01156,Americas,Mexico,Elevator,Healthcare,2006,19,Full Maintenance,False,True
+EQ01157,Greater China,China,Automatic Door,Commercial,2013,12,Full Maintenance,True,False
+EQ01158,APMEA,India,Automatic Door,Residential,2008,17,Basic Maintenance,True,False
+EQ01159,APMEA,South Korea,Elevator,Residential,2018,7,Full Maintenance,False,True
+EQ01160,Greater China,China,Elevator,Residential,2024,1,Basic Maintenance,False,False
+EQ01161,Americas,Mexico,Automatic Door,Commercial,2000,25,Basic Maintenance,False,False
+EQ01162,Greater China,China,Elevator,Residential,2008,17,Basic Maintenance,False,True
+EQ01163,Greater China,China,Elevator,Commercial,2007,18,Basic Maintenance,False,False
+EQ01164,Americas,Mexico,Elevator,Commercial,2004,21,Full Maintenance,False,True
+EQ01165,Greater China,China,Elevator,Industrial,2000,25,Basic Maintenance,False,False
+EQ01166,Americas,Canada,Elevator,Residential,1996,29,Repair Only,False,True
+EQ01167,Americas,Mexico,Elevator,Healthcare,2021,4,Repair Only,False,False
+EQ01168,Europe,Sweden,Elevator,Commercial,2007,18,Repair Only,False,True
+EQ01169,Greater China,China,Elevator,Residential,2009,16,Full Maintenance,False,False
+EQ01170,Greater China,China,Automatic Door,Commercial,2022,3,Basic Maintenance,False,True
+EQ01171,Europe,Sweden,Escalator,Residential,2018,7,Basic Maintenance,False,False
+EQ01172,APMEA,India,Escalator,Healthcare,1998,27,Full Maintenance,False,True
+EQ01173,Europe,Finland,Elevator,Public / Transport,2011,14,Basic Maintenance,False,False
+EQ01174,Greater China,China,Elevator,Commercial,2008,17,Basic Maintenance,False,False
+EQ01175,Europe,Sweden,Elevator,Residential,2018,7,Full Maintenance,True,True
+EQ01176,Europe,Germany,Autowalk,Residential,2016,9,Full Maintenance,True,False
+EQ01177,Americas,USA,Elevator,Commercial,2015,10,Basic Maintenance,True,True
+EQ01178,Greater China,China,Elevator,Commercial,2005,20,Full Maintenance,False,False
+EQ01179,Americas,Canada,Escalator,Healthcare,2019,6,Full Maintenance,False,False
+EQ01180,Europe,Sweden,Elevator,Healthcare,1996,29,Full Maintenance,True,True
+EQ01181,APMEA,UAE,Elevator,Healthcare,1999,26,Full Maintenance,True,False
+EQ01182,Greater China,China,Automatic Door,Public / Transport,2005,20,Repair Only,False,True
+EQ01183,Europe,France,Autowalk,Industrial,1997,28,Full Maintenance,True,True
+EQ01184,APMEA,UAE,Elevator,Residential,2002,23,Basic Maintenance,True,False
+EQ01185,Greater China,China,Automatic Door,Commercial,2019,6,Repair Only,False,False
+EQ01186,APMEA,Australia,Escalator,Commercial,2023,2,Full Maintenance,True,True
+EQ01187,Americas,Canada,Escalator,Industrial,2004,21,Full Maintenance,True,True
+EQ01188,Greater China,China,Elevator,Public / Transport,2002,23,Basic Maintenance,False,False
+EQ01189,Greater China,China,Elevator,Public / Transport,2003,22,Full Maintenance,False,True
+EQ01190,Americas,Mexico,Elevator,Healthcare,2003,22,Full Maintenance,False,False
+EQ01191,Greater China,China,Autowalk,Public / Transport,1996,29,Basic Maintenance,True,False
+EQ01192,Europe,Sweden,Elevator,Healthcare,2022,3,Basic Maintenance,False,True
+EQ01193,Greater China,China,Elevator,Commercial,2001,24,Basic Maintenance,False,True
+EQ01194,Europe,France,Elevator,Public / Transport,2007,18,Repair Only,True,False
+EQ01195,Greater China,China,Escalator,Residential,1995,30,Basic Maintenance,True,True
+EQ01196,APMEA,Australia,Elevator,Commercial,2020,5,Basic Maintenance,True,False
+EQ01197,APMEA,India,Elevator,Healthcare,2016,9,Repair Only,False,False
+EQ01198,APMEA,South Korea,Elevator,Public / Transport,2023,2,Full Maintenance,False,False
+EQ01199,Americas,Canada,Elevator,Commercial,2018,7,Full Maintenance,False,False
+EQ01200,Greater China,China,Escalator,Commercial,2004,21,Basic Maintenance,False,True
+EQ01201,Americas,Brazil,Escalator,Industrial,2002,23,Basic Maintenance,False,False
+EQ01202,Greater China,China,Elevator,Residential,2015,10,Full Maintenance,False,False
+EQ01203,Greater China,China,Elevator,Healthcare,2005,20,Full Maintenance,False,False
+EQ01204,Greater China,China,Escalator,Commercial,2011,14,Full Maintenance,True,True
+EQ01205,Europe,Netherlands,Elevator,Commercial,1995,30,Basic Maintenance,False,False
+EQ01206,Americas,USA,Elevator,Commercial,1996,29,Basic Maintenance,False,True
+EQ01207,Americas,Mexico,Automatic Door,Commercial,2011,14,Repair Only,False,False
+EQ01208,Europe,France,Elevator,Commercial,2011,14,Basic Maintenance,False,False
+EQ01209,Greater China,China,Autowalk,Healthcare,2017,8,Basic Maintenance,False,False
+EQ01210,APMEA,Saudi Arabia,Elevator,Residential,1998,27,Full Maintenance,False,True
+EQ01211,Europe,France,Elevator,Residential,2010,15,Full Maintenance,True,False
+EQ01212,Europe,Finland,Elevator,Commercial,2000,25,Full Maintenance,False,True
+EQ01213,Greater China,China,Automatic Door,Commercial,1997,28,Basic Maintenance,False,False
+EQ01214,Americas,Mexico,Elevator,Public / Transport,2007,18,Full Maintenance,False,True
+EQ01215,Americas,Brazil,Elevator,Residential,1999,26,Basic Maintenance,True,True
+EQ01216,Greater China,China,Automatic Door,Public / Transport,2001,24,Basic Maintenance,True,True
+EQ01217,Greater China,China,Elevator,Residential,2004,21,Full Maintenance,False,False
+EQ01218,Americas,Mexico,Elevator,Residential,2002,23,Repair Only,False,False
+EQ01219,Americas,USA,Elevator,Residential,1997,28,Basic Maintenance,False,False
+EQ01220,Greater China,China,Escalator,Residential,1997,28,Full Maintenance,False,False
+EQ01221,APMEA,UAE,Elevator,Public / Transport,2000,25,Full Maintenance,False,False
+EQ01222,Greater China,China,Elevator,Commercial,1996,29,Basic Maintenance,False,True
+EQ01223,Europe,Sweden,Elevator,Industrial,2013,12,Full Maintenance,True,False
+EQ01224,APMEA,Australia,Elevator,Commercial,2003,22,Full Maintenance,True,False
+EQ01225,Europe,France,Automatic Door,Industrial,2003,22,Basic Maintenance,False,True
+EQ01226,Europe,Netherlands,Autowalk,Healthcare,2004,21,Repair Only,False,True
+EQ01227,Greater China,China,Escalator,Residential,2014,11,Full Maintenance,False,True
+EQ01228,Greater China,China,Escalator,Residential,2021,4,Repair Only,False,True
+EQ01229,APMEA,UAE,Escalator,Healthcare,2017,8,Basic Maintenance,True,True
+EQ01230,Europe,Sweden,Elevator,Residential,2016,9,Full Maintenance,False,True
+EQ01231,APMEA,India,Escalator,Commercial,2009,16,Basic Maintenance,False,False
+EQ01232,Greater China,China,Elevator,Commercial,2015,10,Full Maintenance,False,True
+EQ01233,Greater China,China,Elevator,Industrial,2011,14,Full Maintenance,True,True
+EQ01234,Greater China,China,Escalator,Industrial,2001,24,Basic Maintenance,False,False
+EQ01235,Americas,Brazil,Elevator,Residential,2001,24,Basic Maintenance,False,False
+EQ01236,Greater China,China,Autowalk,Residential,2003,22,Full Maintenance,False,True
+EQ01237,APMEA,Saudi Arabia,Elevator,Healthcare,2022,3,Repair Only,False,False
+EQ01238,Europe,Germany,Elevator,Commercial,2011,14,Basic Maintenance,True,True
+EQ01239,APMEA,India,Elevator,Residential,2017,8,Repair Only,True,True
+EQ01240,Greater China,China,Elevator,Commercial,2005,20,Full Maintenance,True,True
+EQ01241,APMEA,Australia,Escalator,Public / Transport,2007,18,Repair Only,False,False
+EQ01242,Americas,Brazil,Elevator,Commercial,1998,27,Full Maintenance,False,False
+EQ01243,Americas,USA,Elevator,Industrial,2000,25,Full Maintenance,False,False
+EQ01244,APMEA,South Korea,Elevator,Commercial,2019,6,Basic Maintenance,True,False
+EQ01245,Americas,Mexico,Elevator,Industrial,2012,13,Basic Maintenance,False,False
+EQ01246,Europe,Netherlands,Elevator,Public / Transport,2005,20,Basic Maintenance,False,False
+EQ01247,Greater China,China,Autowalk,Residential,2019,6,Full Maintenance,True,False
+EQ01248,Greater China,China,Elevator,Residential,2002,23,Full Maintenance,False,True
+EQ01249,APMEA,South Korea,Escalator,Residential,2024,1,Basic Maintenance,True,True
+EQ01250,Europe,Finland,Autowalk,Residential,2005,20,Full Maintenance,True,False
+EQ01251,Americas,USA,Elevator,Public / Transport,2005,20,Basic Maintenance,True,False
+EQ01252,Europe,Netherlands,Escalator,Commercial,2004,21,Full Maintenance,False,False
+EQ01253,Greater China,China,Escalator,Industrial,1998,27,Repair Only,False,False
+EQ01254,Greater China,China,Elevator,Commercial,1998,27,Basic Maintenance,False,False
+EQ01255,Americas,Canada,Elevator,Commercial,2014,11,Basic Maintenance,False,False
+EQ01256,Europe,France,Elevator,Residential,2021,4,Repair Only,False,True
+EQ01257,Greater China,China,Automatic Door,Residential,2018,7,Basic Maintenance,False,False
+EQ01258,Europe,France,Autowalk,Residential,1999,26,Full Maintenance,False,False
+EQ01259,Greater China,China,Escalator,Industrial,2011,14,Full Maintenance,False,False
+EQ01260,Europe,Sweden,Elevator,Commercial,1998,27,Basic Maintenance,False,False
+EQ01261,Greater China,China,Elevator,Commercial,1996,29,Full Maintenance,True,True
+EQ01262,Americas,Canada,Elevator,Public / Transport,2014,11,Basic Maintenance,False,False
+EQ01263,Greater China,China,Elevator,Public / Transport,2011,14,Full Maintenance,False,False
+EQ01264,Europe,France,Elevator,Commercial,1997,28,Full Maintenance,True,False
+EQ01265,Greater China,China,Automatic Door,Residential,1996,29,Full Maintenance,False,False
+EQ01266,Greater China,China,Autowalk,Residential,2024,1,Repair Only,True,True
+EQ01267,Greater China,China,Escalator,Public / Transport,1995,30,Basic Maintenance,False,True
+EQ01268,Europe,Poland,Elevator,Public / Transport,2008,17,Repair Only,True,True
+EQ01269,Europe,Sweden,Elevator,Public / Transport,2010,15,Repair Only,True,True
+EQ01270,Greater China,China,Elevator,Public / Transport,1998,27,Full Maintenance,False,False
+EQ01271,Americas,Brazil,Escalator,Commercial,2000,25,Full Maintenance,False,False
+EQ01272,APMEA,Saudi Arabia,Escalator,Public / Transport,2005,20,Basic Maintenance,False,True
+EQ01273,Americas,Canada,Elevator,Residential,2017,8,Repair Only,True,True
+EQ01274,Greater China,China,Elevator,Commercial,2010,15,Full Maintenance,True,False
+EQ01275,Europe,Sweden,Elevator,Residential,2014,11,Repair Only,False,False
+EQ01276,Greater China,China,Elevator,Healthcare,2024,1,Full Maintenance,False,False
+EQ01277,Greater China,China,Elevator,Public / Transport,2018,7,Full Maintenance,False,False
+EQ01278,APMEA,UAE,Elevator,Commercial,2008,17,Basic Maintenance,True,False
+EQ01279,Greater China,China,Elevator,Industrial,2008,17,Full Maintenance,False,True
+EQ01280,Europe,Netherlands,Autowalk,Public / Transport,2013,12,Full Maintenance,False,False
+EQ01281,Europe,Sweden,Elevator,Commercial,2014,11,Full Maintenance,False,True
+EQ01282,Americas,USA,Elevator,Residential,2010,15,Full Maintenance,False,False
+EQ01283,Europe,Netherlands,Elevator,Industrial,2014,11,Basic Maintenance,True,False
+EQ01284,Greater China,China,Elevator,Residential,1995,30,Repair Only,True,False
+EQ01285,Greater China,China,Elevator,Commercial,2007,18,Repair Only,False,True
+EQ01286,Europe,Finland,Elevator,Industrial,2003,22,Basic Maintenance,False,True
+EQ01287,Greater China,China,Elevator,Healthcare,1998,27,Full Maintenance,False,False
+EQ01288,Greater China,China,Elevator,Industrial,1997,28,Full Maintenance,False,True
+EQ01289,Greater China,China,Escalator,Public / Transport,2013,12,Full Maintenance,False,True
+EQ01290,Greater China,China,Elevator,Residential,2010,15,Full Maintenance,False,False
+EQ01291,Greater China,China,Escalator,Commercial,2002,23,Full Maintenance,False,False
+EQ01292,Greater China,China,Elevator,Residential,2009,16,Basic Maintenance,True,False
+EQ01293,Europe,Poland,Elevator,Residential,2009,16,Repair Only,True,True
+EQ01294,Americas,Canada,Elevator,Public / Transport,2000,25,Full Maintenance,False,False
+EQ01295,Americas,Mexico,Elevator,Commercial,2014,11,Basic Maintenance,True,True
+EQ01296,Greater China,China,Autowalk,Residential,2018,7,Full Maintenance,True,False
+EQ01297,Greater China,China,Escalator,Residential,2018,7,Basic Maintenance,True,False
+EQ01298,Greater China,China,Autowalk,Healthcare,2013,12,Basic Maintenance,True,False
+EQ01299,Europe,Poland,Autowalk,Commercial,2010,15,Full Maintenance,True,False
+EQ01300,Americas,USA,Elevator,Commercial,1996,29,Full Maintenance,False,True
+EQ01301,Greater China,China,Elevator,Commercial,2003,22,Repair Only,False,True
+EQ01302,APMEA,UAE,Elevator,Public / Transport,1997,28,Basic Maintenance,False,False
+EQ01303,Greater China,China,Automatic Door,Commercial,2023,2,Repair Only,False,True
+EQ01304,Europe,France,Escalator,Commercial,1999,26,Basic Maintenance,False,False
+EQ01305,Americas,Canada,Elevator,Commercial,1999,26,Repair Only,True,True
+EQ01306,APMEA,Saudi Arabia,Escalator,Industrial,2021,4,Full Maintenance,False,False
+EQ01307,Americas,Mexico,Elevator,Commercial,2023,2,Full Maintenance,True,False
+EQ01308,Americas,Mexico,Elevator,Residential,2017,8,Full Maintenance,False,True
+EQ01309,Greater China,China,Elevator,Commercial,1995,30,Full Maintenance,False,False
+EQ01310,Americas,Mexico,Escalator,Residential,1995,30,Full Maintenance,False,True
+EQ01311,Greater China,China,Autowalk,Industrial,2006,19,Basic Maintenance,False,True
+EQ01312,APMEA,Australia,Elevator,Residential,1999,26,Basic Maintenance,False,True
+EQ01313,Europe,Netherlands,Elevator,Healthcare,1995,30,Full Maintenance,False,False
+EQ01314,Americas,Canada,Elevator,Healthcare,2008,17,Repair Only,True,False
+EQ01315,Europe,France,Escalator,Residential,2023,2,Full Maintenance,False,False
+EQ01316,Europe,Finland,Elevator,Public / Transport,2004,21,Full Maintenance,False,True
+EQ01317,Europe,Poland,Elevator,Industrial,2014,11,Basic Maintenance,False,False
+EQ01318,Americas,Mexico,Elevator,Public / Transport,2014,11,Basic Maintenance,True,False
+EQ01319,Greater China,China,Elevator,Residential,2002,23,Full Maintenance,False,True
+EQ01320,Greater China,China,Elevator,Residential,2014,11,Full Maintenance,True,False
+EQ01321,Greater China,China,Escalator,Residential,2001,24,Basic Maintenance,True,False
+EQ01322,Greater China,China,Elevator,Public / Transport,1998,27,Full Maintenance,False,True
+EQ01323,APMEA,UAE,Escalator,Commercial,2016,9,Full Maintenance,True,True
+EQ01324,Greater China,China,Elevator,Commercial,1998,27,Basic Maintenance,False,True
+EQ01325,APMEA,UAE,Elevator,Residential,2024,1,Full Maintenance,False,False
+EQ01326,Greater China,China,Elevator,Commercial,2000,25,Full Maintenance,False,False
+EQ01327,Greater China,China,Escalator,Residential,2012,13,Full Maintenance,False,True
+EQ01328,Americas,Mexico,Autowalk,Commercial,2007,18,Repair Only,False,True
+EQ01329,Americas,USA,Autowalk,Residential,1998,27,Repair Only,False,False
+EQ01330,Europe,France,Elevator,Healthcare,1995,30,Full Maintenance,False,False
+EQ01331,Europe,Germany,Elevator,Residential,2013,12,Full Maintenance,False,False
+EQ01332,Americas,USA,Escalator,Industrial,2019,6,Full Maintenance,False,False
+EQ01333,Greater China,China,Escalator,Commercial,2020,5,Full Maintenance,True,False
+EQ01334,APMEA,UAE,Elevator,Commercial,2009,16,Full Maintenance,False,True
+EQ01335,APMEA,South Korea,Escalator,Public / Transport,2018,7,Basic Maintenance,True,True
+EQ01336,Americas,Canada,Elevator,Public / Transport,2015,10,Full Maintenance,True,False
+EQ01337,Greater China,China,Elevator,Residential,2016,9,Full Maintenance,True,True
+EQ01338,Americas,Brazil,Elevator,Healthcare,2009,16,Full Maintenance,False,True
+EQ01339,Greater China,China,Elevator,Healthcare,2014,11,Full Maintenance,False,False
+EQ01340,Greater China,China,Elevator,Healthcare,2019,6,Full Maintenance,False,True
+EQ01341,Greater China,China,Elevator,Residential,2006,19,Full Maintenance,False,True
+EQ01342,Europe,Germany,Elevator,Commercial,2019,6,Basic Maintenance,False,False
+EQ01343,APMEA,Saudi Arabia,Elevator,Residential,2012,13,Basic Maintenance,False,True
+EQ01344,Americas,Brazil,Elevator,Industrial,1999,26,Full Maintenance,False,True
+EQ01345,Americas,Brazil,Escalator,Commercial,1995,30,Basic Maintenance,False,False
+EQ01346,Europe,Netherlands,Elevator,Public / Transport,2005,20,Full Maintenance,False,False
+EQ01347,Greater China,China,Elevator,Commercial,2011,14,Full Maintenance,False,True
+EQ01348,Greater China,China,Elevator,Residential,2020,5,Basic Maintenance,False,False
+EQ01349,APMEA,South Korea,Autowalk,Residential,1998,27,Full Maintenance,True,True
+EQ01350,Greater China,China,Elevator,Industrial,2019,6,Basic Maintenance,False,False
+EQ01351,APMEA,UAE,Elevator,Residential,2020,5,Basic Maintenance,False,True
+EQ01352,Europe,Finland,Elevator,Public / Transport,1999,26,Repair Only,False,False
+EQ01353,Europe,Netherlands,Escalator,Residential,2020,5,Repair Only,False,True
+EQ01354,Americas,USA,Elevator,Public / Transport,2024,1,Full Maintenance,False,True
+EQ01355,Europe,Finland,Elevator,Healthcare,2016,9,Repair Only,False,True
+EQ01356,APMEA,India,Elevator,Industrial,2018,7,Basic Maintenance,False,False
+EQ01357,APMEA,India,Elevator,Healthcare,2024,1,Basic Maintenance,True,False
+EQ01358,Europe,Finland,Escalator,Commercial,2013,12,Full Maintenance,False,True
+EQ01359,Greater China,China,Autowalk,Residential,2004,21,Repair Only,False,False
+EQ01360,Europe,France,Elevator,Commercial,2020,5,Full Maintenance,True,True
+EQ01361,APMEA,UAE,Escalator,Commercial,2013,12,Basic Maintenance,False,False
+EQ01362,Greater China,China,Elevator,Public / Transport,2012,13,Full Maintenance,False,True
+EQ01363,Europe,France,Elevator,Commercial,2002,23,Basic Maintenance,True,False
+EQ01364,Europe,Sweden,Escalator,Residential,2017,8,Full Maintenance,False,False
+EQ01365,Americas,USA,Elevator,Residential,1997,28,Full Maintenance,False,False
+EQ01366,Greater China,China,Autowalk,Residential,2022,3,Full Maintenance,False,True
+EQ01367,Americas,Brazil,Elevator,Residential,2004,21,Full Maintenance,True,True
+EQ01368,APMEA,South Korea,Elevator,Public / Transport,1998,27,Full Maintenance,False,False
+EQ01369,Greater China,China,Elevator,Commercial,2008,17,Full Maintenance,False,True
+EQ01370,Greater China,China,Elevator,Residential,1996,29,Basic Maintenance,True,True
+EQ01371,APMEA,Australia,Escalator,Residential,2015,10,Basic Maintenance,True,True
+EQ01372,Greater China,China,Elevator,Industrial,2022,3,Basic Maintenance,False,True
+EQ01373,APMEA,South Korea,Escalator,Residential,2020,5,Full Maintenance,False,True
+EQ01374,Europe,Poland,Elevator,Public / Transport,1998,27,Full Maintenance,True,False
+EQ01375,Greater China,China,Elevator,Residential,1998,27,Full Maintenance,False,False
+EQ01376,APMEA,UAE,Automatic Door,Residential,2019,6,Repair Only,False,False
+EQ01377,Europe,France,Escalator,Commercial,2022,3,Repair Only,False,True
+EQ01378,Europe,Poland,Elevator,Residential,2008,17,Full Maintenance,True,False
+EQ01379,Greater China,China,Escalator,Industrial,2009,16,Full Maintenance,False,False
+EQ01380,Europe,Germany,Elevator,Commercial,2004,21,Repair Only,True,False
+EQ01381,Greater China,China,Elevator,Residential,2021,4,Repair Only,False,True
+EQ01382,Greater China,China,Elevator,Public / Transport,2014,11,Repair Only,False,False
+EQ01383,APMEA,Australia,Automatic Door,Residential,2003,22,Basic Maintenance,False,False
+EQ01384,Greater China,China,Elevator,Commercial,2003,22,Full Maintenance,False,False
+EQ01385,Americas,Mexico,Escalator,Industrial,2021,4,Full Maintenance,False,True
+EQ01386,Greater China,China,Elevator,Commercial,1995,30,Full Maintenance,False,True
+EQ01387,Americas,Canada,Escalator,Public / Transport,2004,21,Full Maintenance,True,True
+EQ01388,Greater China,China,Elevator,Commercial,2011,14,Full Maintenance,False,False
+EQ01389,APMEA,South Korea,Escalator,Industrial,1999,26,Full Maintenance,True,True
+EQ01390,Europe,Netherlands,Elevator,Residential,1997,28,Full Maintenance,False,False
+EQ01391,Greater China,China,Escalator,Public / Transport,2019,6,Full Maintenance,False,False
+EQ01392,Greater China,China,Automatic Door,Commercial,2021,4,Full Maintenance,False,False
+EQ01393,Greater China,China,Escalator,Industrial,2019,6,Full Maintenance,False,False
+EQ01394,Europe,Germany,Elevator,Residential,2021,4,Full Maintenance,False,False
+EQ01395,Greater China,China,Autowalk,Residential,2011,14,Basic Maintenance,False,False
+EQ01396,Americas,USA,Elevator,Residential,2019,6,Basic Maintenance,False,True
+EQ01397,Europe,France,Escalator,Industrial,2006,19,Full Maintenance,True,False
+EQ01398,Greater China,China,Autowalk,Healthcare,2014,11,Full Maintenance,False,False
+EQ01399,Europe,Poland,Elevator,Commercial,2024,1,Full Maintenance,False,True
+EQ01400,Americas,USA,Elevator,Commercial,2001,24,Basic Maintenance,False,False
+EQ01401,Greater China,China,Elevator,Public / Transport,2006,19,Full Maintenance,True,True
+EQ01402,Greater China,China,Elevator,Commercial,2009,16,Full Maintenance,False,True
+EQ01403,Greater China,China,Elevator,Healthcare,1999,26,Repair Only,True,True
+EQ01404,Americas,Canada,Elevator,Residential,1997,28,Full Maintenance,True,True
+EQ01405,Americas,Brazil,Elevator,Industrial,2019,6,Full Maintenance,True,False
+EQ01406,Europe,France,Elevator,Commercial,2024,1,Full Maintenance,False,False
+EQ01407,APMEA,UAE,Elevator,Commercial,2007,18,Full Maintenance,False,False
+EQ01408,Americas,Canada,Elevator,Industrial,1997,28,Full Maintenance,False,False
+EQ01409,Europe,Germany,Autowalk,Healthcare,1996,29,Repair Only,True,True
+EQ01410,APMEA,India,Elevator,Healthcare,2021,4,Full Maintenance,False,True
+EQ01411,Greater China,China,Autowalk,Commercial,2008,17,Basic Maintenance,False,False
+EQ01412,Greater China,China,Elevator,Commercial,2004,21,Full Maintenance,False,False
+EQ01413,Greater China,China,Elevator,Commercial,2009,16,Full Maintenance,False,True
+EQ01414,Greater China,China,Escalator,Public / Transport,2004,21,Full Maintenance,False,False
+EQ01415,Europe,Poland,Elevator,Commercial,2009,16,Full Maintenance,False,False
+EQ01416,APMEA,UAE,Elevator,Commercial,2020,5,Full Maintenance,False,False
+EQ01417,Greater China,China,Elevator,Commercial,2012,13,Full Maintenance,False,True
+EQ01418,Greater China,China,Elevator,Residential,2015,10,Repair Only,False,False
+EQ01419,Europe,Finland,Elevator,Healthcare,2005,20,Full Maintenance,False,False
+EQ01420,APMEA,Saudi Arabia,Elevator,Residential,2017,8,Full Maintenance,False,False
+EQ01421,Greater China,China,Elevator,Commercial,2014,11,Full Maintenance,False,True
+EQ01422,Europe,Finland,Elevator,Residential,1998,27,Full Maintenance,False,False
+EQ01423,Greater China,China,Elevator,Residential,2012,13,Full Maintenance,True,False
+EQ01424,Greater China,China,Elevator,Commercial,2002,23,Full Maintenance,False,True
+EQ01425,APMEA,South Korea,Elevator,Commercial,2019,6,Full Maintenance,True,True
+EQ01426,APMEA,India,Elevator,Industrial,2007,18,Full Maintenance,True,False
+EQ01427,Greater China,China,Automatic Door,Commercial,2024,1,Basic Maintenance,True,False
+EQ01428,APMEA,South Korea,Elevator,Commercial,1997,28,Full Maintenance,False,False
+EQ01429,Europe,Sweden,Elevator,Residential,2018,7,Full Maintenance,False,True
+EQ01430,APMEA,South Korea,Elevator,Public / Transport,2015,10,Basic Maintenance,False,False
+EQ01431,Europe,Netherlands,Autowalk,Residential,2018,7,Repair Only,False,False
+EQ01432,Europe,Finland,Elevator,Industrial,2004,21,Basic Maintenance,False,True
+EQ01433,Europe,Finland,Automatic Door,Residential,2009,16,Full Maintenance,False,False
+EQ01434,Americas,Mexico,Elevator,Industrial,2018,7,Basic Maintenance,False,True
+EQ01435,Greater China,China,Elevator,Commercial,2001,24,Basic Maintenance,False,True
+EQ01436,Greater China,China,Autowalk,Healthcare,2001,24,Full Maintenance,True,False
+EQ01437,Greater China,China,Elevator,Commercial,2011,14,Repair Only,False,False
+EQ01438,Americas,Brazil,Elevator,Residential,2010,15,Full Maintenance,False,True
+EQ01439,Greater China,China,Escalator,Public / Transport,2003,22,Repair Only,False,True
+EQ01440,Americas,Canada,Autowalk,Residential,2003,22,Basic Maintenance,False,True
+EQ01441,APMEA,India,Elevator,Healthcare,2003,22,Basic Maintenance,False,True
+EQ01442,Greater China,China,Elevator,Residential,2018,7,Basic Maintenance,False,True
+EQ01443,Americas,Canada,Escalator,Public / Transport,2014,11,Full Maintenance,False,False
+EQ01444,Europe,Poland,Escalator,Public / Transport,2019,6,Full Maintenance,False,True
+EQ01445,APMEA,Saudi Arabia,Autowalk,Healthcare,2024,1,Repair Only,True,False
+EQ01446,Greater China,China,Escalator,Healthcare,2009,16,Basic Maintenance,False,True
+EQ01447,Americas,Canada,Elevator,Public / Transport,1997,28,Repair Only,False,False
+EQ01448,Americas,Brazil,Autowalk,Industrial,1996,29,Repair Only,False,False
+EQ01449,APMEA,UAE,Elevator,Residential,2003,22,Repair Only,False,False
+EQ01450,Americas,Brazil,Elevator,Commercial,2022,3,Basic Maintenance,True,True
+EQ01451,Europe,France,Elevator,Industrial,2010,15,Full Maintenance,True,False
+EQ01452,Europe,Poland,Elevator,Healthcare,2003,22,Full Maintenance,False,False
+EQ01453,APMEA,Saudi Arabia,Elevator,Industrial,2006,19,Basic Maintenance,False,False
+EQ01454,Europe,Sweden,Escalator,Healthcare,2012,13,Full Maintenance,False,False
+EQ01455,Greater China,China,Elevator,Public / Transport,2014,11,Full Maintenance,True,True
+EQ01456,APMEA,South Korea,Elevator,Commercial,1999,26,Full Maintenance,False,False
+EQ01457,Americas,Mexico,Escalator,Commercial,2024,1,Repair Only,True,False
+EQ01458,Americas,Canada,Elevator,Residential,2011,14,Repair Only,False,False
+EQ01459,Greater China,China,Elevator,Commercial,1999,26,Basic Maintenance,False,False
+EQ01460,Americas,USA,Elevator,Residential,2021,4,Full Maintenance,False,False
+EQ01461,Greater China,China,Automatic Door,Healthcare,1997,28,Basic Maintenance,False,False
+EQ01462,Americas,USA,Elevator,Public / Transport,2022,3,Basic Maintenance,True,False
+EQ01463,Greater China,China,Elevator,Residential,2024,1,Full Maintenance,False,False
+EQ01464,Americas,Brazil,Elevator,Commercial,2016,9,Full Maintenance,False,True
+EQ01465,APMEA,UAE,Elevator,Residential,2018,7,Full Maintenance,True,False
+EQ01466,Greater China,China,Elevator,Residential,2005,20,Basic Maintenance,True,False
+EQ01467,APMEA,Australia,Elevator,Residential,2023,2,Basic Maintenance,False,True
+EQ01468,Europe,Finland,Elevator,Commercial,2010,15,Full Maintenance,True,True
+EQ01469,APMEA,Australia,Automatic Door,Residential,2016,9,Repair Only,True,False
+EQ01470,Americas,Canada,Elevator,Commercial,2022,3,Full Maintenance,False,False
+EQ01471,Europe,Netherlands,Elevator,Healthcare,2024,1,Full Maintenance,False,True
+EQ01472,Americas,Mexico,Elevator,Commercial,2019,6,Full Maintenance,False,False
+EQ01473,APMEA,Saudi Arabia,Elevator,Commercial,2004,21,Full Maintenance,False,False
+EQ01474,Europe,Germany,Escalator,Commercial,2023,2,Full Maintenance,True,False
+EQ01475,Greater China,China,Elevator,Residential,2013,12,Full Maintenance,False,True
+EQ01476,Americas,Canada,Elevator,Industrial,2022,3,Full Maintenance,True,False
+EQ01477,Americas,Canada,Escalator,Industrial,2015,10,Full Maintenance,False,False
+EQ01478,Americas,USA,Elevator,Residential,2004,21,Basic Maintenance,True,True
+EQ01479,Americas,Mexico,Elevator,Industrial,2006,19,Full Maintenance,False,True
+EQ01480,Europe,Netherlands,Elevator,Residential,2011,14,Full Maintenance,False,False
+EQ01481,Americas,Canada,Elevator,Industrial,2018,7,Basic Maintenance,True,False
+EQ01482,Greater China,China,Elevator,Commercial,2004,21,Full Maintenance,False,True
+EQ01483,Europe,France,Elevator,Residential,2012,13,Basic Maintenance,True,False
+EQ01484,Greater China,China,Elevator,Public / Transport,2005,20,Repair Only,False,False
+EQ01485,Greater China,China,Autowalk,Public / Transport,2019,6,Full Maintenance,False,False
+EQ01486,Greater China,China,Elevator,Industrial,2009,16,Repair Only,True,False
+EQ01487,Greater China,China,Elevator,Commercial,1997,28,Basic Maintenance,False,False
+EQ01488,Americas,Mexico,Elevator,Commercial,1999,26,Repair Only,True,False
+EQ01489,Greater China,China,Elevator,Healthcare,1996,29,Basic Maintenance,False,True
+EQ01490,Europe,Poland,Elevator,Commercial,2009,16,Full Maintenance,False,True
+EQ01491,Greater China,China,Autowalk,Commercial,1998,27,Repair Only,False,False
+EQ01492,Greater China,China,Escalator,Commercial,1998,27,Full Maintenance,False,True
+EQ01493,Greater China,China,Automatic Door,Residential,2023,2,Full Maintenance,False,False
+EQ01494,Greater China,China,Autowalk,Commercial,2021,4,Full Maintenance,False,True
+EQ01495,Europe,Poland,Elevator,Residential,2008,17,Full Maintenance,False,True
+EQ01496,Americas,Brazil,Elevator,Residential,2024,1,Full Maintenance,True,False
+EQ01497,Europe,France,Elevator,Healthcare,1995,30,Basic Maintenance,False,False
+EQ01498,Europe,Poland,Elevator,Commercial,2013,12,Repair Only,False,False
+EQ01499,Greater China,China,Autowalk,Residential,2013,12,Full Maintenance,False,True
+EQ01500,APMEA,South Korea,Elevator,Residential,2008,17,Repair Only,True,True
+EQ01501,Europe,Sweden,Autowalk,Residential,2006,19,Repair Only,True,False
+EQ01502,Europe,Finland,Elevator,Residential,2008,17,Full Maintenance,False,True
+EQ01503,Greater China,China,Autowalk,Public / Transport,2007,18,Full Maintenance,False,False
+EQ01504,Greater China,China,Autowalk,Commercial,2016,9,Basic Maintenance,False,True
+EQ01505,Greater China,China,Escalator,Public / Transport,1999,26,Basic Maintenance,True,True
+EQ01506,Greater China,China,Escalator,Residential,2000,25,Basic Maintenance,False,False
+EQ01507,Europe,Finland,Elevator,Commercial,2000,25,Basic Maintenance,False,False
+EQ01508,Europe,Finland,Escalator,Public / Transport,2002,23,Full Maintenance,True,False
+EQ01509,Europe,Poland,Automatic Door,Residential,2010,15,Full Maintenance,True,False
+EQ01510,Americas,USA,Escalator,Commercial,1998,27,Basic Maintenance,False,False
+EQ01511,Americas,USA,Elevator,Commercial,2021,4,Full Maintenance,False,False
+EQ01512,Americas,USA,Elevator,Commercial,2003,22,Basic Maintenance,False,False
+EQ01513,APMEA,UAE,Escalator,Residential,1999,26,Basic Maintenance,False,True
+EQ01514,Greater China,China,Elevator,Commercial,2015,10,Basic Maintenance,False,True
+EQ01515,Greater China,China,Escalator,Commercial,1996,29,Repair Only,True,False
+EQ01516,Greater China,China,Elevator,Commercial,2013,12,Full Maintenance,False,True
+EQ01517,Europe,Sweden,Elevator,Industrial,2015,10,Basic Maintenance,False,True
+EQ01518,APMEA,UAE,Elevator,Public / Transport,2001,24,Basic Maintenance,False,False
+EQ01519,Greater China,China,Elevator,Public / Transport,1996,29,Repair Only,True,False
+EQ01520,APMEA,India,Elevator,Commercial,2005,20,Basic Maintenance,False,False
+EQ01521,Greater China,China,Elevator,Healthcare,1997,28,Full Maintenance,False,True
+EQ01522,APMEA,India,Elevator,Industrial,1998,27,Repair Only,False,False
+EQ01523,Greater China,China,Elevator,Public / Transport,2002,23,Basic Maintenance,False,False
+EQ01524,Greater China,China,Elevator,Residential,2003,22,Full Maintenance,False,False
+EQ01525,Europe,Poland,Escalator,Residential,2010,15,Basic Maintenance,False,True
+EQ01526,Greater China,China,Automatic Door,Public / Transport,2015,10,Repair Only,False,True
+EQ01527,Greater China,China,Escalator,Commercial,2012,13,Basic Maintenance,False,True
+EQ01528,Greater China,China,Automatic Door,Residential,1999,26,Full Maintenance,True,True
+EQ01529,Americas,Brazil,Escalator,Public / Transport,2000,25,Basic Maintenance,False,True
+EQ01530,Europe,Finland,Elevator,Public / Transport,2021,4,Basic Maintenance,False,True
+EQ01531,Greater China,China,Escalator,Healthcare,2011,14,Full Maintenance,False,False
+EQ01532,Europe,Poland,Escalator,Industrial,2021,4,Full Maintenance,False,False
+EQ01533,Americas,Canada,Elevator,Commercial,2006,19,Full Maintenance,False,False
+EQ01534,Greater China,China,Elevator,Commercial,2013,12,Basic Maintenance,True,True
+EQ01535,Europe,Germany,Escalator,Residential,2010,15,Basic Maintenance,False,False
+EQ01536,Greater China,China,Elevator,Residential,2004,21,Full Maintenance,False,True
+EQ01537,Greater China,China,Elevator,Commercial,2009,16,Full Maintenance,False,False
+EQ01538,Americas,Mexico,Elevator,Commercial,2010,15,Full Maintenance,False,False
+EQ01539,Greater China,China,Elevator,Residential,2001,24,Basic Maintenance,False,False
+EQ01540,Europe,Poland,Elevator,Public / Transport,2004,21,Full Maintenance,False,False
+EQ01541,Americas,Mexico,Elevator,Healthcare,2018,7,Full Maintenance,False,False
+EQ01542,Greater China,China,Elevator,Public / Transport,2022,3,Full Maintenance,False,False
+EQ01543,Europe,Netherlands,Elevator,Public / Transport,2005,20,Basic Maintenance,False,False
+EQ01544,Greater China,China,Escalator,Residential,2004,21,Full Maintenance,True,False
+EQ01545,APMEA,Australia,Autowalk,Healthcare,2000,25,Full Maintenance,False,False
+EQ01546,Europe,Poland,Elevator,Residential,2015,10,Repair Only,False,False
+EQ01547,Americas,Canada,Escalator,Public / Transport,2004,21,Full Maintenance,False,False
+EQ01548,Europe,Netherlands,Elevator,Healthcare,2024,1,Full Maintenance,False,False
+EQ01549,Greater China,China,Elevator,Healthcare,2004,21,Repair Only,False,True
+EQ01550,Europe,Poland,Elevator,Residential,2006,19,Full Maintenance,True,False
+EQ01551,APMEA,Saudi Arabia,Elevator,Commercial,2013,12,Basic Maintenance,False,False
+EQ01552,Europe,Sweden,Elevator,Commercial,2019,6,Full Maintenance,False,False
+EQ01553,Americas,Mexico,Elevator,Commercial,2009,16,Basic Maintenance,False,True
+EQ01554,APMEA,Saudi Arabia,Escalator,Commercial,2007,18,Full Maintenance,False,True
+EQ01555,Greater China,China,Escalator,Commercial,2024,1,Basic Maintenance,False,False
+EQ01556,Greater China,China,Elevator,Residential,1995,30,Full Maintenance,False,False
+EQ01557,Europe,Sweden,Elevator,Residential,2021,4,Full Maintenance,True,True
+EQ01558,Europe,France,Elevator,Industrial,1999,26,Basic Maintenance,False,False
+EQ01559,Americas,Brazil,Elevator,Commercial,2018,7,Repair Only,True,False
+EQ01560,APMEA,Australia,Escalator,Industrial,2013,12,Full Maintenance,True,True
+EQ01561,Greater China,China,Elevator,Industrial,2005,20,Basic Maintenance,False,False
+EQ01562,Greater China,China,Escalator,Residential,2021,4,Full Maintenance,False,True
+EQ01563,Americas,Mexico,Autowalk,Healthcare,1995,30,Basic Maintenance,False,False
+EQ01564,Greater China,China,Elevator,Commercial,2001,24,Full Maintenance,True,False
+EQ01565,Americas,Brazil,Automatic Door,Commercial,2012,13,Basic Maintenance,True,False
+EQ01566,Europe,Poland,Elevator,Residential,2005,20,Full Maintenance,True,False
+EQ01567,Americas,Canada,Elevator,Commercial,2013,12,Full Maintenance,True,False
+EQ01568,Greater China,China,Elevator,Residential,1995,30,Full Maintenance,True,False
+EQ01569,Europe,Germany,Elevator,Residential,1998,27,Full Maintenance,False,False
+EQ01570,Europe,Germany,Elevator,Commercial,1998,27,Repair Only,False,False
+EQ01571,Europe,France,Elevator,Commercial,2000,25,Repair Only,False,False
+EQ01572,Greater China,China,Escalator,Residential,2008,17,Basic Maintenance,False,True
+EQ01573,Americas,USA,Autowalk,Residential,2017,8,Full Maintenance,True,False
+EQ01574,APMEA,Saudi Arabia,Escalator,Residential,2022,3,Full Maintenance,False,False
+EQ01575,Greater China,China,Elevator,Commercial,2020,5,Basic Maintenance,False,True
+EQ01576,Greater China,China,Escalator,Commercial,2000,25,Repair Only,False,False
+EQ01577,Greater China,China,Elevator,Commercial,2008,17,Full Maintenance,False,False
+EQ01578,Europe,Finland,Escalator,Commercial,2000,25,Basic Maintenance,False,False
+EQ01579,Europe,Finland,Escalator,Public / Transport,2002,23,Repair Only,True,False
+EQ01580,Europe,Finland,Autowalk,Commercial,2010,15,Repair Only,False,False
+EQ01581,Greater China,China,Elevator,Industrial,1997,28,Full Maintenance,True,False
+EQ01582,Greater China,China,Escalator,Public / Transport,2001,24,Full Maintenance,True,False
+EQ01583,Europe,Germany,Elevator,Commercial,2023,2,Full Maintenance,True,False
+EQ01584,Europe,Sweden,Automatic Door,Residential,2008,17,Full Maintenance,False,False
+EQ01585,APMEA,Australia,Elevator,Healthcare,2008,17,Full Maintenance,False,False
+EQ01586,Greater China,China,Elevator,Public / Transport,1995,30,Full Maintenance,True,False
+EQ01587,Americas,Canada,Elevator,Residential,2002,23,Basic Maintenance,False,True
+EQ01588,Europe,Poland,Escalator,Public / Transport,2020,5,Full Maintenance,False,True
+EQ01589,Europe,Poland,Elevator,Public / Transport,1999,26,Full Maintenance,False,False
+EQ01590,Americas,USA,Elevator,Residential,2007,18,Basic Maintenance,False,True
+EQ01591,Americas,Brazil,Automatic Door,Public / Transport,1995,30,Basic Maintenance,False,False
+EQ01592,APMEA,Australia,Autowalk,Residential,2009,16,Basic Maintenance,False,False
+EQ01593,Greater China,China,Elevator,Residential,1995,30,Full Maintenance,False,True
+EQ01594,Greater China,China,Elevator,Healthcare,2019,6,Basic Maintenance,False,True
+EQ01595,Americas,Mexico,Escalator,Public / Transport,2019,6,Basic Maintenance,False,False
+EQ01596,Europe,Finland,Autowalk,Residential,2018,7,Full Maintenance,True,False
+EQ01597,Greater China,China,Elevator,Commercial,2003,22,Basic Maintenance,False,False
+EQ01598,Greater China,China,Elevator,Residential,2020,5,Full Maintenance,True,False
+EQ01599,Greater China,China,Elevator,Industrial,2011,14,Full Maintenance,False,True
+EQ01600,APMEA,South Korea,Escalator,Industrial,2006,19,Full Maintenance,True,True
+EQ01601,Greater China,China,Elevator,Healthcare,2013,12,Full Maintenance,False,False
+EQ01602,Greater China,China,Elevator,Public / Transport,1995,30,Full Maintenance,False,False
+EQ01603,Greater China,China,Elevator,Residential,1999,26,Basic Maintenance,False,True
+EQ01604,Greater China,China,Autowalk,Commercial,2017,8,Full Maintenance,False,False
+EQ01605,Greater China,China,Elevator,Residential,2002,23,Repair Only,False,False
+EQ01606,Europe,Netherlands,Elevator,Industrial,2012,13,Basic Maintenance,False,True
+EQ01607,Greater China,China,Elevator,Residential,2006,19,Full Maintenance,False,True
+EQ01608,Americas,USA,Escalator,Residential,2020,5,Full Maintenance,True,False
+EQ01609,Greater China,China,Elevator,Residential,2023,2,Basic Maintenance,False,True
+EQ01610,Europe,Sweden,Escalator,Commercial,2021,4,Basic Maintenance,False,True
+EQ01611,APMEA,Saudi Arabia,Elevator,Commercial,2003,22,Full Maintenance,False,False
+EQ01612,Americas,Brazil,Autowalk,Residential,2000,25,Full Maintenance,False,False
+EQ01613,Europe,Finland,Elevator,Commercial,2009,16,Basic Maintenance,False,False
+EQ01614,Greater China,China,Elevator,Residential,1995,30,Full Maintenance,True,True
+EQ01615,Greater China,China,Elevator,Residential,1995,30,Repair Only,False,False
+EQ01616,Americas,USA,Escalator,Residential,2011,14,Basic Maintenance,True,False
+EQ01617,APMEA,UAE,Elevator,Commercial,2010,15,Full Maintenance,True,True
+EQ01618,Americas,Brazil,Autowalk,Public / Transport,2024,1,Full Maintenance,False,True
+EQ01619,Europe,Finland,Escalator,Residential,2001,24,Full Maintenance,False,False
+EQ01620,Americas,Brazil,Elevator,Industrial,2002,23,Basic Maintenance,True,False
+EQ01621,Europe,Germany,Automatic Door,Industrial,1998,27,Full Maintenance,False,False
+EQ01622,Greater China,China,Elevator,Commercial,2022,3,Full Maintenance,False,True
+EQ01623,Europe,Netherlands,Escalator,Residential,2018,7,Basic Maintenance,False,False
+EQ01624,APMEA,Saudi Arabia,Elevator,Healthcare,2019,6,Full Maintenance,False,False
+EQ01625,Greater China,China,Elevator,Public / Transport,2022,3,Full Maintenance,False,False
+EQ01626,Americas,Mexico,Escalator,Healthcare,2010,15,Basic Maintenance,True,False
+EQ01627,Greater China,China,Elevator,Industrial,2008,17,Full Maintenance,False,True
+EQ01628,Europe,Germany,Elevator,Commercial,2004,21,Repair Only,True,False
+EQ01629,Greater China,China,Elevator,Commercial,2012,13,Basic Maintenance,False,True
+EQ01630,Europe,France,Elevator,Residential,2008,17,Full Maintenance,False,True
+EQ01631,Americas,USA,Escalator,Residential,2008,17,Full Maintenance,False,False
+EQ01632,Greater China,China,Elevator,Commercial,2023,2,Full Maintenance,True,False
+EQ01633,Americas,Brazil,Autowalk,Public / Transport,2024,1,Basic Maintenance,True,True
+EQ01634,Americas,USA,Elevator,Residential,2018,7,Full Maintenance,False,False
+EQ01635,APMEA,Saudi Arabia,Elevator,Residential,2017,8,Repair Only,False,True
+EQ01636,Greater China,China,Escalator,Public / Transport,2015,10,Basic Maintenance,False,False
+EQ01637,Greater China,China,Elevator,Public / Transport,1999,26,Full Maintenance,False,False
+EQ01638,Greater China,China,Automatic Door,Residential,1996,29,Basic Maintenance,False,True
+EQ01639,APMEA,UAE,Escalator,Public / Transport,2015,10,Full Maintenance,True,True
+EQ01640,APMEA,South Korea,Elevator,Public / Transport,2016,9,Basic Maintenance,True,False
+EQ01641,Europe,Finland,Elevator,Residential,1996,29,Basic Maintenance,False,True
+EQ01642,APMEA,Australia,Elevator,Commercial,2022,3,Full Maintenance,False,True
+EQ01643,Europe,Germany,Elevator,Commercial,1997,28,Full Maintenance,True,False
+EQ01644,Europe,Sweden,Escalator,Residential,2003,22,Repair Only,True,True
+EQ01645,Greater China,China,Elevator,Residential,2015,10,Basic Maintenance,False,False
+EQ01646,Americas,USA,Elevator,Healthcare,2000,25,Repair Only,True,True
+EQ01647,Greater China,China,Elevator,Public / Transport,1996,29,Full Maintenance,False,False
+EQ01648,Americas,Mexico,Elevator,Public / Transport,2004,21,Full Maintenance,False,False
+EQ01649,Americas,Brazil,Elevator,Healthcare,2017,8,Full Maintenance,True,True
+EQ01650,Americas,USA,Autowalk,Public / Transport,2007,18,Basic Maintenance,True,False
+EQ01651,Greater China,China,Escalator,Residential,2014,11,Full Maintenance,False,True
+EQ01652,Greater China,China,Escalator,Commercial,2012,13,Full Maintenance,False,False
+EQ01653,Greater China,China,Escalator,Industrial,1995,30,Basic Maintenance,False,False
+EQ01654,Greater China,China,Elevator,Residential,2024,1,Full Maintenance,False,False
+EQ01655,Greater China,China,Autowalk,Residential,1996,29,Full Maintenance,False,True
+EQ01656,APMEA,Australia,Elevator,Residential,2024,1,Full Maintenance,False,True
+EQ01657,Europe,Sweden,Elevator,Healthcare,2011,14,Basic Maintenance,False,False
+EQ01658,Greater China,China,Elevator,Residential,2023,2,Full Maintenance,True,False
+EQ01659,Greater China,China,Elevator,Public / Transport,1998,27,Full Maintenance,False,True
+EQ01660,Europe,Sweden,Escalator,Commercial,2009,16,Full Maintenance,False,True
+EQ01661,Europe,France,Elevator,Industrial,2000,25,Basic Maintenance,False,True
+EQ01662,Europe,Sweden,Escalator,Commercial,1996,29,Basic Maintenance,False,False
+EQ01663,APMEA,South Korea,Elevator,Public / Transport,2013,12,Full Maintenance,False,True
+EQ01664,Europe,Finland,Elevator,Commercial,2001,24,Full Maintenance,False,False
+EQ01665,APMEA,Saudi Arabia,Escalator,Industrial,2012,13,Repair Only,True,True
+EQ01666,APMEA,UAE,Elevator,Commercial,1998,27,Repair Only,True,False
+EQ01667,Greater China,China,Elevator,Commercial,2004,21,Basic Maintenance,False,True
+EQ01668,APMEA,India,Elevator,Residential,2018,7,Repair Only,True,False
+EQ01669,Greater China,China,Elevator,Residential,2008,17,Basic Maintenance,False,True
+EQ01670,Americas,Mexico,Escalator,Commercial,2013,12,Basic Maintenance,False,True
+EQ01671,Greater China,China,Elevator,Residential,2014,11,Full Maintenance,False,False
+EQ01672,APMEA,India,Automatic Door,Industrial,2020,5,Full Maintenance,False,True
+EQ01673,APMEA,India,Autowalk,Industrial,2004,21,Full Maintenance,False,True
+EQ01674,Americas,USA,Escalator,Commercial,2015,10,Basic Maintenance,True,False
+EQ01675,Americas,Mexico,Escalator,Industrial,2023,2,Repair Only,True,False
+EQ01676,Greater China,China,Elevator,Commercial,2016,9,Basic Maintenance,False,True
+EQ01677,Greater China,China,Escalator,Residential,2009,16,Full Maintenance,True,False
+EQ01678,Europe,France,Elevator,Commercial,2013,12,Full Maintenance,False,False
+EQ01679,Greater China,China,Elevator,Residential,2017,8,Full Maintenance,True,True
+EQ01680,Americas,Brazil,Automatic Door,Commercial,2013,12,Full Maintenance,False,False
+EQ01681,Greater China,China,Elevator,Healthcare,1995,30,Basic Maintenance,False,False
+EQ01682,APMEA,Saudi Arabia,Elevator,Residential,2000,25,Repair Only,True,False
+EQ01683,Europe,Sweden,Elevator,Commercial,2019,6,Full Maintenance,False,True
+EQ01684,Americas,Canada,Elevator,Commercial,2003,22,Full Maintenance,False,True
+EQ01685,Greater China,China,Elevator,Public / Transport,2016,9,Basic Maintenance,False,False
+EQ01686,APMEA,India,Elevator,Residential,2006,19,Full Maintenance,False,False
+EQ01687,APMEA,South Korea,Elevator,Industrial,2010,15,Repair Only,False,True
+EQ01688,Europe,Poland,Elevator,Healthcare,1997,28,Full Maintenance,False,False
+EQ01689,Europe,Netherlands,Elevator,Healthcare,2000,25,Full Maintenance,False,False
+EQ01690,Americas,Mexico,Elevator,Industrial,2023,2,Full Maintenance,False,True
+EQ01691,Greater China,China,Escalator,Commercial,2021,4,Full Maintenance,True,False
+EQ01692,Europe,Finland,Elevator,Public / Transport,2014,11,Basic Maintenance,False,False
+EQ01693,Greater China,China,Escalator,Commercial,2008,17,Full Maintenance,False,True
+EQ01694,Greater China,China,Automatic Door,Industrial,2015,10,Full Maintenance,False,False
+EQ01695,Greater China,China,Escalator,Industrial,2013,12,Full Maintenance,False,True
+EQ01696,Greater China,China,Autowalk,Public / Transport,2012,13,Full Maintenance,False,True
+EQ01697,Greater China,China,Autowalk,Residential,1996,29,Full Maintenance,False,False
+EQ01698,Greater China,China,Elevator,Residential,2013,12,Full Maintenance,False,False
+EQ01699,APMEA,UAE,Escalator,Healthcare,2018,7,Basic Maintenance,False,False
+EQ01700,Europe,Germany,Autowalk,Commercial,2024,1,Repair Only,False,False
+EQ01701,APMEA,UAE,Elevator,Residential,1995,30,Full Maintenance,False,False
+EQ01702,Europe,Netherlands,Elevator,Residential,2016,9,Full Maintenance,False,False
+EQ01703,Greater China,China,Autowalk,Healthcare,2012,13,Full Maintenance,False,True
+EQ01704,Europe,Finland,Escalator,Commercial,2008,17,Full Maintenance,False,False
+EQ01705,Europe,Netherlands,Elevator,Commercial,1998,27,Basic Maintenance,True,False
+EQ01706,Greater China,China,Elevator,Commercial,2007,18,Basic Maintenance,True,True
+EQ01707,Europe,Finland,Escalator,Commercial,2005,20,Basic Maintenance,False,False
+EQ01708,Greater China,China,Elevator,Healthcare,2004,21,Full Maintenance,False,False
+EQ01709,Europe,Sweden,Elevator,Industrial,2016,9,Full Maintenance,False,False
+EQ01710,Americas,Canada,Escalator,Industrial,2016,9,Repair Only,False,True
+EQ01711,Greater China,China,Elevator,Residential,2012,13,Full Maintenance,False,False
+EQ01712,Greater China,China,Elevator,Public / Transport,2023,2,Full Maintenance,True,True
+EQ01713,Americas,USA,Escalator,Commercial,2005,20,Repair Only,False,True
+EQ01714,Europe,Sweden,Escalator,Residential,2002,23,Basic Maintenance,False,False
+EQ01715,Greater China,China,Elevator,Residential,2014,11,Basic Maintenance,False,False
+EQ01716,APMEA,Saudi Arabia,Elevator,Commercial,2000,25,Full Maintenance,False,True
+EQ01717,Greater China,China,Elevator,Residential,2004,21,Full Maintenance,True,True
+EQ01718,Americas,Brazil,Automatic Door,Residential,2001,24,Full Maintenance,False,False
+EQ01719,APMEA,Australia,Elevator,Commercial,1997,28,Basic Maintenance,True,False
+EQ01720,Greater China,China,Elevator,Commercial,2019,6,Full Maintenance,False,False
+EQ01721,Greater China,China,Elevator,Public / Transport,2002,23,Basic Maintenance,False,False
+EQ01722,Greater China,China,Escalator,Commercial,2009,16,Basic Maintenance,False,True
+EQ01723,Greater China,China,Elevator,Healthcare,1996,29,Full Maintenance,False,True
+EQ01724,Greater China,China,Elevator,Commercial,2015,10,Full Maintenance,False,True
+EQ01725,Americas,Mexico,Elevator,Public / Transport,2004,21,Full Maintenance,False,True
+EQ01726,Greater China,China,Escalator,Public / Transport,2017,8,Basic Maintenance,False,True
+EQ01727,Europe,Finland,Elevator,Healthcare,2007,18,Basic Maintenance,True,True
+EQ01728,APMEA,India,Elevator,Public / Transport,2000,25,Basic Maintenance,False,False
+EQ01729,Americas,Canada,Elevator,Commercial,2010,15,Full Maintenance,False,True
+EQ01730,Europe,France,Autowalk,Residential,1998,27,Full Maintenance,False,False
+EQ01731,Greater China,China,Elevator,Residential,2008,17,Basic Maintenance,False,False
+EQ01732,Europe,Poland,Elevator,Commercial,2004,21,Full Maintenance,False,False
+EQ01733,Europe,Poland,Elevator,Commercial,2022,3,Basic Maintenance,False,False
+EQ01734,Europe,Finland,Automatic Door,Public / Transport,1996,29,Basic Maintenance,False,False
+EQ01735,Greater China,China,Elevator,Residential,2015,10,Full Maintenance,False,True
+EQ01736,APMEA,Saudi Arabia,Automatic Door,Residential,2000,25,Full Maintenance,False,True
+EQ01737,Europe,Sweden,Escalator,Healthcare,2004,21,Full Maintenance,False,True
+EQ01738,Greater China,China,Elevator,Industrial,2007,18,Full Maintenance,False,True
+EQ01739,Greater China,China,Escalator,Industrial,2022,3,Basic Maintenance,False,False
+EQ01740,Europe,Sweden,Elevator,Public / Transport,2002,23,Basic Maintenance,True,False
+EQ01741,Americas,USA,Elevator,Commercial,1997,28,Repair Only,False,False
+EQ01742,Americas,Canada,Elevator,Residential,2004,21,Basic Maintenance,True,True
+EQ01743,Americas,USA,Elevator,Healthcare,1998,27,Full Maintenance,True,False
+EQ01744,Greater China,China,Autowalk,Healthcare,1998,27,Full Maintenance,False,True
+EQ01745,Europe,Netherlands,Elevator,Public / Transport,2012,13,Basic Maintenance,False,False
+EQ01746,Europe,Germany,Autowalk,Residential,1996,29,Full Maintenance,True,True
+EQ01747,Greater China,China,Elevator,Public / Transport,1995,30,Basic Maintenance,False,True
+EQ01748,Greater China,China,Elevator,Commercial,2016,9,Basic Maintenance,False,True
+EQ01749,Americas,Brazil,Autowalk,Commercial,2005,20,Full Maintenance,False,False
+EQ01750,Greater China,China,Elevator,Residential,1998,27,Full Maintenance,False,True
+EQ01751,Europe,Netherlands,Escalator,Residential,2002,23,Basic Maintenance,True,True
+EQ01752,Greater China,China,Elevator,Commercial,2014,11,Repair Only,False,False
+EQ01753,Greater China,China,Elevator,Residential,2003,22,Full Maintenance,False,False
+EQ01754,Greater China,China,Escalator,Commercial,2009,16,Repair Only,False,True
+EQ01755,APMEA,Saudi Arabia,Elevator,Residential,1998,27,Basic Maintenance,False,False
+EQ01756,Americas,Mexico,Elevator,Public / Transport,2012,13,Repair Only,False,True
+EQ01757,APMEA,South Korea,Automatic Door,Industrial,2004,21,Full Maintenance,False,True
+EQ01758,Europe,Netherlands,Escalator,Commercial,2013,12,Full Maintenance,True,False
+EQ01759,Greater China,China,Autowalk,Residential,2019,6,Basic Maintenance,False,False
+EQ01760,Europe,Poland,Escalator,Industrial,2013,12,Repair Only,False,False
+EQ01761,Europe,Poland,Escalator,Residential,2003,22,Full Maintenance,False,False
+EQ01762,APMEA,India,Elevator,Residential,2002,23,Basic Maintenance,False,False
+EQ01763,Greater China,China,Elevator,Residential,2004,21,Repair Only,True,False
+EQ01764,Europe,Netherlands,Autowalk,Healthcare,1999,26,Full Maintenance,False,False
+EQ01765,Greater China,China,Elevator,Commercial,2000,25,Basic Maintenance,False,False
+EQ01766,Greater China,China,Elevator,Residential,2018,7,Repair Only,False,True
+EQ01767,Americas,USA,Elevator,Residential,2006,19,Full Maintenance,False,False
+EQ01768,Europe,Netherlands,Elevator,Residential,2008,17,Full Maintenance,False,False
+EQ01769,Greater China,China,Autowalk,Commercial,2012,13,Basic Maintenance,False,False
+EQ01770,Greater China,China,Autowalk,Commercial,2012,13,Full Maintenance,True,False
+EQ01771,Europe,France,Elevator,Commercial,1997,28,Full Maintenance,False,True
+EQ01772,Americas,Brazil,Elevator,Healthcare,2019,6,Repair Only,False,False
+EQ01773,APMEA,South Korea,Escalator,Industrial,2000,25,Basic Maintenance,True,True
+EQ01774,APMEA,India,Elevator,Industrial,2016,9,Basic Maintenance,False,False
+EQ01775,Americas,USA,Automatic Door,Public / Transport,2018,7,Basic Maintenance,False,False
+EQ01776,Greater China,China,Elevator,Commercial,2016,9,Full Maintenance,False,True
+EQ01777,Americas,Canada,Elevator,Public / Transport,2012,13,Full Maintenance,False,False
+EQ01778,Europe,Poland,Elevator,Residential,1995,30,Full Maintenance,False,False
+EQ01779,Greater China,China,Automatic Door,Residential,2005,20,Full Maintenance,False,True
+EQ01780,APMEA,Australia,Escalator,Public / Transport,2013,12,Basic Maintenance,False,False
+EQ01781,Greater China,China,Escalator,Public / Transport,2006,19,Basic Maintenance,False,False
+EQ01782,APMEA,South Korea,Elevator,Public / Transport,2020,5,Full Maintenance,False,False
+EQ01783,Europe,Netherlands,Escalator,Commercial,2004,21,Full Maintenance,True,True
+EQ01784,Europe,Sweden,Escalator,Healthcare,2003,22,Full Maintenance,False,False
+EQ01785,Americas,Canada,Elevator,Healthcare,2002,23,Full Maintenance,False,False
+EQ01786,APMEA,South Korea,Elevator,Residential,2004,21,Full Maintenance,False,False
+EQ01787,Europe,Sweden,Elevator,Commercial,2011,14,Full Maintenance,True,False
+EQ01788,Europe,Poland,Elevator,Commercial,2016,9,Basic Maintenance,False,False
+EQ01789,Greater China,China,Elevator,Healthcare,2014,11,Full Maintenance,False,False
+EQ01790,Europe,Germany,Elevator,Residential,2019,6,Full Maintenance,False,False
+EQ01791,Greater China,China,Elevator,Residential,2021,4,Basic Maintenance,False,False
+EQ01792,Americas,Canada,Elevator,Commercial,2019,6,Full Maintenance,False,True
+EQ01793,Europe,Finland,Elevator,Commercial,1995,30,Basic Maintenance,False,True
+EQ01794,Americas,Mexico,Autowalk,Industrial,2017,8,Full Maintenance,False,False
+EQ01795,Greater China,China,Elevator,Residential,2001,24,Full Maintenance,False,False
+EQ01796,Greater China,China,Elevator,Healthcare,1998,27,Full Maintenance,False,False
+EQ01797,Americas,Canada,Elevator,Industrial,2014,11,Repair Only,False,False
+EQ01798,Greater China,China,Escalator,Public / Transport,2004,21,Full Maintenance,False,True
+EQ01799,Greater China,China,Elevator,Commercial,1996,29,Repair Only,False,True
+EQ01800,Greater China,China,Escalator,Commercial,1999,26,Full Maintenance,False,True
+EQ01801,APMEA,Australia,Elevator,Residential,1995,30,Full Maintenance,False,False
+EQ01802,Americas,Brazil,Escalator,Residential,2022,3,Full Maintenance,False,True
+EQ01803,Greater China,China,Elevator,Commercial,1995,30,Full Maintenance,True,False
+EQ01804,Greater China,China,Escalator,Healthcare,2001,24,Full Maintenance,False,True
+EQ01805,Greater China,China,Elevator,Residential,2007,18,Full Maintenance,False,False
+EQ01806,Americas,USA,Elevator,Commercial,2005,20,Full Maintenance,False,False
+EQ01807,Americas,Brazil,Elevator,Commercial,2022,3,Full Maintenance,False,False
+EQ01808,Greater China,China,Elevator,Commercial,1996,29,Full Maintenance,False,True
+EQ01809,Greater China,China,Automatic Door,Healthcare,2010,15,Full Maintenance,True,False
+EQ01810,Greater China,China,Escalator,Commercial,2015,10,Full Maintenance,False,True
+EQ01811,Americas,Brazil,Elevator,Residential,2022,3,Basic Maintenance,True,True
+EQ01812,Americas,Canada,Elevator,Industrial,2013,12,Repair Only,False,True
+EQ01813,Greater China,China,Autowalk,Commercial,2019,6,Full Maintenance,True,True
+EQ01814,Greater China,China,Elevator,Commercial,1997,28,Full Maintenance,True,True
+EQ01815,Greater China,China,Escalator,Commercial,2006,19,Full Maintenance,True,True
+EQ01816,APMEA,India,Autowalk,Residential,2006,19,Repair Only,False,True
+EQ01817,Greater China,China,Autowalk,Commercial,2021,4,Full Maintenance,False,False
+EQ01818,Americas,Mexico,Elevator,Commercial,1999,26,Basic Maintenance,False,False
+EQ01819,Europe,Poland,Elevator,Public / Transport,1999,26,Full Maintenance,True,False
+EQ01820,Greater China,China,Elevator,Commercial,2004,21,Full Maintenance,False,True
+EQ01821,Greater China,China,Escalator,Public / Transport,1996,29,Full Maintenance,False,False
+EQ01822,Greater China,China,Elevator,Public / Transport,2000,25,Full Maintenance,False,False
+EQ01823,Europe,Netherlands,Elevator,Residential,2023,2,Repair Only,False,True
+EQ01824,Americas,Mexico,Elevator,Residential,2007,18,Full Maintenance,True,False
+EQ01825,Europe,Sweden,Elevator,Commercial,2013,12,Basic Maintenance,False,False
+EQ01826,Europe,France,Escalator,Industrial,2016,9,Basic Maintenance,False,False
+EQ01827,Greater China,China,Elevator,Residential,2006,19,Basic Maintenance,True,False
+EQ01828,APMEA,India,Elevator,Industrial,1999,26,Full Maintenance,False,False
+EQ01829,Americas,Mexico,Elevator,Commercial,2001,24,Full Maintenance,False,False
+EQ01830,Greater China,China,Autowalk,Healthcare,2004,21,Full Maintenance,True,True
+EQ01831,APMEA,Australia,Elevator,Commercial,2014,11,Full Maintenance,False,True
+EQ01832,Europe,Netherlands,Escalator,Residential,2006,19,Basic Maintenance,False,True
+EQ01833,Europe,Germany,Autowalk,Residential,1995,30,Full Maintenance,False,True
+EQ01834,Americas,Canada,Elevator,Commercial,2010,15,Basic Maintenance,False,True
+EQ01835,Americas,USA,Elevator,Residential,2022,3,Full Maintenance,False,True
+EQ01836,Americas,Mexico,Autowalk,Public / Transport,2019,6,Repair Only,False,False
+EQ01837,Greater China,China,Elevator,Public / Transport,2019,6,Full Maintenance,False,True
+EQ01838,Greater China,China,Elevator,Public / Transport,2018,7,Full Maintenance,True,True
+EQ01839,APMEA,Saudi Arabia,Elevator,Residential,2004,21,Repair Only,False,False
+EQ01840,Greater China,China,Elevator,Residential,2017,8,Full Maintenance,False,False
+EQ01841,Greater China,China,Escalator,Commercial,1999,26,Repair Only,False,True
+EQ01842,Europe,Finland,Autowalk,Residential,2014,11,Full Maintenance,False,False
+EQ01843,Europe,Netherlands,Escalator,Commercial,2014,11,Full Maintenance,False,False
+EQ01844,Europe,Germany,Elevator,Residential,1995,30,Basic Maintenance,True,False
+EQ01845,APMEA,Saudi Arabia,Elevator,Residential,2018,7,Repair Only,True,True
+EQ01846,Greater China,China,Elevator,Residential,2022,3,Full Maintenance,True,False
+EQ01847,Greater China,China,Elevator,Residential,2003,22,Repair Only,False,False
+EQ01848,Greater China,China,Escalator,Healthcare,2019,6,Basic Maintenance,False,True
+EQ01849,APMEA,UAE,Elevator,Residential,1997,28,Basic Maintenance,False,True
+EQ01850,Europe,Poland,Escalator,Healthcare,2012,13,Full Maintenance,False,True
+EQ01851,Greater China,China,Elevator,Public / Transport,2009,16,Full Maintenance,False,False
+EQ01852,Americas,USA,Elevator,Residential,2011,14,Repair Only,False,True
+EQ01853,APMEA,Australia,Elevator,Residential,2022,3,Repair Only,False,False
+EQ01854,APMEA,UAE,Elevator,Commercial,2021,4,Full Maintenance,False,True
+EQ01855,APMEA,India,Elevator,Public / Transport,2018,7,Full Maintenance,False,False
+EQ01856,Greater China,China,Escalator,Residential,2003,22,Full Maintenance,False,False
+EQ01857,Americas,Canada,Escalator,Healthcare,2022,3,Basic Maintenance,False,True
+EQ01858,Europe,Sweden,Escalator,Residential,1997,28,Full Maintenance,False,False
+EQ01859,APMEA,South Korea,Automatic Door,Public / Transport,2020,5,Full Maintenance,True,True
+EQ01860,Americas,USA,Elevator,Public / Transport,2004,21,Full Maintenance,True,True
+EQ01861,Americas,USA,Elevator,Residential,1996,29,Basic Maintenance,False,False
+EQ01862,Americas,Brazil,Elevator,Commercial,2015,10,Full Maintenance,False,True
+EQ01863,Greater China,China,Escalator,Residential,2001,24,Full Maintenance,True,False
+EQ01864,Europe,Germany,Elevator,Residential,2002,23,Basic Maintenance,False,True
+EQ01865,APMEA,Saudi Arabia,Escalator,Commercial,2004,21,Basic Maintenance,False,True
+EQ01866,APMEA,India,Elevator,Public / Transport,1996,29,Full Maintenance,False,False
+EQ01867,Greater China,China,Autowalk,Residential,2000,25,Full Maintenance,True,False
+EQ01868,Greater China,China,Autowalk,Healthcare,1995,30,Basic Maintenance,True,True
+EQ01869,Greater China,China,Elevator,Public / Transport,2008,17,Basic Maintenance,True,False
+EQ01870,Americas,Canada,Elevator,Residential,1997,28,Basic Maintenance,True,True
+EQ01871,Americas,Mexico,Elevator,Healthcare,2015,10,Repair Only,False,False
+EQ01872,Greater China,China,Elevator,Residential,2002,23,Basic Maintenance,False,True
+EQ01873,Europe,France,Elevator,Public / Transport,2023,2,Basic Maintenance,False,True
+EQ01874,APMEA,South Korea,Escalator,Residential,2021,4,Full Maintenance,False,False
+EQ01875,Americas,Mexico,Elevator,Residential,2003,22,Full Maintenance,False,True
+EQ01876,Europe,Sweden,Elevator,Residential,2018,7,Full Maintenance,True,True
+EQ01877,Europe,Netherlands,Escalator,Residential,2019,6,Full Maintenance,True,True
+EQ01878,Europe,France,Elevator,Residential,2024,1,Full Maintenance,True,False
+EQ01879,Greater China,China,Elevator,Residential,2012,13,Full Maintenance,True,False
+EQ01880,Europe,Finland,Elevator,Residential,1997,28,Basic Maintenance,False,False
+EQ01881,Americas,Mexico,Escalator,Healthcare,2014,11,Full Maintenance,True,False
+EQ01882,APMEA,UAE,Elevator,Residential,2013,12,Full Maintenance,True,False
+EQ01883,Europe,Finland,Autowalk,Residential,2014,11,Repair Only,False,True
+EQ01884,Americas,Brazil,Elevator,Industrial,2004,21,Full Maintenance,False,True
+EQ01885,Greater China,China,Elevator,Public / Transport,2020,5,Full Maintenance,True,False
+EQ01886,Europe,Finland,Elevator,Healthcare,2023,2,Full Maintenance,True,True
+EQ01887,Greater China,China,Elevator,Residential,2001,24,Repair Only,True,True
+EQ01888,Greater China,China,Elevator,Commercial,1997,28,Full Maintenance,False,False
+EQ01889,Americas,Mexico,Elevator,Residential,2000,25,Basic Maintenance,False,False
+EQ01890,APMEA,South Korea,Elevator,Residential,2019,6,Full Maintenance,False,True
+EQ01891,Greater China,China,Elevator,Public / Transport,2015,10,Full Maintenance,False,True
+EQ01892,Europe,Poland,Elevator,Residential,2014,11,Full Maintenance,False,False
+EQ01893,Americas,Brazil,Escalator,Healthcare,2007,18,Basic Maintenance,True,False
+EQ01894,Greater China,China,Elevator,Residential,2012,13,Basic Maintenance,False,False
+EQ01895,Europe,Netherlands,Elevator,Healthcare,2004,21,Basic Maintenance,False,True
+EQ01896,Americas,Mexico,Escalator,Commercial,2009,16,Basic Maintenance,False,False
+EQ01897,Europe,France,Elevator,Public / Transport,2018,7,Full Maintenance,False,True
+EQ01898,Greater China,China,Escalator,Healthcare,2024,1,Basic Maintenance,False,False
+EQ01899,Greater China,China,Elevator,Healthcare,2022,3,Full Maintenance,False,True
+EQ01900,Americas,USA,Elevator,Commercial,2023,2,Basic Maintenance,True,True
+EQ01901,Europe,Finland,Autowalk,Commercial,2007,18,Full Maintenance,False,True
+EQ01902,Greater China,China,Elevator,Industrial,2009,16,Full Maintenance,True,False
+EQ01903,Americas,USA,Escalator,Commercial,2016,9,Full Maintenance,False,False
+EQ01904,Greater China,China,Elevator,Commercial,2022,3,Full Maintenance,True,True
+EQ01905,Americas,Canada,Elevator,Commercial,1999,26,Full Maintenance,False,False
+EQ01906,Greater China,China,Autowalk,Residential,2004,21,Basic Maintenance,False,True
+EQ01907,APMEA,Australia,Elevator,Residential,1999,26,Full Maintenance,False,False
+EQ01908,Greater China,China,Escalator,Commercial,2013,12,Full Maintenance,False,True
+EQ01909,Greater China,China,Elevator,Commercial,2004,21,Basic Maintenance,False,False
+EQ01910,Greater China,China,Elevator,Residential,2004,21,Full Maintenance,False,True
+EQ01911,Greater China,China,Elevator,Residential,1997,28,Basic Maintenance,True,False
+EQ01912,APMEA,Saudi Arabia,Autowalk,Commercial,2005,20,Basic Maintenance,False,False
+EQ01913,APMEA,South Korea,Elevator,Residential,2020,5,Repair Only,True,True
+EQ01914,Greater China,China,Elevator,Healthcare,2001,24,Basic Maintenance,True,True
+EQ01915,Europe,Netherlands,Autowalk,Healthcare,2015,10,Full Maintenance,True,True
+EQ01916,Americas,Brazil,Escalator,Healthcare,2013,12,Full Maintenance,False,False
+EQ01917,APMEA,Saudi Arabia,Elevator,Public / Transport,2020,5,Full Maintenance,False,True
+EQ01918,Europe,Germany,Elevator,Residential,1998,27,Repair Only,True,False
+EQ01919,Greater China,China,Elevator,Industrial,2024,1,Full Maintenance,False,False
+EQ01920,Europe,Netherlands,Elevator,Residential,2012,13,Full Maintenance,False,True
+EQ01921,Americas,Canada,Elevator,Residential,2024,1,Full Maintenance,False,True
+EQ01922,Greater China,China,Escalator,Residential,2022,3,Basic Maintenance,False,False
+EQ01923,Europe,Finland,Elevator,Residential,2001,24,Full Maintenance,True,False
+EQ01924,Greater China,China,Escalator,Residential,1996,29,Repair Only,False,False
+EQ01925,Americas,Brazil,Escalator,Commercial,2002,23,Full Maintenance,True,True
+EQ01926,Greater China,China,Elevator,Public / Transport,2010,15,Full Maintenance,False,True
+EQ01927,Europe,Sweden,Elevator,Commercial,2000,25,Full Maintenance,False,False
+EQ01928,Europe,Netherlands,Elevator,Commercial,2000,25,Basic Maintenance,False,False
+EQ01929,Europe,Germany,Elevator,Commercial,2008,17,Repair Only,True,False
+EQ01930,Greater China,China,Escalator,Residential,1995,30,Full Maintenance,True,True
+EQ01931,Europe,France,Elevator,Commercial,1998,27,Full Maintenance,True,True
+EQ01932,Europe,Netherlands,Elevator,Healthcare,2007,18,Basic Maintenance,False,True
+EQ01933,Europe,Poland,Elevator,Residential,1996,29,Full Maintenance,False,False
+EQ01934,Europe,Finland,Elevator,Residential,2006,19,Full Maintenance,False,True
+EQ01935,Americas,USA,Elevator,Residential,2009,16,Full Maintenance,True,False
+EQ01936,Americas,Brazil,Elevator,Residential,2008,17,Full Maintenance,False,False
+EQ01937,Greater China,China,Elevator,Public / Transport,2021,4,Full Maintenance,True,True
+EQ01938,Americas,Canada,Elevator,Residential,2010,15,Full Maintenance,True,True
+EQ01939,Europe,Netherlands,Autowalk,Industrial,2009,16,Full Maintenance,False,False
+EQ01940,Greater China,China,Escalator,Healthcare,2007,18,Basic Maintenance,False,True
+EQ01941,Greater China,China,Elevator,Public / Transport,2019,6,Full Maintenance,False,True
+EQ01942,Greater China,China,Elevator,Industrial,2021,4,Basic Maintenance,True,True
+EQ01943,Americas,Brazil,Elevator,Commercial,2020,5,Full Maintenance,False,False
+EQ01944,Americas,Canada,Elevator,Residential,2015,10,Basic Maintenance,False,False
+EQ01945,Americas,USA,Elevator,Residential,1999,26,Full Maintenance,False,False
+EQ01946,Europe,Germany,Elevator,Industrial,2003,22,Basic Maintenance,False,False
+EQ01947,Europe,Finland,Elevator,Public / Transport,1996,29,Full Maintenance,False,False
+EQ01948,Greater China,China,Elevator,Industrial,2022,3,Repair Only,True,False
+EQ01949,Greater China,China,Elevator,Public / Transport,2014,11,Full Maintenance,False,False
+EQ01950,Europe,Germany,Elevator,Commercial,2017,8,Full Maintenance,False,False
+EQ01951,Greater China,China,Escalator,Commercial,2004,21,Repair Only,True,True
+EQ01952,Greater China,China,Elevator,Commercial,2020,5,Basic Maintenance,False,False
+EQ01953,Europe,France,Elevator,Healthcare,2002,23,Full Maintenance,True,False
+EQ01954,Americas,USA,Elevator,Public / Transport,1995,30,Repair Only,False,True
+EQ01955,APMEA,UAE,Autowalk,Industrial,2006,19,Full Maintenance,False,False
+EQ01956,APMEA,UAE,Autowalk,Industrial,2012,13,Full Maintenance,True,True
+EQ01957,Europe,Sweden,Escalator,Industrial,2009,16,Repair Only,True,True
+EQ01958,Europe,Sweden,Elevator,Healthcare,2020,5,Full Maintenance,True,False
+EQ01959,Europe,Netherlands,Elevator,Public / Transport,1998,27,Repair Only,False,True
+EQ01960,Americas,Brazil,Escalator,Residential,2011,14,Full Maintenance,False,False
+EQ01961,Greater China,China,Elevator,Industrial,2010,15,Basic Maintenance,True,True
+EQ01962,Europe,Netherlands,Elevator,Commercial,2003,22,Full Maintenance,True,True
+EQ01963,Americas,Brazil,Autowalk,Industrial,2019,6,Repair Only,False,False
+EQ01964,Greater China,China,Elevator,Residential,2017,8,Basic Maintenance,True,False
+EQ01965,Europe,France,Elevator,Commercial,2016,9,Full Maintenance,False,True
+EQ01966,Europe,Finland,Elevator,Public / Transport,2021,4,Basic Maintenance,False,False
+EQ01967,Greater China,China,Elevator,Residential,2016,9,Full Maintenance,False,False
+EQ01968,Greater China,China,Elevator,Healthcare,2001,24,Basic Maintenance,False,True
+EQ01969,Greater China,China,Escalator,Commercial,2016,9,Repair Only,False,True
+EQ01970,Greater China,China,Escalator,Residential,2004,21,Full Maintenance,False,False
+EQ01971,Greater China,China,Elevator,Residential,2002,23,Basic Maintenance,False,False
+EQ01972,Americas,USA,Autowalk,Commercial,1997,28,Full Maintenance,False,True
+EQ01973,Greater China,China,Elevator,Residential,2017,8,Full Maintenance,True,True
+EQ01974,Europe,Netherlands,Elevator,Commercial,2016,9,Full Maintenance,True,False
+EQ01975,Greater China,China,Escalator,Commercial,2002,23,Basic Maintenance,True,True
+EQ01976,APMEA,Saudi Arabia,Escalator,Commercial,2017,8,Full Maintenance,False,False
+EQ01977,Greater China,China,Elevator,Commercial,2022,3,Basic Maintenance,False,False
+EQ01978,Europe,Finland,Autowalk,Industrial,1998,27,Full Maintenance,False,True
+EQ01979,APMEA,India,Escalator,Commercial,2001,24,Basic Maintenance,False,False
+EQ01980,APMEA,Australia,Autowalk,Residential,2017,8,Full Maintenance,False,False
+EQ01981,Greater China,China,Elevator,Public / Transport,2003,22,Basic Maintenance,True,False
+EQ01982,Americas,Canada,Escalator,Residential,2013,12,Full Maintenance,False,False
+EQ01983,Europe,Finland,Automatic Door,Healthcare,1997,28,Full Maintenance,True,False
+EQ01984,Europe,Germany,Escalator,Industrial,2008,17,Full Maintenance,True,False
+EQ01985,Greater China,China,Elevator,Industrial,2017,8,Basic Maintenance,False,True
+EQ01986,Greater China,China,Elevator,Commercial,2015,10,Full Maintenance,False,False
+EQ01987,Americas,USA,Elevator,Public / Transport,2019,6,Basic Maintenance,False,False
+EQ01988,Europe,Netherlands,Elevator,Public / Transport,2021,4,Full Maintenance,False,True
+EQ01989,Europe,Netherlands,Automatic Door,Residential,2018,7,Basic Maintenance,False,True
+EQ01990,Americas,USA,Elevator,Commercial,2015,10,Full Maintenance,False,True
+EQ01991,Americas,Brazil,Elevator,Residential,1995,30,Full Maintenance,False,False
+EQ01992,Greater China,China,Autowalk,Industrial,2011,14,Full Maintenance,False,False
+EQ01993,Europe,Poland,Elevator,Residential,1996,29,Full Maintenance,False,False
+EQ01994,Greater China,China,Elevator,Industrial,2019,6,Full Maintenance,False,True
+EQ01995,Americas,USA,Elevator,Commercial,2004,21,Repair Only,False,False
+EQ01996,Americas,Canada,Elevator,Public / Transport,2011,14,Repair Only,False,True
+EQ01997,APMEA,UAE,Elevator,Commercial,2003,22,Basic Maintenance,False,False
+EQ01998,Greater China,China,Automatic Door,Commercial,2018,7,Full Maintenance,False,True
+EQ01999,Greater China,China,Elevator,Residential,2021,4,Full Maintenance,True,False
+EQ02000,Greater China,China,Elevator,Commercial,2006,19,Basic Maintenance,False,False
