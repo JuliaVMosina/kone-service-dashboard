@@ -92,6 +92,7 @@ def generate_equipment() -> pd.DataFrame:
         'equipment_age':   2025 - install_years,
         'contract_type':   np.random.choice(CONTRACT_TYPES, N_EQUIPMENT, p=CONTRACT_WEIGHTS),
         'is_connected_2023': np.random.rand(N_EQUIPMENT) < CONNECTIVITY_BY_YEAR[2023],
+        'is_connected_2024': np.random.rand(N_EQUIPMENT) < CONNECTIVITY_BY_YEAR[2024],
         'is_connected_2025': np.random.rand(N_EQUIPMENT) < CONNECTIVITY_BY_YEAR[2025],
     })
 
@@ -108,16 +109,17 @@ def generate_service_calls(equipment: pd.DataFrame) -> pd.DataFrame:
         eid         = eq['equipment_id']
         region      = eq['region']
         age         = eq['equipment_age']
-        connected   = eq['is_connected_2025']
         contract    = eq['contract_type']
 
         # Planned maintenance: Full=quarterly, Basic=semi-annual, Repair=annual
         pm_per_year = {'Full Maintenance': 4, 'Basic Maintenance': 2, 'Repair Only': 1}[contract]
 
-        # Emergency call rate increases with age, decreases with connectivity
-        emergency_rate = np.clip(0.3 + age * 0.02 - (0.15 if connected else 0), 0.1, 2.5)
-
         for year in [2023, 2024, 2025]:
+            # Connectivity improves year over year as KONE deploys Accelerate Digital
+            connected = eq[f'is_connected_{year}']
+
+            # Emergency call rate increases with age, decreases with connectivity
+            emergency_rate = np.clip(0.3 + age * 0.02 - (0.15 if connected else 0), 0.1, 2.5)
             # Planned maintenance calls
             for q in range(pm_per_year):
                 month    = int((q * 12 / pm_per_year) + np.random.randint(0, 3)) % 12 + 1
