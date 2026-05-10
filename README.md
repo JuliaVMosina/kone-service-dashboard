@@ -21,6 +21,25 @@ This dashboard answers the questions a Regional VP or Service Director would bri
 
 ---
 
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](assets/executive-overview.png)
+
+### Service Operations
+![Service Operations](assets/service-operations.png)
+
+### Contract Health
+![Contract Health](assets/contract-health.png)
+
+### Digital Connectivity
+![Digital Connectivity](assets/digital-connectivity.png)
+
+### Revenue Trends
+![Revenue Trends](assets/revenue-trends.png)
+
+---
+
 ## Dashboard Pages
 
 | Page | Focus |
